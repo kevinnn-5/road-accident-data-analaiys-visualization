@@ -1,0 +1,1561 @@
+accident_id,date,time,city,road_type,weather,light_condition,vehicle_type,cause,severity,num_vehicles,num_casualties,driver_age,driver_gender,speed_limit
+ACC100783,2023-03-31,18:45,Chennai,State Highway,CLEAR,Dusk/Dawn,Car,Over-speeding,Minor,3,2,22,M,80
+ACC100197,28/03/2023,20:05,chennai,State Highway,Clear,Dark,truck,Over-speeding,serious,2,3,31,Female,60
+ACC101051,24/09/2023,17:21,Trichy,National Highway,Clear,Daylight,Bus,Over-speeding,minor,2,2,,Male,80
+ACC100069,2023-12-09,09:12, Madurai ,City Road,Clear,Daylight,Pedestrian Involved,Drunk Driving,Minor,4,1,48,Male,50
+ACC101182,19/05/2024,19:22,Salem,National Highway,Rain,Dark,Truck,Over-speeding,Fatal,1,3,43,M,80
+ACC100321,20/03/2023,17:40,Coimbatore,National Highway,clear,Daylight,Car,Over-speeding,Minor,4,1,32,F,
+ACC100896,2024-01-07,09:56,Coimbatore,State Highway,Cloudy,Daylight,Car,Wrong-Side Driving,Minor,4,2,38,Female,60
+ACC100755,2023-11-16,14:20,Coimbatore,Rural Road,Clear,Daylight,Two-Wheeler,Drunk Driving,Minor,2,2,25,Male,60
+ACC101336,10-Apr-2024,11:52,Chennai,Rural Road,Rain,Daylight,Bus,Distracted Driving,Serious,1,2,210,F,60
+ACC100509,22/06/2023,23:16,Chennai,State Highway,Rain,Dark,Car,Over-speeding,Serious,1,2,38,Male,60
+ACC100573,2023-02-05,19:46,Madurai,State Highway, Rain ,Dark,Car,Wrong-Side Driving,Serious,2,1,29,M,60
+ACC100997,21/09/2023,15:29,Madurai, State Highway ,Clear,Daylight,Auto Rickshaw,Over-speeding,Minor,1,0,38,Male,80
+ACC100638,01/08/2024,21:04,Tirunelveli,NATIONAL HIGHWAY,Fog,Dark,Truck,Distracted Driving,Serious,2,1,46,Male,100
+ACC101104,12/08/2023,20:36,Erode,State Highway,Clear,Dark,Bus,Wrong-Side Driving,serious,3,3,40,M,60
+ACC100443,2023-12-23,22:51,coimbatore,Rural Road,Fog,Dark,Car,Over-speeding,Minor,1,2,27,M,40
+ACC100859,2024-08-07,12:20,Chennai,City Road,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,4,1,40,M,50
+ACC100565,2023-06-22,18:41,Tirunelveli,State Highway,Rain,Dusk/Dawn,Two-Wheeler,Distracted Driving,Minor,1,1,34,M,80
+ACC100955,22/03/2024,23:08,Tiruchirappalli,State Highway,Clear,Dark,Two-Wheeler,Distracted Driving,Serious,4,1,58,Male,60
+ACC100188,2023-06-24,20:00,Chennai,Rural Road,Rain,Dark,Two-Wheeler,Poor Road Condition,Minor,2,0,42,M,40
+ACC101034,18/02/2023,08:05,Chennai,City Road, Clear ,Daylight,Truck,Signal Violation,Minor,2,0,18,Male,40
+ACC100085,26/05/2024,16:36,Coimbatore,city road,Fog,Daylight,Two-Wheeler,Over-speeding,Minor,1,2,52,Female,40
+ACC100362,2023-06-13,17:53,Trichy,National Highway,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,2,1,37,Male,80
+ACC100886,08/02/2023,12:14,Vellore,National Highway,Clear,Daylight,Pedestrian Involved,Poor Road Condition,Minor,1,0,53,F,80
+ACC100330,2024-02-04,08:20,Vellore,City Road,Clear,Daylight,Pedestrian Involved,Wrong-Side Driving,MINOR,2,-1,23,Male,50
+ACC100168,2023-09-02,09:44,Chennai,Rural Road,Clear,Daylight,Car,Over-speeding,Serious,1,3,23,Male,60
+ACC100304,01/02/2024,09:41,Salem,City Road,Rain,Daylight,Two-Wheeler,Over-speeding,serious,2,2,45,,50
+ACC101137,25-Sep-2023,07:26,Erode,City Road,Clear,Daylight,TWO-WHEELER,Wrong-Side Driving,minor,2,0,-5,Male,50
+ACC100586,18/05/2024,07:49,Coimbatore, City Road ,Clear,Daylight,Auto Rickshaw,Drunk Driving,Minor,2,1,25,F,50
+ACC100515,18-Mar-2023,19:56,Salem,National Highway,Clear,Dark,Two-Wheeler,Signal Violation,Serious,1,1,50,Male,100
+ACC101047,14-Mar-2024,09:02,Chennai,City Road,Clear,Daylight,Car,Drunk Driving,Minor,1,1,20,Male,40
+ACC100679,2024-11-14,13:24,Chennai,state highway,Clear,Daylight,Two-Wheeler,Drunk Driving,Minor,2,1,30,M,60
+ACC101043,2023-09-29,18:47,Erode,City Road,Clear,Dusk/Dawn,Pedestrian Involved,Wrong-Side Driving,Minor,2,1,43,M,40
+ACC100921,2024-02-22,17:58,Erode,State Highway,,Daylight,Auto Rickshaw,Distracted Driving,Minor,2,1,50,F,60
+ACC100112,2024-02-10,19:47,Salem,City Road,Clear,Dark,Bus,Distracted Driving,Minor,1,0,34,Male,50
+ACC101476,2023-12-25,18:55,Madurai,City Road, Clear ,Dusk/Dawn,two-wheeler,Distracted Driving,Minor,2,1,33,M,50
+ACC100874,2024-05-24,12:44,Vellore,City Road,Clear,Daylight,Car,Over-speeding,Minor,2,1,unknown,M,50
+ACC100103,06/01/2023,21:45,Salem,City Road,Cloudy,Dark,CAR,Wrong-Side Driving,Minor,2,2,unknown,M,50
+ACC101009,2024-01-15,21:52,Tiruchirappalli,City Road,Clear,Dark,Auto Rickshaw,Over-speeding,Serious,1,2,18,M,50
+ACC101351,2023-10-14,06:35, Chennai ,Rural Road,Clear,Dusk/Dawn,two-wheeler,Distracted Driving,Minor,2,0,40,Female,40
+ACC100070,2024-08-03,03:41,Chennai,State Highway,,Dark,Bus,Over-speeding,Minor,1,,30,M,60
+ACC100743,17-Jul-2023,19:57,Madurai,National Highway,Clear,Dark,Two-Wheeler,Wrong-Side Driving,Serious,2,1,35,M,80
+ACC100986,26/03/2024,20:12,Chennai,Rural Road,Rain,Dark,Pedestrian Involved,Poor Road Condition,Serious,2,1,-5,M,40
+ACC101282,15/10/2023,N/A,Trichy,State Highway,Clear,Daylight,pedestrian involved,Drunk Driving,MINOR,1,0,50,M,60
+ACC100574,06/01/2023,10:08,Coimbatore,Rural Road,Clear,Daylight,Pedestrian Involved,Unknown,Minor,2,1,22,,60
+ACC100268,2024-03-23,02:06, Vellore ,National Highway,Clear,Dark,Pedestrian Involved,Signal Violation,Minor,1,0,41,M,100
+ACC101040,30-May-2024,19:17, Madurai ,Rural Road,Rain,Dark,TWO-WHEELER,Over-speeding,Serious,2,1,25,,40
+ACC101461,2023-08-17,13:36,coimbatore,National Highway,Rain,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,2,0,18,M,100
+ACC100833,2023-04-15,08:53,Madurai,National Highway,,Daylight,Car,Wrong-Side Driving,Minor,2,0,29,M,100
+ACC100956,2023-10-20,05:09,Vellore,National Highway,Clear,Dark,Pedestrian Involved,Poor Road Condition,Serious,3,1,31,M,100
+ACC101089,2023-04-14,18:50,Chennai,City Road,Clear,Dusk/Dawn,Car,Distracted Driving,Minor,1,,24,Male,40
+ACC100031,15-Jun-2023,21:07,CHENNAI,State Highway,Clear,Dark,Two-Wheeler,Signal Violation,Serious,2,1,,M,80
+ACC100050,08/07/2024,18:02,Erode,National Highway,clear,Dusk/Dawn,Auto Rickshaw,Over-speeding,Fatal,2,1,29,M,80
+ACC100016,2024-01-10,07:21,Vellore,State Highway,Clear,Daylight,Auto Rickshaw,Wrong-Side Driving,Serious,3,3,46,Female,60
+ACC100194,01-Dec-2024,13:42,Tiruchirappalli,State Highway,CLEAR,Daylight,Two-Wheeler,Distracted Driving,Minor,3,2,25,M,
+ACC100879,04/04/2024,12:30,coimbatore,City Road,Clear,Daylight,Car,Drunk Driving,Minor,2,1,19,M,50
+ACC100529,2024-11-03,16:13,Madurai,National Highway,Clear,Daylight,Car,Over-speeding,Minor,3,1,30,Male,80
+ACC100990,08/09/2023,08:28,Vellore,State Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,3,2,20,,80
+ACC100632,13-Nov-2023,15:28,Trichy,National Highway,Cloudy,Daylight,Truck,Over-speeding,MINOR,2,1,49,Male,100
+ACC101430,10/12/2023,19:55,Coimbatore,Rural Road,Cloudy,Dark,Car,Over-speeding,Minor,2,1,37,M,60
+ACC101131,2024-05-04,17:33,trichy,National Highway,Rain,Daylight,CAR,Over-speeding,Minor,1,1,45,M,100
+ACC100592,25/06/2023,14:02,Tirunelveli,State Highway,Clear,Daylight,Two-Wheeler,Signal Violation,Serious,1,2,48,Male,60
+ACC100373,2023-09-30,07:35,Chennai,City Road,Rain,Daylight,Two-Wheeler,Signal Violation,Minor,2,1,-5,M,50
+ACC100232,15/01/2023,18:45,Madurai, State Highway ,,Dusk/Dawn,Two-Wheeler,Distracted Driving,Minor,2,1,29,Female,80
+ACC100499,2023-11-07,21:29,Erode,City Road,Rain,Dark,Pedestrian Involved,Over-speeding,Fatal,3,2,unknown,M,40
+ACC100083,2024-08-30,18:42,Tirunelveli,Rural Road,Clear,Dusk/Dawn,Truck,Over-speeding, Minor ,2,2,43,M,40
+ACC101230,22-Aug-2024,20:50,Vellore,National Highway,Clear,Dark,Two-Wheeler,Distracted Driving,SERIOUS,1,3,38,M,100
+ACC100442,2023-04-07,20:50, Chennai ,City Road,Cloudy,Dark,Bus,Wrong-Side Driving,Minor,2,1,54,Female,40
+ACC100925,21-Nov-2024,21:14,Madurai,City Road,Clear,Dark,Car,Signal Violation,Serious,2,3,38,Male,50
+ACC100709,2023-12-07,11:01,Salem,National Highway,Clear,Daylight,PEDESTRIAN INVOLVED,Distracted Driving,Serious,1,1,31,Male,100
+ACC101061,2024-05-16,13:07,Salem,State Highway,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,1,0,30,Male,80
+ACC101225,08/12/2024,08:19,,Rural Road,Clear,Daylight,Auto Rickshaw,Wrong-Side Driving,Minor,2,0,38,Male,40
+ACC100716,13/01/2024,13:47,Salem,State Highway,Rain,Daylight,Auto Rickshaw,Over-speeding, Minor ,2,1,unknown,Female,60
+ACC101347,2024-05-26,14:40,Erode,national highway,,Daylight,Car,Distracted Driving,Minor,3,2,27,M,100
+ACC101069,08/01/2023,17:12,Chennai,Rural Road,Rain,Daylight,Truck,Over-speeding,Serious,2,1,30,Male,40
+ACC100389,22/04/2023,17:28,Chennai,Rural Road,Clear,Daylight,Bus,Over-speeding,Serious,2,3,unknown,Female,40
+ACC101233,2024-07-01,08:24,Salem,Rural Road,Clear,Daylight,car,Over-speeding,Minor,2,1,43,Male,40
+ACC100999,2024-01-10,13:01,Chennai,national highway,Rain,Daylight,Two-Wheeler,Distracted Driving,Serious,1,3,,M,80
+ACC101444,2023-04-12,16:15,Chennai,National Highway,Clear,Daylight,Truck,Distracted Driving,Minor,1,1,52,Male,100
+ACC100350,25-Jan-2024,00:55,Chennai,National Highway,Fog,Dark,Car,Poor Road Condition,Serious,2,1,49,Male,100
+ACC101068,2023-09-01,14:18,Erode,National Highway,,Daylight,Bus,Over-speeding,Serious,1,2,42,F,100
+ACC100585,2024-11-06,20:20,Tirunelveli,State Highway,Clear,Dark,Truck,Signal Violation,Fatal,2,3,unknown,M,60
+ACC101466,08/04/2024,06:43,chennai,City Road,Clear,Dusk/Dawn,Car,Drunk Driving,MINOR,2,0,23,,50
+ACC101008,2024-06-19,21:34,Chennai,City Road, Clear ,Dark,Pedestrian Involved,Over-speeding,Fatal,1,2,43,M,50
+ACC101400,2024-09-15,17:55,Tirunelveli,City Road,Clear,Daylight,Two-Wheeler,Signal Violation,Minor,1,1,36,M,40
+ACC100377,2024-06-29,18:26,Erode,City Road,Cloudy,Dusk/Dawn,Truck,Over-speeding,Serious,2,3,34,F,40
+ACC100464,2023-01-05,09:56,Salem,National Highway,Rain,Daylight,Two-Wheeler,Signal Violation, Minor ,2,0,47,Male,100
+ACC100897,09-Feb-2023,19:23,Coimbatore,State Highway,Clear,Dark,Truck,Poor Road Condition,Serious,2,1,18,M,60
+ACC100199,2024-12-03,10:01,Vellore,City Road,Cloudy,Daylight,Car,Distracted Driving,Minor,3,2,44,Male,40
+ACC100169,2023-01-17,16:25,Trichy,National Highway,Rain,Daylight,Car,Over-speeding, Serious ,1,1,26,Male,100
+ACC100823,19-Apr-2024,19:23,Chennai,National Highway,Clear,Dark,Auto Rickshaw,Distracted Driving,Fatal,2,4,39,F,80
+ACC101418,2024-09-20,10:40,Chennai,Rural Road,Clear,Daylight,Auto Rickshaw,Unknown,Serious,2,2,33,M,40
+ACC101085,04/09/2024,05:44, Erode ,Rural Road,Fog,Dark,Two-Wheeler,Poor Road Condition,Minor,2,0,19,F,40
+ACC100381,2024-11-14,15:59,ERODE,City Road,Cloudy,Daylight,two-wheeler,Drunk Driving,Minor,1,2,43,Male,40
+ACC101279,2024-09-23,16:07,Salem,National Highway,Rain,Daylight,Two-Wheeler,Signal Violation,Serious,2,,35,M,100
+ACC100061,2024-06-27,00:25,Madurai,National Highway,Clear,Dark,Two-Wheeler,Signal Violation,Minor,3,1,41,Male,80
+ACC101303,2024-10-15,20:55,Coimbatore,City Road,Clear,Dark,Two-Wheeler,Distracted Driving,Minor,1,1,48,Male,50
+ACC100037,2024-08-27,N/A,Chennai,Rural Road,Clear,Daylight,Truck,Distracted Driving,Minor,2,1,36,F,60
+ACC100957,2024-04-08,12:23,Vellore,City Road,Rain,Daylight,Auto Rickshaw,Over-speeding,Serious,4,3,22,Male,40
+ACC101479,2023-11-01,17:36,Vellore,City Road,Cloudy,Daylight,Car,Signal Violation,Minor,3,0,42,M,40
+ACC100266,2023-11-23,18:34,CHENNAI,City Road,Clear,Dusk/Dawn,Truck,Distracted Driving,Minor,2,2,22,M,40
+ACC101432,05/05/2023,19:20,Tirunelveli,State Highway,,Dark,Two-Wheeler,Over-speeding, Fatal ,3,3,40,M,60
+ACC100356,2023-04-21,06:50, Madurai ,state highway,Clear,Dusk/Dawn,Two-Wheeler,Signal Violation,Serious,1,1,30,M,60
+ACC101271,2023-03-21,06:13,Madurai,Rural Road,Cloudy,Dusk/Dawn, Pedestrian Involved ,Signal Violation,Minor,4,1,29,Male,60
+ACC100471,10-Aug-2024,08:23,Madurai,National Highway,Rain,Daylight,Two-Wheeler,Over-speeding,SERIOUS,2,2,22,M,100
+ACC100703,06/05/2023,22:40,Tiruchirappalli,State Highway,Clear,Dark,Car,Over-speeding,Serious,1,3,18,Male,60
+ACC100216,27-Feb-2023,22:53,Coimbatore,State Highway,CLEAR,Dark,Car,Signal Violation,Serious,2,1,37,Male,80
+ACC100221,29-Nov-2023,01:49,Tirunelveli,State Highway,Clear,Dark,Auto Rickshaw,Drunk Driving, Serious ,3,1,28,Male,60
+ACC100821,2024-04-30,16:50,Tiruchirappalli,City Road,Cloudy,Daylight,Car,Signal Violation,Minor,3,2,38,Male,50
+ACC100577,2024-01-18,16:00,Chennai,National Highway,Fog,Daylight,TWO-WHEELER,Unknown,Serious,1,1,18,M,80
+ACC100004,2023-11-13,18:01,Chennai,National Highway,,Dusk/Dawn,Car,Over-speeding,Minor,2,0,40,Female,80
+ACC101381,27-Jul-2023,18:59,coimbatore,National Highway,Clear,Dusk/Dawn,Auto Rickshaw,Distracted Driving,Minor,2,1,42,M,100
+ACC101097,2024-07-05,17:40,trichy,State Highway,Clear,Daylight,Bus,Signal Violation,Serious,2,3,21,F,60
+ACC100204,2023-11-30,21:44,Erode,National Highway,Clear,Dark,Car,Over-speeding,Serious,3,3,28,Male,80
+ACC100566,2023-06-16,16:31,Erode,City Road,Rain,Daylight,two-wheeler,Over-speeding,Minor,3,2,42,Male,40
+ACC101187,2024-03-12,16:14,Chennai,National Highway,Clear,Daylight,Two-Wheeler,Drunk Driving,Serious,2,2,20,M,100
+ACC101471,24-May-2024,13:14,Chennai,National Highway,Fog,Daylight,Two-Wheeler,Distracted Driving,Minor,1,0,19,M,100
+ACC100816,2023-02-01,05:32,Coimbatore,National Highway,Rain,Dark,Auto Rickshaw,Over-speeding,Serious,2,1,51,Female,100
+ACC101300,2024-07-08,23:07,Madurai,State Highway,Clear,Dark,Two-Wheeler,Over-speeding,Minor,1,0,29,M,80
+ACC100137,2023-01-23,06:29,Chennai,City Road,Clear,Dusk/Dawn,Pedestrian Involved,Wrong-Side Driving,Minor,2,2,40,M,40
+ACC100656,13/07/2024,22:55,Chennai,State Highway, Rain ,Dark,Auto Rickshaw,Drunk Driving,Serious,2,2,40,Male,60
+ACC101474,14/12/2024,20:57,Madurai,Rural Road,Clear,Dark,Two-Wheeler,Drunk Driving,fatal,2,3,31,Male,60
+ACC100456,2023-04-19,16:09,Vellore,Rural Road,Clear,Daylight,Two-Wheeler,Over-speeding,MINOR,3,2,38,M,40
+ACC101101,09-Dec-2023,21:59,Trichy,National Highway,Clear,Dark,Two-Wheeler,Poor Road Condition,Minor,1,2,21,M,80
+ACC101443,13-Nov-2023,03:39,Erode,City Road,Clear,Dark,Truck,Distracted Driving,minor,2,2,27,M,50
+ACC100689,25/07/2024,23:17,Coimbatore,City Road,Clear,Dark,Truck,Over-speeding,Serious,2,2,34,M,40
+ACC100608,06/12/2024,18:19,Chennai,State Highway,Clear,Dusk/Dawn,Car,Signal Violation,Minor,1,0,22,Male,60
+ACC101221,08-Feb-2024,22:24,Chennai,National Highway,Clear,Dark,Car,Wrong-Side Driving,Minor,2,2,35,,100
+ACC100980,2024-03-06,22:59,Chennai,National Highway,Cloudy,Dark,Two-Wheeler,Over-speeding, Fatal ,1,3,unknown,Male,100
+ACC100931,2024-05-25,19:13,trichy, State Highway ,Rain,Dark,Two-Wheeler,Wrong-Side Driving,Minor,2,2,26,Male,60
+ACC100493,2024-03-16,03:33,trichy,State Highway,Clear,Dark,Auto Rickshaw,Distracted Driving,Minor,2,2,30,M,80
+ACC100930,2024-01-28,18:57,Madurai,State Highway,Clear,Dusk/Dawn,Two-Wheeler,Over-speeding,Serious,1,1,28,Male,80
+ACC100421,21/05/2024,18:52,Coimbatore,National Highway,CLEAR,Dusk/Dawn,Two-Wheeler,Over-speeding,Serious,2,1,45,Male,80
+ACC100710,2024-05-10,19:06,Erode,State Highway,Clear,Dark, Car ,Poor Road Condition,Minor,2,0,23,Male,80
+ACC100667,20-Sep-2024,15:11,Chennai,City Road,Clear,Daylight,Pedestrian Involved,Signal Violation,minor,2,2,54,M,40
+ACC101336,10-Apr-2024,11:52,Chennai,Rural Road,Rain,Daylight,Bus,Distracted Driving,Serious,1,2,210,F,60
+ACC101458,12/07/2023,07:36,Chennai,City Road,Clear,Daylight,Two-Wheeler,Drunk Driving,Minor,2,2,unknown,Male,40
+ACC100790,2023-03-11,19:49,Chennai,State Highway,Clear,Dark,Truck,Over-speeding,Serious,2,3,36,Male,80
+ACC100324,12/12/2024,20:29,Tiruchirappalli,State Highway,,Dark,pedestrian involved,Distracted Driving,Serious,2,3,42,M,60
+ACC100637,2023-08-05,09:39,Chennai,National Highway,Rain,Daylight,Two-Wheeler,Unknown,Serious,2,3,34,M,
+ACC101441,10-Jan-2024,16:28,Coimbatore,City Road,Fog,Daylight,Two-Wheeler,Drunk Driving,Fatal,4,4,36,F,40
+ACC100194,01-Dec-2024,13:42,Tiruchirappalli,State Highway,CLEAR,Daylight,Two-Wheeler,Distracted Driving,Minor,3,2,25,M,
+ACC101121,2023-03-03,13:02,Tirunelveli,State Highway,Clear,Daylight,Car,Over-speeding,Serious,1,3,26,M,80
+ACC100099,2023-04-13,22:43,Chennai, State Highway ,Clear,Dark,Car,Signal Violation,Serious,2,3,18,Male,80
+ACC100675,2024-06-13,11:09,Erode,National Highway,Clear,Daylight,Auto Rickshaw,Over-speeding,Serious,4,1,25,Male,
+ACC100263,06/11/2024,N/A,Madurai,State Highway,Rain,Dark,Two-Wheeler,Signal Violation,Fatal,1,4,,Male,80
+ACC100247,31/10/2023,00:15,Tirunelveli,City Road,Cloudy,Dark,Bus,Drunk Driving,Minor,2,1,unknown,Male,50
+ACC100229,2023-05-10,07:39,Madurai,State Highway,Clear,Daylight,Two-Wheeler,Drunk Driving,Fatal,1,4,35,,60
+ACC100935,2024-11-17,08:59,Chennai,National Highway,Rain,Daylight,Truck,Over-speeding,Serious,2,2,21,F,100
+ACC100402,22/08/2023,05:37,Madurai,National Highway,Clear,Dark,Pedestrian Involved,Distracted Driving,Serious,3,1,37,F,80
+ACC101338,19/07/2024,18:16,Madurai,State Highway,Clear,Dusk/Dawn,Two-Wheeler,Over-speeding,Serious,2,3,unknown,Male,60
+ACC100140,2024-12-18,10:50,Coimbatore,National Highway,Clear,Daylight,Two-Wheeler,Drunk Driving,Serious,2,,38,M,100
+ACC100687,2024-03-09,15:07,Vellore,State Highway,Cloudy,Daylight,Two-Wheeler,Signal Violation,Minor,2,2,18,Male,60
+ACC100293,31-Aug-2023,17:15,Madurai,Rural Road,cloudy,Daylight,Two-Wheeler,Over-speeding,Minor,2,1,24,Male,40
+ACC100522,2023-05-21,12:40,Chennai,Rural Road,Clear,Daylight,Pedestrian Involved,Over-speeding,Minor,3,0,32,Male,40
+ACC100472,2023-11-12,20:50,Madurai,state highway,Cloudy,Dark,Car,Over-speeding,Serious,2,1,22,Male,80
+ACC100947,08-Apr-2023,19:24,Chennai,State Highway,Rain,Dark,Bus,Over-speeding,Fatal,3,3,35,Male,60
+ACC100805,24-Jul-2024,19:48,Chennai,City Road, Fog ,Dark,Two-Wheeler,Signal Violation,Minor,2,1,67,Male,50
+ACC100750,02-Dec-2024,17:08,Chennai,State Highway,Clear,Daylight,Two-Wheeler,Signal Violation,Serious,2,1,29,M,60
+ACC100851,08/08/2024,06:30,Chennai,City Road,Clear,Dusk/Dawn,Auto Rickshaw,Wrong-Side Driving,Serious,2,1,43,M,40
+ACC101151,2024-01-04,01:44,Madurai,State Highway,Rain,Dark,Pedestrian Involved,Signal Violation,Fatal,2,4,46,Male,60
+ACC100568,2024-04-14,18:02,Tirunelveli,National Highway,Rain,Dusk/Dawn,Two-Wheeler,Over-speeding,Serious,2,2,28,M,100
+ACC100889,17/07/2023,18:52,Chennai,rural road,Rain,Dusk/Dawn,Car,Signal Violation,Minor,1,2,19,Male,60
+ACC100838,2023-01-11,09:23,Tirunelveli,City Road,Cloudy,Daylight,Two-Wheeler,Signal Violation,Minor,3,2,37,M,40
+ACC100888,12-Jan-2023,08:29,Erode,State Highway,Rain,Daylight,Car,Over-speeding,serious,1,3,26,Male,60
+ACC100774,09-Sep-2024,18:36,Tirunelveli,State Highway,clear,Dusk/Dawn,Two-Wheeler,Poor Road Condition,Minor,2,2,40,M,
+ACC100290,2024-08-12,05:11,Coimbatore,State Highway,Rain,Dark,Bus,Drunk Driving,Fatal,1,3,42,M,60
+ACC101488,2023-03-23,11:52,Coimbatore,Rural Road, Clear ,Daylight,Two-Wheeler,Signal Violation,Minor,1,0,37,Male,60
+ACC100498,2024-11-07,20:40,Coimbatore,State Highway,Clear,Dark,Two-Wheeler,Signal Violation,Minor,3,2,28,Male,80
+ACC101453,2023-06-29,07:39,Trichy,National Highway,RAIN,Daylight,Pedestrian Involved,Over-speeding,Fatal,2,3,33,Male,
+ACC100193,2023-09-22,12:51,Salem,Rural Road,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,2,2,34,F,60
+ACC100938,2023-12-04,16:25,Madurai,Rural Road,Clear,Daylight,Auto Rickshaw,Poor Road Condition,Minor,2,0,28,M,60
+ACC101285,2023-02-05,19:37,Chennai,City Road,Cloudy,Dark,Two-Wheeler,Over-speeding,Serious,2,2,,F,40
+ACC100953,2023-11-09,17:47,Salem,National Highway,Rain,Daylight,Pedestrian Involved,Unknown,Serious,3,3,unknown,Male,100
+ACC100288,2024-01-31,13:18,Chennai,national highway,Clear,Daylight,Car,Drunk Driving,Minor,2,0,23,Male,80
+ACC100355,25/12/2024,19:41,Coimbatore,Rural Road, Clear ,Dark,Truck,Over-speeding,Serious,2,3,49,M,40
+ACC101375,2024-12-01,11:05,Chennai,State Highway,Clear,Daylight,Two-Wheeler,Poor Road Condition,Minor,2,0,18,M,80
+ACC101451,2023-01-30,21:49,Vellore,State Highway,Clear,Dark,Car,Signal Violation,Serious,2,1,40,F,60
+ACC100596,2024-02-27,12:36,Erode,City Road, Clear ,Daylight, Two-Wheeler ,Over-speeding,Minor,2,2,150,M,50
+ACC100269,2024-03-07,13:02,chennai,City Road,Clear,Daylight,Bus,Signal Violation,Serious,3,2,28,M,40
+ACC100899,25/03/2024,19:52,Chennai,NATIONAL HIGHWAY,Cloudy,Dark,Truck,Signal Violation,Serious,3,2,21,Male,100
+ACC100891,02/06/2024,05:09,trichy,State Highway,Clear,Dark,Car,Distracted Driving,Minor,1,2,19,Male,80
+ACC100400,29/12/2024,06:20,Chennai,State Highway, Clear ,Dusk/Dawn,Two-Wheeler,Wrong-Side Driving,Minor,2,0,55,Male,60
+ACC100697,2024-03-06,15:56,CHENNAI,State Highway,Clear,Daylight,two-wheeler,Drunk Driving,Serious,3,1,,Female,80
+ACC100893,2024-12-16,07:49,Madurai,State Highway,Clear,Daylight,Bus,Signal Violation,Minor,3,1,24,M,80
+ACC100131,09/02/2024,N/A,Erode,State Highway,Rain,Daylight,Bus,Wrong-Side Driving,Serious,1,1,36,Male,60
+ACC100610,31/08/2024,17:32,Tiruchirappalli,National Highway,Rain,Daylight,Two-Wheeler,Signal Violation, Serious ,1,2,18,M,80
+ACC100713,11/07/2024,10:36,Salem,Rural Road,Rain,Daylight,Car,Poor Road Condition,MINOR,1,0,26,Male,40
+ACC101410,14/02/2023,13:11,Coimbatore,Rural Road,Fog,Daylight, Two-Wheeler ,Distracted Driving, Minor ,2,0,31,Female,60
+ACC100843,2023-01-27,12:26,trichy,City Road,Clear,Daylight, Two-Wheeler ,Wrong-Side Driving,Minor,1,2,44,Male,40
+ACC100170,19/03/2023,05:05,Vellore,National Highway,CLOUDY,Dark, Pedestrian Involved ,Over-speeding,Serious,2,1,35,M,80
+ACC100746,2024-01-24,20:35,Chennai,State Highway,Rain,Dark,Two-Wheeler,Wrong-Side Driving,Minor,3,1,unknown,M,60
+ACC100239,2024-04-02,19:31,Coimbatore,City Road,Rain,Dark,Car,Signal Violation,Serious,3,3,30,,40
+ACC101256,12/06/2023,14:19,Chennai,National Highway,,Daylight,Two-Wheeler,Signal Violation,Minor,3,0,36,M,100
+ACC101196,2024-06-04,07:04,Chennai,National Highway,Clear,Daylight,two-wheeler,Over-speeding,Serious,1,,23,M,80
+ACC101220,2024-04-19,09:58,Chennai,City Road,Clear,Daylight,Truck,Poor Road Condition,Minor,1,0,unknown,M,50
+ACC101110,06/04/2024,16:16,Coimbatore,National Highway,Cloudy,Daylight,Two-Wheeler,Drunk Driving,Serious,4,,33,Male,100
+ACC100747,2023-08-18,17:55,Erode,National Highway,CLEAR,Daylight,Two-Wheeler,Signal Violation,Minor,1,2,36,,80
+ACC100881,2024-09-13,20:56,Erode,City Road,Rain,Dark,Car,Over-speeding,Serious,2,2,57,Male,50
+ACC100121,02/05/2024,01:59,coimbatore,Rural Road,Clear,Dark,Truck,Signal Violation, Serious ,2,1,44,Female,40
+ACC101122,16-Jul-2023,23:12,Erode,City Road,CLOUDY,Dark,Two-Wheeler,Over-speeding,Minor,3,0,50,M,50
+ACC101464,2024-09-13,21:44,Chennai,City Road,cloudy,Dark,Two-Wheeler,Over-speeding,Minor,2,1,30,M,50
+ACC100157,2024-02-11,06:34,chennai,National Highway,Clear,Dusk/Dawn,Truck,Over-speeding,Minor,2,1,33,M,80
+ACC101366,09-Aug-2023,08:43,Madurai,city road,CLEAR,Daylight, Two-Wheeler ,Unknown,Minor,1,0,48,Male,50
+ACC100429,06/06/2024,N/A,Tirunelveli,National Highway,Clear,Daylight,Bus,Poor Road Condition,minor,2,1,18,M,100
+ACC101238,2023-08-06,23:13,Madurai,Rural Road,Clear,Dark, Truck ,Drunk Driving,Serious,2,3,45,M,60
+ACC100198,2023-09-05,20:18,Chennai,State Highway,Clear,Dark,Two-Wheeler,Over-speeding,FATAL,1,1,28,M,60
+ACC100923,2023-04-16,06:14,Erode,National Highway,clear,Dusk/Dawn,Pedestrian Involved,Over-speeding,Fatal,1,2,31,M,80
+ACC100065,26/08/2023,20:20,Madurai,City Road,Cloudy,Dark,Auto Rickshaw,Distracted Driving,Minor,1,2,43,Male,40
+ACC101287,2023-06-21,01:36,Chennai,City Road,Clear,Dark,Bus,Signal Violation,Serious,2,2,40,Male,50
+ACC100781,2024-04-10,06:42,Tirunelveli,State Highway,Clear,Dusk/Dawn,car,Distracted Driving,Minor,2,0,33,M,80
+ACC100562,2023-12-26,16:36,Erode,State Highway,Clear,Daylight,car,Over-speeding,Minor,2,1,30,Male,60
+ACC100027,2024-08-23,07:05, Erode ,CITY ROAD,Clear,Daylight,Truck,Poor Road Condition,Minor,1,0,48,M,50
+ACC101214,2023-02-24,18:57,Madurai,National Highway,FOG,Dusk/Dawn,Two-Wheeler,Wrong-Side Driving,Fatal,2,1,53,Male,100
+ACC100107,30/04/2024,20:29,Trichy,National Highway,clear,Dark,Two-Wheeler,Distracted Driving,Serious,1,2,21,M,100
+ACC100972,15/12/2023,18:47, Madurai ,Rural Road,Clear,Dusk/Dawn,Two-Wheeler,Signal Violation,MINOR,2,1,18,Male,40
+ACC100210,10/07/2023,15:17,Coimbatore,City Road,Clear,Daylight,Car,Signal Violation,Minor,2,2,37,Male,40
+ACC100150,16/09/2024,13:23,Chennai,City Road,Fog,Daylight,Truck,Drunk Driving,Fatal,2,3,36,M,40
+ACC100040,01/05/2023,08:35,Coimbatore,National Highway,Clear,Daylight,Pedestrian Involved,Over-speeding,Minor,4,2,22,M,100
+ACC100264,23/12/2024,10:26,Coimbatore,State Highway, Clear ,Daylight,Car,Unknown,Serious,2,3,49,Female,80
+ACC100697,2024-03-06,15:56,CHENNAI,State Highway,Clear,Daylight,two-wheeler,Drunk Driving,Serious,3,1,,Female,80
+ACC100913,16/12/2024,08:53,Coimbatore,national highway,Rain,Daylight,Two-Wheeler,Over-speeding,Serious,2,1,46,Male,80
+ACC100669,07/04/2023,22:00,Madurai,State Highway,Cloudy,Dark,Two-Wheeler,Signal Violation,Serious,2,3,38,Male,80
+ACC100845,04/01/2023,18:23,Madurai,national highway,,Dusk/Dawn,Car,Distracted Driving,Serious,2,3,27,F,100
+ACC100593,2024-12-16,16:58,Chennai,State Highway, Fog ,Daylight,PEDESTRIAN INVOLVED,Wrong-Side Driving,Serious,2,2,45,Male,80
+ACC101240,06-Jan-2024,05:45,tirunelveli,City Road,,Dark,Two-Wheeler,Over-speeding,Fatal,2,1,,Male,40
+ACC100631,28-Aug-2023,02:23,VELLORE,National Highway,CLEAR,Dark,Auto Rickshaw,Signal Violation,Serious,2,3,27,,80
+ACC100549,11-May-2024,11:54,Erode,Rural Road,Clear,Daylight,Bus,Over-speeding,Minor,2,1,31,Male,60
+ACC100316,17/06/2024,12:52,Salem, National Highway , Clear ,Daylight,Car,Signal Violation,MINOR,3,0,36,M,80
+ACC100477,2023-01-14,14:06, Erode ,National Highway,Clear,Daylight,Pedestrian Involved,Poor Road Condition,Serious,3,1,54,M,80
+ACC100581,31-Aug-2024,14:30,Tirunelveli,City Road,Rain,Daylight,Car,Over-speeding,Minor,1,1,39,F,40
+ACC101020,2023-02-10,16:26,Chennai,STATE HIGHWAY,Cloudy,Daylight,Car,Over-speeding,Minor,2,2,43,M,80
+ACC101460,30/07/2024,23:10,Coimbatore,National Highway,Clear,Dark,Two-Wheeler,Signal Violation,SERIOUS,2,2,55,M,80
+ACC101102,2024-11-01,14:00,Madurai,Rural Road,Rain,Daylight,Two-Wheeler,Signal Violation,Minor,2,1,18,M,40
+ACC100548,2024-01-12,18:17,Chennai,National Highway,Rain,Dusk/Dawn,Car,Distracted Driving, Minor ,2,0,20,Male,100
+ACC101052,02/01/2024,06:39,Madurai,State Highway,Clear,Dusk/Dawn,Truck,Wrong-Side Driving,Minor,1,0,44,M,80
+ACC101339,2023-10-25,13:42,Tirunelveli,National Highway,Cloudy,Daylight,Bus,Wrong-Side Driving, Minor ,2,1,21,M,100
+ACC100303,2024-10-16,06:47,Vellore,State Highway,Clear,Dusk/Dawn,Car,Distracted Driving,Minor,4,0,28,F,60
+ACC100003,17-Nov-2023,14:46,Salem,STATE HIGHWAY,Clear,Daylight,Car,Over-speeding,Serious,2,2,19,M,80
+ACC100073,2023-04-05,17:53,Salem,State Highway,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,minor,1,2,43,Male,80
+ACC100829,2023-01-22,20:29,Trichy,State Highway,Rain,Dark,Car,Distracted Driving,Serious,3,2,27,Male,80
+ACC100792,2024-06-11,11:20,chennai,Rural Road,Rain,Daylight,Car,Over-speeding,Minor,2,2,37,Male,60
+ACC100328,2023-04-14,17:55,Madurai,City Road,Clear,Daylight,Truck,Over-speeding, Minor ,2,2,41,F,50
+ACC100006,04/03/2023,10:17,Trichy,State Highway,Rain,Daylight,Pedestrian Involved,Over-speeding,Serious,2,2,18,Male,80
+ACC100087,2023-08-17,23:18,Madurai,Rural Road,Clear,Dark,Pedestrian Involved,Unknown,Minor,2,2,32,M,40
+ACC100102,2024-08-10,20:18, Vellore ,Rural Road,Cloudy,Dark,Car,Unknown,Serious,2,1,52,,40
+ACC101395,07/03/2024,N/A, Coimbatore ,City Road,Cloudy,Dark,Two-Wheeler,Distracted Driving,Minor,3,2,29,Male,
+ACC100554,19-Dec-2024,19:02,Coimbatore,city road,Clear,Dark,Auto Rickshaw,Over-speeding,Serious,2,2,28,M,
+ACC101409,26-Jul-2023,02:31,Chennai,National Highway,Clear,Dark,Two-Wheeler,Over-speeding,FATAL,1,4,35,M,100
+ACC100148,2024-08-22,07:17,Erode,State Highway,Cloudy,Daylight,Two-Wheeler,Drunk Driving,Minor,1,1,30,Male,
+ACC101346,2024-09-16,02:07,Salem,Rural Road,Clear,Dark,Truck,Distracted Driving,Minor,2,2,27,Male,60
+ACC100332,2023-08-15,21:23,Chennai, City Road ,Clear,Dark,Two-Wheeler,Drunk Driving,Serious,2,2,35,F,50
+ACC100160,2024-12-28,19:49,Vellore, City Road , Rain ,Dark,Car,Drunk Driving,Minor,2,2,30,Male,40
+ACC101259,2024-08-08,N/A,Chennai,National Highway,Clear,Dusk/Dawn,Two-Wheeler,Signal Violation,Serious,2,2,24,Male,100
+ACC100916,2024-02-01,20:21,Madurai, National Highway ,Clear,Dark,Pedestrian Involved,Distracted Driving,fatal,1,2,43,F,100
+ACC101298,23-Jan-2024,07:33,Madurai,City Road,cloudy,Daylight,Two-Wheeler,Distracted Driving,MINOR,1,1,20,Male,40
+ACC101417,2023-11-17,12:14,Chennai,City Road,Cloudy,Daylight,Two-Wheeler,Over-speeding,Minor,1,2,32,M,50
+ACC101394,07/06/2023,09:32,Coimbatore,National Highway,Cloudy,Daylight,Two-Wheeler,Wrong-Side Driving, Minor ,1,2,40,Male,80
+ACC100620,13/11/2023,05:48,Trichy,City Road,Fog,Dark,Two-Wheeler,Over-speeding,Serious,2,1,51,F,40
+ACC100081,2023-11-16,16:58,Chennai,City Road,Clear,Daylight,Auto Rickshaw,Drunk Driving,Serious,3,3,33,Male,50
+ACC101342,29/03/2023,16:33,Madurai,National Highway,Cloudy,Daylight,two-wheeler,Over-speeding,Serious,2,3,33,Male,100
+ACC100144,2024-12-25,18:01,Tirunelveli,National Highway,Rain,Dusk/Dawn,Bus,Over-speeding,Serious,3,1,22,Female,100
+ACC100804,2024-06-22,08:14,Chennai,national highway,Cloudy,Daylight,Truck,Over-speeding,Fatal,1,3,33,Female,100
+ACC101391,2024-01-22,13:25,Salem,City Road,,Daylight,Bus,Signal Violation,Minor,2,0,18,Female,40
+ACC100951,2023-08-11,23:44,Vellore,city road,Cloudy,Dark,Two-Wheeler,Unknown,Minor,1,0,42,Male,50
+ACC100840,2023-07-30,07:18,Trichy,State Highway,Rain,Daylight,Two-Wheeler,Distracted Driving,Fatal,1,1,47,Male,60
+ACC100702,2023-05-03,20:50,Madurai,National Highway,Cloudy,Dark,Two-Wheeler,Signal Violation,Serious,3,1,35,F,100
+ACC101028,2024-02-17,10:01,Madurai,Rural Road,Rain,Daylight,truck,Signal Violation,Minor,2,1,unknown,M,40
+ACC101218,2024-08-13,14:00,Vellore,National Highway,Clear,Daylight,Car,Over-speeding,fatal,3,1,31,Male,80
+ACC100318,2024-11-16,01:32,Chennai,State Highway,Clear,Dark,Pedestrian Involved,Poor Road Condition,minor,1,1,29,F,80
+ACC100001,18-Jul-2024,10:32,trichy,State Highway,Clear,Daylight,Truck,Over-speeding,Minor,2,1,43,Male,60
+ACC100890,2023-03-14,18:10,Chennai,CITY ROAD,Rain,Dusk/Dawn,Bus,Distracted Driving,Minor,2,0,35,Male,40
+ACC100500,25-Mar-2023,05:11,Coimbatore,National Highway,Cloudy,Dark,Car,Wrong-Side Driving,Serious,2,3,46,Female,80
+ACC101348,2024-06-20,06:36,Madurai,National Highway,Clear,Dusk/Dawn,Truck,Drunk Driving,Serious,2,2,19,M,100
+ACC100504,20-Jul-2023,06:46,Salem,National Highway,Fog,Dusk/Dawn,TRUCK,Distracted Driving,Fatal,3,3,35,M,100
+ACC101406,11/09/2023,05:28,Erode,City Road,Cloudy,Dark,Two-Wheeler,Poor Road Condition,Minor,3,2,57,M,40
+ACC100847,2023-02-07,07:28,Salem,CITY ROAD, Clear ,Daylight,Two-Wheeler,Drunk Driving,Minor,2,1,40,F,40
+ACC100648,02-Dec-2024,16:22,Chennai,rural road,Cloudy,Daylight,Truck,Over-speeding,SERIOUS,2,3,unknown,Male,40
+ACC100719,13/03/2024,07:21,Madurai,National Highway,Clear,Daylight,Truck,Over-speeding,Minor,4,1,47,M,80
+ACC101055,2024-12-27,18:30,Tirunelveli,Rural Road,Clear,Dusk/Dawn,Two-Wheeler,Over-speeding,Minor,1,2,unknown,M,60
+ACC100187,06/10/2023,06:17,Erode,State Highway,CLEAR,Dusk/Dawn,Bus,Distracted Driving,Minor,2,2,25,Male,80
+ACC100600,25-Mar-2024,19:33,Coimbatore, City Road ,,Dark,Two-Wheeler,Distracted Driving,Minor,3,1,41,Male,40
+ACC100317,2024-06-14,18:19,Chennai,State Highway,Rain,Dusk/Dawn,bus,Drunk Driving,Fatal,3,3,18,Male,60
+ACC100877,27/06/2024,07:15,Vellore,City Road, Clear ,Daylight,Truck,Signal Violation,Minor,1,0,30,Female,40
+ACC101356,2023-09-09,18:28,Vellore,City Road,Rain,Dusk/Dawn,Auto Rickshaw,Distracted Driving,Minor,3,1,23,M,
+ACC100248,28-Jul-2024,23:51,Erode,Rural Road,Rain,Dark,Two-Wheeler,Wrong-Side Driving,Serious,2,1,unknown,Male,60
+ACC101416,2024-04-08,20:19,Madurai,City Road,Clear,Dark,Car,Unknown,Serious,2,2,49,Male,
+ACC100988,2023-06-29,15:51,Vellore,State Highway,Clear,Daylight,Truck,Drunk Driving,Serious,1,3,18,Male,60
+ACC100180,15/11/2024,09:19,Vellore,Rural Road,Clear,Daylight,Pedestrian Involved,Drunk Driving,Minor,2,2,27,F,
+ACC100712,2024-06-15,07:27,Vellore,Rural Road,Clear,Daylight,Bus,Signal Violation,Minor,2,2,55,F,40
+ACC101484,2023-10-30,18:08,Erode,City Road,Clear,Dusk/Dawn, Car ,Over-speeding,Minor,2,0,43,M,50
+ACC101380,16-Dec-2024,07:09,Madurai,STATE HIGHWAY,Clear,Daylight,Truck,Wrong-Side Driving, Serious ,1,2,18,M,80
+ACC101127,10-Apr-2024,10:02,Madurai,City Road,CLEAR,Daylight,Auto Rickshaw,Signal Violation,MINOR,1,0,19,Male,40
+ACC100343,2024-01-11,08:11,Chennai,State Highway,Clear,Daylight,Car,Over-speeding,Serious,1,2,46,M,60
+ACC100186,2023-05-02,21:56,Salem,National Highway,Rain,Dark,Car,Poor Road Condition,Minor,2,,20,Male,80
+ACC100475,26/07/2024,20:48,Coimbatore,State Highway,Clear,Dark,Auto Rickshaw,Signal Violation,Minor,1,1,33,M,60
+ACC101350,2023-02-14,18:10,Chennai,Rural Road,Clear,Dusk/Dawn,Two-Wheeler,Over-speeding,Serious,2,1,22,Male,60
+ACC100849,18/03/2024,08:34,Coimbatore,National Highway,Cloudy,Daylight,TWO-WHEELER,Over-speeding,serious,1,3,41,Male,100
+ACC101307,23/06/2023,14:59,Coimbatore,City Road,Fog,Daylight,TRUCK,Over-speeding,Serious,1,1,30,Female,50
+ACC100884,16/08/2024,23:03,Vellore,National Highway,Cloudy,Dark,Two-Wheeler,Unknown,Serious,2,2,32,Male,100
+ACC101317,2024-03-06,22:55,Tirunelveli,National Highway,Cloudy,Dark,Truck,Distracted Driving,Serious,2,2,31,M,80
+ACC100166,23-Aug-2023,04:18,Chennai,CITY ROAD,Rain,Dark,Truck,Distracted Driving,Serious,2,3,45,M,50
+ACC100841,2024-04-24,03:36,trichy,National Highway,Cloudy,Dark,Car,Over-speeding,Serious,2,3,54,M,100
+ACC100086,2023-03-12,18:12, Chennai ,State Highway,Clear,Dusk/Dawn,Two-Wheeler,Over-speeding,Minor,1,,19,F,60
+ACC101456,2024-12-19,18:13,Chennai,State Highway,Rain,Dusk/Dawn,Bus,Distracted Driving,Minor,1,0,35,M,80
+ACC100915,01-Dec-2023,20:13,Coimbatore,State Highway,Cloudy,Dark,Truck,Over-speeding,Fatal,2,1,38,Male,60
+ACC101374,2024-10-09,11:42,Tiruchirappalli,national highway,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,MINOR,3,2,30,M,100
+ACC101283,07/08/2024,12:58,Chennai,Rural Road,Clear,Daylight,Two-Wheeler,Signal Violation,Serious,4,1,54,Male,40
+ACC101181,2024-11-08,17:47,CHENNAI,State Highway,Clear,Daylight,Car,Distracted Driving,Minor,1,0,43,Male,80
+ACC100861,08/11/2024,19:48,Chennai,National Highway, Cloudy ,Dark,Auto Rickshaw,Distracted Driving,SERIOUS,3,3,28,Male,80
+ACC100733,19/07/2024,08:11,Madurai,State Highway,Fog,Daylight,Car,Over-speeding,Fatal,3,1,unknown,M,60
+ACC100123,10/12/2023,11:04,Madurai,Rural Road,Clear,Daylight,Two-Wheeler,Drunk Driving,Minor,1,1,18,Male,60
+ACC100670,2024-11-26,18:36,Coimbatore,City Road,clear,Dusk/Dawn,Pedestrian Involved,Over-speeding,Serious,3,3,29,Male,50
+ACC100730,16/06/2024,12:08,VELLORE,City Road,Fog,Daylight,Two-Wheeler,Over-speeding,Minor,1,1,34,Male,50
+ACC100243,19/04/2024,08:19, Coimbatore ,National Highway,Fog,Daylight,Auto Rickshaw,Over-speeding,Fatal,1,3,40,F,80
+ACC100948,22/11/2024,22:25,Erode,State Highway,Rain,Dark,Two-Wheeler,Wrong-Side Driving,Fatal,2,3,37,F,
+ACC100985,2024-04-21,18:10,Chennai,Rural Road,Rain,Dusk/Dawn,Truck,Signal Violation,MINOR,2,1,35,Male,40
+ACC101056,25-Nov-2023,04:06,Coimbatore,State Highway,cloudy,Dark,Bus,Over-speeding,Fatal,2,4,36,M,60
+ACC100231,17/09/2024,19:41,Chennai,Rural Road,Clear,Dark,Car,Poor Road Condition,Minor,2,0,49,,40
+ACC101199,2024-03-28,21:22, Chennai ,National Highway,Rain,Dark,Two-Wheeler,Poor Road Condition,serious,2,3,27,Male,100
+ACC101014,2024-01-15,06:30,Madurai,National Highway,Clear,Dusk/Dawn, Two-Wheeler ,Signal Violation,Minor,3,0,unknown,Male,80
+ACC100371,2024-04-28,06:57,Chennai,National Highway,Clear,Dusk/Dawn,TWO-WHEELER,Over-speeding,Minor,1,2,21,M,100
+ACC101358,2023-03-17,10:20,Madurai,City Road,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,Serious,2,3,35,M,40
+ACC101105,13-May-2023,23:03,Chennai,City Road,Clear,Dark,Two-Wheeler,Over-speeding,Minor,2,2,22,M,40
+ACC100235,2024-06-09,21:25,Chennai,City Road,Clear,Dark,Two-Wheeler,Over-speeding,Serious,3,2,21,M,40
+ACC101279,2024-09-23,16:07,Salem,National Highway,Rain,Daylight,Two-Wheeler,Signal Violation,Serious,2,,35,M,100
+ACC100262,2023-08-07,14:05, Chennai ,Rural Road, Clear ,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,1,1,46,M,40
+ACC100057,2023-04-23,07:51,Chennai,City Road,,Daylight,Two-Wheeler,Signal Violation,Serious,2,2,23,Male,40
+ACC100249,31-Jan-2023,09:21,Madurai,National Highway,Clear,Daylight,Truck,Poor Road Condition,Minor,4,,36,Male,100
+ACC100028,2024-02-03,19:26,trichy,National Highway,Cloudy,Dark,Two-Wheeler,Over-speeding,Fatal,2,2,36,M,80
+ACC100674,2024-03-29,11:12,Tirunelveli,National Highway,Rain,Daylight,Two-Wheeler,Drunk Driving,Minor,1,2,42,M,80
+ACC100019,2023-11-25,17:25,Chennai,National Highway,Cloudy,Daylight,Two-Wheeler,Poor Road Condition,Minor,4,2,54,F,80
+ACC101091,2023-11-24,16:34,Salem,City Road,Rain,Daylight,Two-Wheeler,Over-speeding,Serious,3,1,40,M,40
+ACC100349,2023-05-01,07:54,Coimbatore, City Road ,Rain,Daylight,Bus,Over-speeding,fatal,2,2,45,Male,50
+ACC100492,2024-07-03,11:59,Erode,City Road,Cloudy,Daylight,two-wheeler,Signal Violation,Minor,2,2,41,M,40
+ACC101171,2024-04-05,09:38,Salem,RURAL ROAD,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,2,2,28,F,60
+ACC101011,2024-08-06,07:47,Chennai,State Highway,Cloudy,Daylight,Car,Distracted Driving,Minor,4,2,18,M,80
+ACC101158,2023-10-08,19:31,Madurai,National Highway,Clear,Dark,Car,Over-speeding,Fatal,2,4,45,F,100
+ACC100211,2024-06-07,13:47,Salem,National Highway,Rain,Daylight,Truck,Drunk Driving,Fatal,3,2,33,M,80
+ACC100393,2024-03-13,19:02,Chennai,National Highway,Clear,Dark,Two-Wheeler,Over-speeding,Serious,2,2,18,F,100
+ACC100596,2024-02-27,12:36,Erode,City Road, Clear ,Daylight, Two-Wheeler ,Over-speeding,Minor,2,2,150,M,50
+ACC101327,03/03/2023,07:40,Salem,NATIONAL HIGHWAY, Clear ,Daylight,Pedestrian Involved,Over-speeding,Minor,2,0,43,Male,100
+ACC100815,02-Sep-2024,13:33,Coimbatore,State Highway,Clear,Daylight,Car,Over-speeding,Minor,1,2,31,M,80
+ACC100603,2023-04-09,09:29,Chennai,City Road,Clear,Daylight,truck,Drunk Driving,Minor,2,2,36,Male,50
+ACC101070,07-May-2024,21:45,Coimbatore,National Highway,Rain,Dark,Car,Distracted Driving,Fatal,2,1,28,M,80
+ACC100809,28/12/2024,20:27,Tirunelveli,National Highway,Fog,Dark,Pedestrian Involved,Poor Road Condition,Serious,2,1,28,M,100
+ACC101390,2023-08-12,20:44,Chennai,Rural Road,Clear,Dark,Truck,Wrong-Side Driving,Minor,2,,21,Male,60
+ACC100051,23/05/2023,10:02,Chennai,City Road,Clear,Daylight,Bus,Distracted Driving,Minor,2,2,18,M,
+ACC100819,2024-12-30,14:13,TIRUNELVELI,State Highway,Cloudy,Daylight,Car,Signal Violation,Minor,1,2,61,Male,
+ACC100606,24/08/2023,15:45,Chennai,National Highway,Cloudy,Daylight,Two-Wheeler,Distracted Driving, Minor ,2,2,47,M,100
+ACC101318,24/11/2023,08:23, Erode ,State Highway,Clear,Daylight,Truck,Signal Violation,Minor,1,1,36,Male,60
+ACC100685,07/08/2024,22:39,Chennai,Rural Road,CLEAR,Dark,Auto Rickshaw,Over-speeding,Minor,3,0,31,F,60
+ACC100058,26/06/2024,14:45,Chennai,National Highway,Fog,Daylight,Auto Rickshaw,Over-speeding,Fatal,1,2,25,M,80
+ACC100708,14/12/2023,22:29,Coimbatore,National Highway,Rain,Dark,Car,Poor Road Condition,Fatal,2,3,43,F,80
+ACC100357,12/10/2024,11:37,Madurai,City Road,Cloudy,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,3,1,unknown,M,50
+ACC100982,2024-02-04,18:18,Tiruchirappalli,State Highway,Clear,Dusk/Dawn,Truck,Signal Violation,Minor,2,0,36,Female,
+ACC100048,09/05/2024,18:31,Erode,City Road,Clear,Dusk/Dawn,Two-Wheeler,Signal Violation,minor,2,1,43,,40
+ACC101274,10/07/2024,13:29,Chennai,National Highway,Rain,Daylight,Bus,Over-speeding,Fatal,2,,28,Male,80
+ACC101009,2024-01-15,21:52,Tiruchirappalli,City Road,Clear,Dark,Auto Rickshaw,Over-speeding,Serious,1,2,18,M,50
+ACC100042,2024-05-26,10:55,Salem, Rural Road ,Fog,Daylight,Bus,Drunk Driving,Minor,1,2,31,F,40
+ACC101337,2023-08-05,10:02,Chennai,State Highway,Clear,Daylight, Truck ,Signal Violation,Serious,2,1,45,F,80
+ACC100752,2023-03-04,11:42,Madurai,National Highway,Fog,Daylight,Truck,Drunk Driving,Serious,2,3,37,M,100
+ACC101004,2023-04-04,10:31,MADURAI,Rural Road,Cloudy,Daylight,Bus,Over-speeding, Minor ,2,0,37,M,40
+ACC101082,30/11/2024,13:42,Salem,State Highway,Fog,Daylight,Car,Over-speeding,Serious,3,2,37,,60
+ACC100995,2024-04-01,17:11,CHENNAI,National Highway,CLOUDY,Daylight,Car,Distracted Driving,minor,3,1,40,Male,100
+ACC100416,08/12/2024,19:06,trichy,City Road,Clear,Dark,Auto Rickshaw,Drunk Driving,Serious,1,2,unknown,Male,40
+ACC100487,23/01/2024,12:55,Salem,National Highway, Rain ,Daylight,Pedestrian Involved,Distracted Driving, Serious ,1,,30,Male,100
+ACC100126,2023-02-27,12:00,Madurai,City Road,CLEAR,Daylight,Pedestrian Involved,Over-speeding,Serious,1,3,55,Male,40
+ACC101323,2024-10-09,20:08,Chennai,National Highway,Cloudy,Dark,Truck,Distracted Driving,Minor,2,,24,M,100
+ACC101123,27/06/2023,23:52,Coimbatore,City Road,Cloudy,Dark,Bus,Over-speeding,Fatal,2,,25,M,50
+ACC101365,2023-01-13,21:33,Chennai,State Highway,Clear,Dark,Car,Over-speeding,Minor,2,2,19,M,60
+ACC101492,2023-01-22,11:49,Vellore,Rural Road,Fog,Daylight,Two-Wheeler,Signal Violation,Minor,1,1,22,M,60
+ACC100478,29/04/2024,21:55,Vellore,City Road,Clear,Dark,Auto Rickshaw,Drunk Driving,SERIOUS,1,3,23,M,50
+ACC100352,2023-08-07,19:06,Chennai,City Road,Fog,Dark,Car,Drunk Driving,Serious,2,1,33,Male,40
+ACC100312,2023-03-28,08:31,MADURAI,State Highway,Cloudy,Daylight,Bus,Over-speeding,Serious,2,3,41,F,80
+ACC101173,2023-05-10,11:38,Coimbatore,State Highway,Rain,Daylight,Two-Wheeler,Over-speeding,Minor,2,0,unknown,M,80
+ACC101235,10/09/2023,21:33,Chennai,Rural Road,Fog,Dark,Two-Wheeler,Over-speeding,Serious,1,,36,M,60
+ACC101130,24-Oct-2023,14:28,Salem,State Highway,Clear,Daylight,Car,Signal Violation,Serious,2,3,25,,80
+ACC101480,2023-04-21,10:36,Madurai,State Highway,Clear,Daylight,Car,Signal Violation,Minor,2,2,46,M,80
+ACC100301,26/08/2024,06:35,Coimbatore,National Highway,clear,Dusk/Dawn,Truck,Drunk Driving,Fatal,2,,36,M,80
+ACC101053,2024-11-30,18:38,Madurai,National Highway,Clear,Dusk/Dawn,Bus,Drunk Driving,Serious,4,1,39,M,80
+ACC100119,25/03/2023,08:53,Chennai,State Highway,Clear,Daylight,Auto Rickshaw,Signal Violation,Minor,2,,37,Male,80
+ACC100287,22-Feb-2024,12:00,Coimbatore,City Road,Cloudy,Daylight,auto rickshaw,Distracted Driving,minor,1,1,32,M,40
+ACC100578,14-Oct-2024,09:48,Salem,State Highway, Cloudy ,Daylight,Pedestrian Involved,Over-speeding,Serious,2,2,31,M,80
+ACC100910,2024-07-16,07:01,Madurai,National Highway,RAIN,Daylight,Bus,Over-speeding,Fatal,1,,37,Male,100
+ACC100981,2024-05-27,03:05,Madurai,National Highway,Cloudy,Dark,Two-Wheeler,Unknown, Minor ,1,2,18,Male,100
+ACC100782,2023-03-31,15:49,Vellore,Rural Road,Rain,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,1,0,34,Male,40
+ACC100339,2024-11-26,13:55,Madurai,National Highway,Rain,Daylight,Two-Wheeler,Over-speeding,Serious,2,2,37,Female,80
+ACC100869,30-Jan-2023,02:17,madurai,State Highway,rain,Dark,Two-Wheeler,Signal Violation,Serious,2,2,unknown,Male,60
+ACC100030,25-Nov-2023,08:01,Tirunelveli,City Road,Clear,Daylight, Two-Wheeler ,Drunk Driving,Minor,2,0,39,M,40
+ACC100053,2023-12-07,16:33,Tirunelveli,City Road,Clear,Daylight,Two-Wheeler,Poor Road Condition,Minor,2,2,32,M,50
+ACC101439,2024-11-28,21:10,Coimbatore,City Road,Cloudy,Dark,Auto Rickshaw,Drunk Driving,Fatal,2,1,41,M,40
+ACC100201,2024-10-25,08:03,Erode,State Highway,Clear,Daylight,Car,Signal Violation,Minor,1,0,45,M,80
+ACC100927,2023-08-08,13:08,Tirunelveli,City Road,Cloudy,Daylight,Two-Wheeler,Over-speeding,Minor,2,0,31,M,50
+ACC100411,17/06/2023,17:32,Chennai,State Highway,Fog,Daylight,Two-Wheeler,Drunk Driving,Serious,2,1,54,M,80
+ACC101302,2024-05-25,13:26,Vellore,City Road,Cloudy,Daylight,Two-Wheeler,Distracted Driving,Minor,2,2,27,M,50
+ACC100378,05-Oct-2023,17:40,Madurai,State Highway,Clear,Daylight,Pedestrian Involved,Drunk Driving,Fatal,1,4,26,Female,80
+ACC100064,27/10/2023,06:53,Coimbatore,National Highway,Clear,Dusk/Dawn,Two-Wheeler,Over-speeding,Minor,2,1,,Male,80
+ACC101147,15-Jul-2024,09:57,salem,National Highway,fog,Daylight,Two-Wheeler,Over-speeding,Fatal,2,,39,M,80
+ACC100902,09-Jun-2023,08:40,Salem,State Highway,Rain,Daylight,Car,Wrong-Side Driving,minor,1,0,44,Male,80
+ACC100178,19/10/2024,16:39,Chennai,National Highway,Clear,Daylight,AUTO RICKSHAW,Poor Road Condition,Minor,1,0,27,M,100
+ACC100763,2024-11-14,18:29,Chennai,Rural Road,Rain,Dusk/Dawn,Auto Rickshaw,Over-speeding,Serious,3,2,46,Male,60
+ACC100228,2024-02-04,15:06,Tiruchirappalli,City Road,Clear,Daylight,Car,Poor Road Condition,Minor,2,0,53,Male,40
+ACC101448,2024-06-23,08:56,Madurai,STATE HIGHWAY, Clear ,Daylight, Car ,Unknown,Serious,2,3,18,M,60
+ACC100080,2024-11-17,17:11,Chennai,City Road,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,3,0,39,Male,50
+ACC101290,20/06/2023,09:43,Chennai,City Road,Clear,Daylight,AUTO RICKSHAW,Over-speeding,Minor,2,1,42,M,50
+ACC100338,2023-05-28,14:51, Coimbatore ,National Highway,Clear,Daylight,Truck,Distracted Driving, Serious ,2,2,25,Male,100
+ACC100162,26-Oct-2023,21:09,Chennai,STATE HIGHWAY,clear,Dark,Bus,Wrong-Side Driving,Minor,2,2,54,F,80
+ACC101370,2024-10-04,09:47,Coimbatore,City Road, Clear ,Daylight,Car,Over-speeding,Minor,2,2,32,M,40
+ACC100360,2024-09-09,07:03,Coimbatore,State Highway,Clear,Daylight,Car,Over-speeding,Minor,3,1,24,M,60
+ACC100901,2023-01-31,09:41,Tirunelveli,National Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,1,0,58,Male,100
+ACC100374,08/10/2024,12:11,Madurai,State Highway,Clear,Daylight,Car,Distracted Driving,Minor,2,1,unknown,Female,60
+ACC101294,2024-11-25,23:24,Tirunelveli,City Road,Rain,Dark,Car,Over-speeding,Minor,2,0,32,M,50
+ACC100327,2023-01-28,14:32,Tirunelveli,State Highway,Rain,Daylight,TWO-WHEELER,Over-speeding,Serious,1,2,48,Female,60
+ACC100799,19/11/2023,09:50,Chennai,National Highway,Clear,Daylight,Two-Wheeler,Unknown,Fatal,2,3,35,M,80
+ACC100284,2023-11-19,12:50,Chennai,Rural Road,Cloudy,Daylight,Two-Wheeler,Distracted Driving,Minor,1,1,20,Male,40
+ACC100855,12/09/2024,09:49,Chennai,Rural Road,CLEAR,Daylight,Truck,Over-speeding,Serious,2,3,25,M,60
+ACC101219,18/11/2023,15:27,Trichy,National Highway,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,2,1,,Male,100
+ACC101100,2023-12-17,08:20,Coimbatore,state highway,clear,Daylight,Car,Signal Violation,Serious,2,2,28,Male,60
+ACC100425,2023-05-26,18:05,Madurai,STATE HIGHWAY,Clear,Dusk/Dawn,Two-Wheeler,Poor Road Condition,Minor,1,2,unknown,Male,80
+ACC100209,22/07/2024,15:25,Chennai,State Highway,Cloudy,Daylight,Bus,Poor Road Condition,Fatal,1,4,42,Male,60
+ACC100905,01-Jun-2024,12:23,Trichy,City Road,Fog,Daylight,Truck,Wrong-Side Driving,Serious,2,1,24,M,50
+ACC101116,2024-12-27,21:47,trichy,State Highway,CLEAR,Dark,Car,Signal Violation,Fatal,2,3,46,Female,60
+ACC100097,13/05/2024,18:00,Coimbatore,National Highway,Clear,Dusk/Dawn,Bus,Drunk Driving,Fatal,2,2,27,Male,80
+ACC100283,2023-12-25,21:45,Chennai,City Road,Clear,Dark,Two-Wheeler,Over-speeding,Fatal,2,4,37,Male,40
+ACC101155,2024-03-04,13:13,Chennai,National Highway,Rain,Daylight,Two-Wheeler,Drunk Driving,serious,1,1,28,Male,80
+ACC100761,2024-02-08,07:04,Coimbatore,City Road,Rain,Daylight,Two-Wheeler,Over-speeding,Minor,4,1,46,Male,40
+ACC100642,15-Sep-2024,06:39,Tirunelveli,State Highway,Clear,Dusk/Dawn,Two-Wheeler,Signal Violation,Minor,1,0,25,F,60
+ACC101109,2023-02-02,08:07,Madurai,City Road, Clear ,Daylight,Two-Wheeler,Drunk Driving,Minor,1,1,21,M,50
+ACC101431,16/05/2023,22:32,Erode,National Highway,,Dark,Two-Wheeler,Wrong-Side Driving,Serious,2,3,55,M,80
+ACC101160,2024-03-01,00:07,MADURAI,State Highway,Rain,Dark,Two-Wheeler,Over-speeding,Serious,3,2,25,Male,80
+ACC100987,19/08/2023,08:45,Madurai,national highway,Clear,Daylight,Two-Wheeler,Poor Road Condition,Minor,3,1,29,M,100
+ACC101372,25/11/2023,09:44,Madurai,National Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Serious,4,2,18,Male,
+ACC100971,02-Nov-2023,08:27,chennai,National Highway,Clear,Daylight,Truck,Over-speeding,Serious,1,2,39,M,80
+ACC101379,30-Jan-2024,01:00,Chennai,National Highway,Clear,Dark,Car,Over-speeding,Serious,4,2,33,Male,80
+ACC100424,01/11/2023,14:19,Chennai,STATE HIGHWAY,Clear,Daylight,Auto Rickshaw,Distracted Driving,Minor,3,1,56,M,80
+ACC101194,19-Jan-2024,19:35,Chennai,City Road,,Dark,Truck,Unknown,Serious,2,1,25,,50
+ACC101389,2024-10-25,20:17,Trichy,National Highway, Clear ,Dark,Two-Wheeler,Over-speeding,Serious,1,2,34,Male,100
+ACC101125,2024-09-07,19:41,Chennai,City Road,Cloudy,Dark,two-wheeler,Over-speeding,MINOR,2,2,45,Male,40
+ACC100361,2024-10-12,12:49,Coimbatore,Rural Road,,Daylight,Two-Wheeler,Distracted Driving,Minor,2,2,51,M,60
+ACC100623,2023-11-01,19:40, Tirunelveli ,City Road,Clear,Dark,Two-Wheeler,Poor Road Condition,Serious,2,1,unknown,M,40
+ACC100895,22/03/2024,13:01,Trichy,State Highway,Clear,Daylight,Car,Poor Road Condition,Minor,2,1,28,Male,60
+ACC100597,2024-07-23,11:19,Erode,City Road,Clear,Daylight,Car,Drunk Driving,Serious,2,2,20,M,50
+ACC100335,13/08/2024,N/A,Coimbatore,City Road,Clear,Dusk/Dawn,Two-Wheeler,Poor Road Condition,Minor,2,1,48,M,50
+ACC100132,2023-03-08,21:16,chennai,State Highway,Rain,Dark,Auto Rickshaw,Drunk Driving,Fatal,3,2,,M,60
+ACC100458,2024-09-05,08:55,Chennai,State Highway,Clear,Daylight,Two-Wheeler,Distracted Driving,Serious,2,3,36,M,60
+ACC100353,2023-11-14,19:04,Coimbatore,National Highway,CLEAR,Dark,Car,Wrong-Side Driving,Fatal,2,4,31,Male,100
+ACC100072,2023-12-04,09:29,tirunelveli,NATIONAL HIGHWAY,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,1,2,32,M,80
+ACC100959,2023-10-28,09:53, Coimbatore ,National Highway,Cloudy,Daylight,Car,Unknown,Serious,1,3,53,M,80
+ACC100143,2023-10-26,05:04,CHENNAI,National Highway,Rain,Dark,Bus,Wrong-Side Driving,fatal,2,3,18,Male,80
+ACC101354,10-Jun-2023,17:24,Erode,National Highway,Clear,Daylight,Car,Distracted Driving,Fatal,2,2,31,M,80
+ACC101270,2023-09-27,17:19,Vellore,City Road,Cloudy,Daylight,TWO-WHEELER,Wrong-Side Driving,Minor,1,1,38,Male,50
+ACC100876,2024-01-30,11:10,Chennai,National Highway,Clear,Daylight,Truck,Poor Road Condition,Minor,2,1,19,M,80
+ACC101314,2024-10-20,12:35,Chennai,State Highway,Clear,Daylight,PEDESTRIAN INVOLVED,Wrong-Side Driving,Serious,2,2,39,Male,60
+ACC101387,2023-08-26,19:10,Chennai,National Highway,clear,Dark,Car,Distracted Driving,Serious,1,-1,22,M,80
+ACC100380,2023-01-04,23:22,Coimbatore,National Highway,Rain,Dark,Two-Wheeler,Distracted Driving,Minor,1,0,53,Male,100
+ACC101351,2023-10-14,06:35, Chennai ,Rural Road,Clear,Dusk/Dawn,two-wheeler,Distracted Driving,Minor,2,0,40,Female,40
+ACC100289,2023-12-12,06:35,Coimbatore,City Road,Cloudy,Dusk/Dawn,Two-Wheeler,Over-speeding,Serious,1,3,45,M,40
+ACC100314,2023-06-28,10:44,Coimbatore,State Highway,RAIN,Daylight,Car,Over-speeding,Serious,2,3,26,M,60
+ACC101478,2023-06-18,02:12,Tirunelveli, National Highway ,Clear,Dark,Bus,Unknown,Fatal,1,1,61,Male,100
+ACC100485,19-Jun-2023,05:03,Salem,State Highway,Cloudy,Dark,Two-Wheeler,Over-speeding,Minor,1,2,37,M,60
+ACC100904,02/12/2023,N/A,Coimbatore,City Road,Clear,Dark,Auto Rickshaw,Distracted Driving,Minor,2,2,69,M,40
+ACC100818,2024-04-30,14:45,Trichy,State Highway,Clear,Daylight,Two-Wheeler,Drunk Driving,serious,2,2,unknown,M,80
+ACC101159,06/09/2023,20:44,Chennai,City Road,Clear,Dark,Car,Poor Road Condition,Minor,2,,18,M,40
+ACC100334,02-Dec-2023,23:58,Coimbatore,State Highway,Rain,Dark,Car,Wrong-Side Driving,Minor,4,2,39,Male,60
+ACC100208,2023-07-12,14:46,Chennai,National Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,4,1,37,M,80
+ACC101065,2023-10-11,15:38,Tirunelveli,National Highway, Fog ,Daylight,Two-Wheeler,Signal Violation,Serious,2,2,36,Male,100
+ACC100407,16/04/2023,00:47,CHENNAI,national highway,CLEAR,Dark,Truck,Over-speeding,Fatal,2,4,28,Male,100
+ACC101257,2024-02-10,06:31,Madurai,STATE HIGHWAY,Cloudy,Dusk/Dawn,Two-Wheeler,Drunk Driving,Minor,1,2,33,Male,80
+ACC100552,27/08/2024,18:57,Coimbatore,City Road,Cloudy,Dusk/Dawn,Auto Rickshaw,Wrong-Side Driving,Minor,1,0,36,M,50
+ACC100962,2024-09-05,23:42,Salem,National Highway,Rain,Dark,Bus,Over-speeding,Fatal,2,3,26,M,80
+ACC101349,2024-03-10,08:03,Tirunelveli,City Road,Clear,Daylight,pedestrian involved,Poor Road Condition,Minor,1,1,unknown,F,40
+ACC100154,2023-11-14,22:07,Chennai,State Highway,Clear,Dark,Two-Wheeler,Distracted Driving,Minor,1,2,35,Male,
+ACC100688,21-Nov-2023,21:49,Trichy,Rural Road,Rain,Dark,Car,Over-speeding,Fatal,2,4,45,Female,40
+ACC100175,04/12/2023,08:22,Chennai,National Highway,Cloudy,Daylight,Car,Signal Violation,Serious,1,3,45,Female,100
+ACC100007,2024-05-24,21:35,Chennai,National Highway,Cloudy,Dark,Auto Rickshaw,Distracted Driving,Serious,3,2,39,M,100
+ACC100292,27-Nov-2024,17:58,Madurai,NATIONAL HIGHWAY,Cloudy,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,2,2,20,Male,80
+ACC101397,2024-04-22,23:57,Salem,City Road,Clear,Dark,Two-Wheeler,Drunk Driving,Minor,1,,26,Male,50
+ACC100490,2024-11-12,20:38,Trichy,national highway,Clear,Dark,Car,Drunk Driving,Serious,3,2,unknown,M,100
+ACC100152,2024-10-31,02:19,Coimbatore,National Highway,Clear,Dark,Car,Distracted Driving,Serious,1,3,37,Male,100
+ACC100587,2023-03-14,16:14,Madurai,State Highway,Cloudy,Daylight,Two-Wheeler,Distracted Driving,serious,2,1,26,M,60
+ACC100250,2023-05-12,04:02,Vellore,National Highway,Cloudy,Dark,Auto Rickshaw,Over-speeding,Fatal,4,2,46,F,80
+ACC101264,24/06/2023,12:18,Trichy,State Highway,Rain,Daylight,Two-Wheeler,Over-speeding,Minor,2,2,29,F,60
+ACC100760,2023-05-09,06:59,Vellore,City Road,Clear,Dusk/Dawn,Two-Wheeler,Signal Violation,Minor,2,0,32,Male,50
+ACC100448,16/01/2024,09:15,Coimbatore,City Road,Rain,Daylight,Two-Wheeler,Over-speeding,Minor,2,0,28,Male,50
+ACC100238,2023-08-14,10:20,Coimbatore,National Highway,Cloudy,Daylight,Two-Wheeler,Poor Road Condition,Minor,3,0,29,Female,80
+ACC100359,30-Jun-2024,07:45,Tiruchirappalli,National Highway,Clear,Daylight,Truck,Over-speeding, Fatal ,3,2,20,M,80
+ACC100078,2024-02-17,20:16,Trichy,State Highway,Clear,Dark,Two-Wheeler,Over-speeding,Fatal,3,3,28,M,60
+ACC100227,27/02/2024,12:53,Chennai,National Highway,Clear,Daylight,Two-Wheeler,Poor Road Condition,Minor,2,2,23,M,80
+ACC101141,2023-09-05,18:17,Madurai,City Road,Rain,Dusk/Dawn,Pedestrian Involved,Poor Road Condition,Serious,2,1,24,Female,40
+ACC101454,2024-02-22,10:40, Madurai ,State Highway,Cloudy,Daylight,Car,Drunk Driving,Fatal,2,1,18,M,80
+ACC100116,2023-01-28,20:17,Chennai,National Highway,CLEAR,Dark,Two-Wheeler,Over-speeding,Serious,3,1,27,Male,100
+ACC100323,30/10/2024,21:58,Tirunelveli,City Road,clear,Dark,Two-Wheeler,Wrong-Side Driving,Minor,2,0,40,M,40
+ACC100146,26-Jan-2023,09:44,Salem,Rural Road,Fog,Daylight,Two-Wheeler,Over-speeding,Minor,1,0,18,M,40
+ACC100439,2023-10-18,17:20,Trichy,National Highway,Rain,Daylight,Car,Over-speeding,Fatal,1,4,40,M,80
+ACC101485,21-Sep-2024,20:18,Coimbatore,State Highway,Fog,Dark,Truck,Wrong-Side Driving,Minor,1,1,36,M,60
+ACC101135,12/02/2023,10:35,Chennai,City Road,Rain,Daylight,Car,Over-speeding,Minor,1,0,27,Male,40
+ACC100173,2024-06-11,15:52,Vellore,National Highway,Clear,Daylight,Two-Wheeler,Over-speeding, Fatal ,2,2,unknown,Male,80
+ACC100745,23-Sep-2023,17:13,Salem,City Road,Clear,Daylight,Two-Wheeler,Poor Road Condition,Minor,1,2,37,,50
+ACC101253,2024-08-02,17:16,Madurai,City Road,Rain,Daylight,Truck,Over-speeding,Serious,2,3,37,M,40
+ACC100046,2023-11-22,01:35,Madurai,Rural Road,Clear,Dark, Car ,Over-speeding, Serious ,1,1,27,F,60
+ACC100725,2023-03-27,14:29,Tirunelveli, State Highway ,Clear,Daylight,Two-Wheeler,Poor Road Condition,Minor,2,1,32,M,60
+ACC101330,2023-11-25,12:19,Chennai,City Road,Clear,Daylight,Two-Wheeler,Drunk Driving,Minor,1,0,unknown,M,40
+ACC101280,24/06/2024,01:11,Chennai,Rural Road,Rain,Dark,Car,Wrong-Side Driving,Serious,2,2,22,Male,60
+ACC100147,20-Jun-2023,07:04,Salem,National Highway,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,2,2,30,Male,80
+ACC100414,2023-01-14,07:46,Coimbatore,State Highway,Clear,Daylight,Auto Rickshaw,Signal Violation,MINOR,2,0,210,M,
+ACC100153,2023-08-03,14:12,Chennai,National Highway,Clear,Daylight,Two-Wheeler,Signal Violation,Minor,2,2,28,M,100
+ACC100615,2024-04-11,15:15,Salem,Rural Road,clear,Daylight,Auto Rickshaw,Drunk Driving,Serious,2,3,32,M,40
+ACC100707,2024-02-22,13:45,Trichy,Rural Road,Clear,Daylight,Two-Wheeler,Signal Violation,Minor,3,2,51,Male,60
+ACC100427,10/08/2024,11:35,Erode,State Highway,Clear,Daylight,Car,Distracted Driving,Minor,1,2,28,,80
+ACC100164,2023-11-02,23:18,Tiruchirappalli,City Road, Cloudy ,Dark,Two-Wheeler,Distracted Driving,Minor,1,2,unknown,M,40
+ACC101266,2023-02-10,09:18,Coimbatore,State Highway,Clear,Daylight,Truck,Distracted Driving,Minor,2,1,25,Male,60
+ACC100635,15-May-2024,02:05,Chennai,State Highway,Clear,Dark,Two-Wheeler,Over-speeding,Fatal,1,4,36,Male,80
+ACC100768,2023-04-13,07:41,Trichy,Rural Road,Fog,Daylight,Truck,Wrong-Side Driving,Minor,3,0,29,Female,40
+ACC101012,2023-06-29,08:54,Erode,State Highway,Clear,Daylight,Car,Over-speeding,Minor,1,0,43,M,80
+ACC100677,2023-03-03,04:27,Madurai,National Highway,Cloudy,Dark,Car,Wrong-Side Driving,Fatal,2,1,35,Male,80
+ACC100602,2024-06-23,09:14,Madurai,National Highway,Clear,Daylight,Truck,Wrong-Side Driving,Serious,4,2,38,Male,
+ACC101036,2024-10-21,10:03,Coimbatore,National Highway,Clear,Daylight,Two-Wheeler,Signal Violation,Minor,3,1,27,M,100
+ACC101320,2023-03-25,20:36,tirunelveli,City Road,Clear,Dark,Two-Wheeler,Poor Road Condition,Minor,1,,29,Male,40
+ACC100386,2023-02-19,13:41,Madurai,National Highway,Clear,Daylight,Two-Wheeler,Signal Violation,MINOR,4,1,36,Male,
+ACC100122,2024-04-22,23:49,Coimbatore,City Road,Rain,Dark,Two-Wheeler,Signal Violation,Serious,2,1,19,Male,50
+ACC100095,30-Jul-2023,20:02,Chennai,Rural Road,Clear,Dark,Auto Rickshaw,Distracted Driving,Minor,1,0,18,Male,60
+ACC100045,09-Dec-2024,10:45,VELLORE,National Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,1,,19,Male,80
+ACC100382,22-Nov-2024,05:29,Erode,City Road,Rain,Dark,Two-Wheeler,Distracted Driving,Serious,2,3,49,M,
+ACC100914,08-Mar-2024,21:18,Coimbatore,City Road,Rain,Dark,Two-Wheeler,Drunk Driving,Serious,2,1,28,Male,50
+ACC100190,2024-05-14,08:00,Chennai,STATE HIGHWAY,Cloudy,Daylight,Two-Wheeler,Distracted Driving,Minor,1,0,unknown,Female,80
+ACC100866,21/08/2024,00:05,madurai,State Highway,CLEAR,Dark,Two-Wheeler,Over-speeding,Fatal,2,2,26,M,60
+ACC100911,2023-05-14,17:28,Madurai,City Road, Rain ,Daylight,car,Wrong-Side Driving,Minor,2,0,35,F,40
+ACC100584,22/10/2023,22:31,Erode,RURAL ROAD,Clear,Dark,Two-Wheeler,Poor Road Condition,Minor,3,1,31,M,60
+ACC100761,2024-02-08,07:04,Coimbatore,City Road,Rain,Daylight,Two-Wheeler,Over-speeding,Minor,4,1,46,Male,40
+ACC100806,02/02/2024,21:23,trichy,Rural Road,clear,Dark,Bus,Wrong-Side Driving,Minor,2,0,37,M,40
+ACC100255,16-Apr-2023,12:36,Tirunelveli,State Highway,Cloudy,Daylight,Auto Rickshaw,Over-speeding,Minor,3,1,39,Male,60
+ACC100091,2024-08-10,19:02,Erode,State Highway,Clear,Dark,Auto Rickshaw,Distracted Driving,Serious,2,1,53,Female,80
+ACC100777,2023-03-28,14:49,Chennai,City Road,Clear,Daylight,Truck,Wrong-Side Driving,Minor,2,2,26,,40
+ACC100626,2023-09-04,17:14,ERODE,State Highway,Rain,Daylight,Two-Wheeler,Over-speeding,FATAL,1,1,24,Male,80
+ACC101237,2023-04-01,18:55,,City Road,RAIN,Dusk/Dawn,Two-Wheeler,Over-speeding,Minor,2,0,43,Female,50
+ACC100570,2024-11-23,14:54,salem, National Highway ,Rain,Daylight,Car,Over-speeding,Serious,1,2,unknown,M,80
+ACC100370,02/09/2023,17:11,Erode,State Highway,Cloudy,Daylight,two-wheeler,Signal Violation,Minor,2,1,32,M,80
+ACC101463,07/02/2023,14:16,VELLORE,State Highway,Cloudy,Daylight,Car,Wrong-Side Driving,Minor,2,1,21,M,80
+ACC101382,2023-09-11,23:50,Chennai,City Road,,Dark,Car,Over-speeding,Minor,3,2,36,Male,40
+ACC100612,26-Jul-2024,17:59,Trichy,City Road,Clear,Daylight,Pedestrian Involved,Wrong-Side Driving,Minor,3,2,18,M,50
+ACC100423,29-Feb-2024,18:40,Coimbatore,Rural Road,FOG,Dusk/Dawn,Car,Over-speeding,Serious,2,3,30,Male,60
+ACC100347,2024-11-14,19:05,trichy,City Road,Rain,Dark,Two-Wheeler,Poor Road Condition,Minor,2,1,33,M,50
+ACC100989,28-Jul-2024,N/A,Vellore,City Road,Clear,Dark,Bus,Drunk Driving,Serious,2,2,42,Male,40
+ACC100421,21/05/2024,18:52,Coimbatore,National Highway,CLEAR,Dusk/Dawn,Two-Wheeler,Over-speeding,Serious,2,1,45,Male,80
+ACC100880,2023-03-04,14:09,Salem,National Highway,Clear,Daylight,Car,Over-speeding,minor,1,2,31,M,100
+ACC101407,2024-09-30,09:54,Coimbatore,City Road,Rain,Daylight,Truck,Wrong-Side Driving,Minor,2,2,19,M,40
+ACC101168,2024-12-29,16:45,Madurai,City Road,Clear,Daylight,Car,Signal Violation,Minor,2,0,39,M,40
+ACC101246,19-Sep-2024,09:25,Erode,national highway,Cloudy,Daylight,Bus,Over-speeding,Serious,2,2,25,F,100
+ACC100894,01/07/2024,07:32,Erode,State Highway,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,2,0,46,Male,80
+ACC100614,15/05/2024,13:14,Trichy,National Highway,Cloudy,Daylight,Two-Wheeler,Unknown,Minor,1,1,20,M,80
+ACC101204,20-Apr-2024,21:18,Salem,State Highway,,Dark,Car,Wrong-Side Driving,Serious,3,3,47,Female,60
+ACC100296,2024-09-12,07:30,Salem,National Highway,Fog,Daylight,Two-Wheeler,Over-speeding,Serious,2,2,43,Male,100
+ACC100692,10/11/2024,07:29,CHENNAI,National Highway, Cloudy ,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,1,0,35,Female,100
+ACC100115,2024-02-20,21:25,Trichy,National Highway,Fog,Dark,Truck,Signal Violation,Serious,2,3,,M,80
+ACC101220,2024-04-19,09:58,Chennai,City Road,Clear,Daylight,Truck,Poor Road Condition,Minor,1,0,unknown,M,50
+ACC101035,2024-06-26,20:40,Coimbatore,City Road,Rain,Dark,Two-Wheeler,Signal Violation,Minor,1,2,21,Male,40
+ACC100468,2023-05-13,18:02,Coimbatore,National Highway,cloudy,Dusk/Dawn,TWO-WHEELER,Distracted Driving,minor,1,2,29,M,80
+ACC101386,2024-02-14,09:59,Coimbatore,NATIONAL HIGHWAY,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,1,2,18,Male,100
+ACC100450,02-Dec-2024,16:19,Salem,National Highway,,Daylight,Bus,Signal Violation,Serious,2,1,unknown,Female,80
+ACC100539,16-Jan-2023,16:12,Coimbatore,City Road,Rain,Daylight,Truck,Over-speeding,Fatal,1,3,30,Female,40
+ACC101153,2024-10-25,07:27,Madurai,State Highway,Rain,Daylight,Two-Wheeler,Drunk Driving,fatal,3,1,18,,60
+ACC101203,09/07/2024,22:25,Tiruchirappalli,City Road,Cloudy,Dark,Two-Wheeler,Distracted Driving,Serious,1,99,21,M,50
+ACC100751,18/04/2023,22:25,Madurai, National Highway ,Clear,Dark,Two-Wheeler,Signal Violation,Minor,3,0,25,M,80
+ACC100514,2024-12-01,16:39,Erode,National Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Serious,1,2,42,M,100
+ACC100482,2023-07-02,07:11,Tirunelveli,State Highway,Cloudy,Daylight,Auto Rickshaw,Signal Violation,Minor,1,0,21,Male,60
+ACC100846,25-Apr-2023,07:29,Salem,City Road,Clear,Daylight,Car,Poor Road Condition,Serious,2,2,34,F,50
+ACC100787,2024-05-15,18:51,Chennai,City Road, Rain ,Dusk/Dawn,Auto Rickshaw,Drunk Driving,Serious,2,3,28,M,50
+ACC101176,2023-08-20,10:31,trichy,National Highway,Clear,Daylight,Truck,Over-speeding,Serious,3,1,47,,
+ACC100387,2024-08-29,12:32,Vellore,City Road,Clear,Daylight,Two-Wheeler,Poor Road Condition,Minor,1,0,37,Male,40
+ACC100202,28/12/2023,08:32,Erode,State Highway,Rain,Daylight,Car,Distracted Driving,Minor,2,1,49,Male,80
+ACC100502,2024-12-03,06:37,Chennai,City Road,Rain,Dusk/Dawn,Two-Wheeler,Wrong-Side Driving,Serious,2,2,35,M,40
+ACC100778,2023-07-17,07:22,Salem,National Highway,Clear,Daylight,Auto Rickshaw,Wrong-Side Driving,Minor,3,2,50,F,100
+ACC101265,27/01/2023,15:32,Madurai,State Highway,Clear,Daylight,Car,Drunk Driving,Serious,2,1,43,Female,80
+ACC101018,2023-01-31,06:34,Chennai, National Highway ,Clear,Dusk/Dawn,car,Unknown,Serious,2,1,50,M,100
+ACC100109,2024-05-29,15:26,Vellore,Rural Road, Rain ,Daylight,Auto Rickshaw,Drunk Driving,Serious,1,2,unknown,Male,60
+ACC100142,2023-07-21,08:57,Vellore,State Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,2,1,43,Male,80
+ACC100646,03/12/2023,15:28,Coimbatore,Rural Road,Clear,Daylight,Two-Wheeler,Drunk Driving,Minor,3,2,34,Male,40
+ACC100401,21-Jul-2024,20:39,Tirunelveli,National Highway,Clear,Dark,Car,Wrong-Side Driving,Serious,3,3,40,M,100
+ACC100158,04/01/2024,08:25,Erode,City Road,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,2,1,18,Male,40
+ACC100715,06/08/2024,17:13,Tirunelveli,STATE HIGHWAY,Cloudy,Daylight,Two-Wheeler,Distracted Driving,Minor,3,2,45,Male,80
+ACC100854,30/07/2023,08:47,Trichy,Rural Road,CLEAR,Daylight,Car,Over-speeding,minor,1,2,34,M,60
+ACC100571,2023-10-31,13:35,Chennai,State Highway,Clear,Daylight, Car ,Wrong-Side Driving,Minor,2,1,49,Female,80
+ACC101227,2024-12-19,21:06,Chennai,State Highway,Clear,Dark,Two-Wheeler,Over-speeding,Minor,1,2,39,M,60
+ACC101223,2024-04-22,11:31, Chennai ,Rural Road,Clear,Daylight,Truck,Wrong-Side Driving,Minor,2,1,44,Male,60
+ACC100214,2024-06-21,22:01,Chennai,City Road, Clear ,Dark,Two-Wheeler,Over-speeding,Fatal,2,2,40,M,40
+ACC101037,2023-01-11,18:50,Tirunelveli,City Road,Rain,Dusk/Dawn,Pedestrian Involved,Wrong-Side Driving, Minor ,2,2,48,Female,50
+ACC100820,18/01/2023,12:18,Salem,National Highway,Rain,Daylight,two-wheeler,Poor Road Condition,Minor,2,0,36,M,100
+ACC101433,15/02/2024,06:19,Coimbatore,National Highway,Clear,Dusk/Dawn,pedestrian involved,Distracted Driving,Minor,1,0,50,Male,100
+ACC100633,05/10/2023,23:02,Coimbatore,State Highway,Rain,Dark,Truck,Drunk Driving,FATAL,2,1,30,Female,60
+ACC100330,2024-02-04,08:20,Vellore,City Road,Clear,Daylight,Pedestrian Involved,Wrong-Side Driving,MINOR,2,-1,23,Male,50
+ACC100749,2023-04-26,17:34,Chennai,City Road,Rain,Daylight,Two-Wheeler,Over-speeding,serious,1,1,29,Male,50
+ACC101038,15-Nov-2023,20:48,Coimbatore,State Highway,Cloudy,Dark,Two-Wheeler,Distracted Driving,Minor,1,,36,M,60
+ACC101166,2023-01-17,17:12,Chennai,National Highway,RAIN,Daylight,CAR,Signal Violation,Fatal,1,3,19,Male,80
+ACC100428,2023-01-19,08:10,Erode,City Road,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,2,2,42,M,50
+ACC100616,2023-07-02,N/A,coimbatore,City Road,,Daylight,Car,Over-speeding,Minor,2,1,43,,40
+ACC100883,2023-04-24,18:22,Madurai,National Highway,Fog,Dusk/Dawn,Two-Wheeler,Drunk Driving,Fatal,2,4,30,Female,100
+ACC101198,09/08/2024,00:43,Chennai,Rural Road,Rain,Dark,TWO-WHEELER,Wrong-Side Driving,minor,1,1,31,Male,40
+ACC101133,10/07/2024,18:16,Madurai,National Highway,Clear,Dusk/Dawn,Car,Signal Violation,Minor,1,1,36,,100
+ACC101496,2024-02-07,08:51,Madurai,City Road,Clear,Daylight,Truck,Drunk Driving,Serious,2,3,24,Male,40
+ACC101234,10-Apr-2024,17:39,Chennai,National Highway,Rain,Daylight,TRUCK,Poor Road Condition,Minor,2,0,38,Female,100
+ACC100958,10-Dec-2024,20:31,Chennai,National Highway,Clear,Dark, Bus ,Distracted Driving,Fatal,3,2,18,F,100
+ACC100595,2024-08-08,17:10,Vellore,City Road,Clear,Daylight,Auto Rickshaw,Distracted Driving,Minor,1,2,33,Male,50
+ACC100898,2023-02-21,21:56,Chennai,City Road,Rain,Dark,Pedestrian Involved,Wrong-Side Driving,Minor,1,1,35,M,40
+ACC100447,28/11/2024,17:31,Salem, City Road ,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,1,0,46,Male,50
+ACC101264,24/06/2023,12:18,Trichy,State Highway,Rain,Daylight,Two-Wheeler,Over-speeding,Minor,2,2,29,F,60
+ACC100718,2023-06-22,18:03,Vellore,National Highway,RAIN,Dusk/Dawn,Two-Wheeler,Signal Violation,Serious,2,,45,M,80
+ACC100885,20-Jun-2024,12:52,Chennai,City Road,Cloudy,Daylight,Two-Wheeler,Signal Violation,Minor,3,45,39,Male,50
+ACC100516,2024-10-05,07:03,Tiruchirappalli,State Highway,Rain,Daylight,Truck,Signal Violation,Serious,2,1,-5,Female,60
+ACC100563,13/05/2023,00:38,Chennai,National Highway, Cloudy ,Dark,Truck,Wrong-Side Driving, Fatal ,2,1,37,F,100
+ACC101244,30-Sep-2024,14:01,Salem,City Road,Clear,Daylight,Car,Over-speeding,Minor,1,2,39,F,40
+ACC100272,2023-04-21,23:10,Tiruchirappalli,National Highway,Rain,Dark,Two-Wheeler,Signal Violation,Serious,2,3,23,F,80
+ACC100671,2024-03-24,14:26,trichy,City Road,Clear,Daylight,Bus,Signal Violation,Minor,1,2,34,M,50
+ACC100139,2023-11-15,18:55,Coimbatore,National Highway,Clear,Dusk/Dawn,Two-Wheeler,Over-speeding,Serious,1,2,39,F,100
+ACC101434,2023-08-22,15:50,Madurai,National Highway,Clear,Daylight,Truck,Over-speeding,Fatal,3,2,41,M,100
+ACC101006,12/09/2024,N/A,Madurai,National Highway,fog,Dusk/Dawn,Car,Drunk Driving,Fatal,3,1,47,Female,100
+ACC101491,2023-12-24,03:28,Erode,City Road,Cloudy,Dark,Two-Wheeler,Distracted Driving,Serious,2,3,0,Male,50
+ACC100431,2024-06-23,06:44,Madurai,City Road,Clear,Dusk/Dawn,Car,Over-speeding,Serious,2,2,,M,40
+ACC100963,2023-06-08,20:17,Chennai,City Road,Clear,Dark,Auto Rickshaw,Signal Violation,Minor,1,2,30,M,50
+ACC100169,2023-01-17,16:25,Trichy,National Highway,Rain,Daylight,Car,Over-speeding, Serious ,1,1,26,Male,100
+ACC101092,2024-09-07,07:31,Tirunelveli,City Road,Cloudy,Daylight,Auto Rickshaw,Over-speeding,Minor,1,1,32,M,50
+ACC100807,2023-03-22,14:44,trichy,NATIONAL HIGHWAY,Cloudy,Daylight,Bus,Over-speeding,Minor,4,0,24,M,80
+ACC100871,2023-05-28,15:44,Chennai,Rural Road,Rain,Daylight,Car,Poor Road Condition,minor,1,0,39,Male,40
+ACC101424,06/07/2023,10:54,,City Road,Rain,Daylight,Car,Distracted Driving,MINOR,2,0,34,M,40
+ACC100744,2024-08-03,12:21,Chennai,State Highway,Clear,Daylight,pedestrian involved,Poor Road Condition,Minor,1,0,27,,60
+ACC100611,04-Dec-2023,11:41,Coimbatore,City Road,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,MINOR,2,0,41,Male,50
+ACC101209,04/12/2024,17:45,Chennai,City Road,rain,Daylight,Two-Wheeler,Drunk Driving,Minor,2,0,20,M,50
+ACC101141,2023-09-05,18:17,Madurai,City Road,Rain,Dusk/Dawn,Pedestrian Involved,Poor Road Condition,Serious,2,1,24,Female,40
+ACC101088,20/04/2024,19:48,Chennai, State Highway ,Clear,Dark,Car,Over-speeding,Serious,4,3,38,Male,80
+ACC101262,2023-11-21,06:11,Coimbatore,city road,Clear,Dusk/Dawn,Two-Wheeler,Over-speeding,Minor,2,1,48,Male,50
+ACC100128,24/02/2024,N/A,Trichy,National Highway,Clear,Daylight,Two-Wheeler,Over-speeding,fatal,3,1,unknown,M,100
+ACC100008,2023-05-28,03:15,Chennai,City Road,Fog,Dark,Car,Wrong-Side Driving,Minor,1,2,31,Male,40
+ACC100311,2024-05-05,N/A,Vellore,City Road,Cloudy,Daylight,Car,Distracted Driving,Minor,2,0,unknown,M,40
+ACC101259,2024-08-08,N/A,Chennai,National Highway,Clear,Dusk/Dawn,Two-Wheeler,Signal Violation,Serious,2,2,24,Male,100
+ACC100526,2024-11-05,07:15,Chennai,State Highway,Clear,Daylight,Two-Wheeler,Distracted Driving,Serious,1,2,18,Male,80
+ACC101115,24-Dec-2023,20:43,Chennai,National Highway,Cloudy,Dark,CAR,Drunk Driving,fatal,2,1,20,M,80
+ACC100811,2024-10-03,17:55,Chennai,National Highway,Clear,Daylight,two-wheeler,Drunk Driving,Serious,1,,57,Male,80
+ACC100206,2024-07-11,19:28,CHENNAI,National Highway,CLEAR,Dark,Two-Wheeler,Wrong-Side Driving,Minor,1,2,39,Female,80
+ACC101487,01/01/2023,10:32,Chennai,State Highway,,Daylight,Pedestrian Involved,Over-speeding,Minor,3,0,18,Male,60
+ACC101369,08/04/2024,N/A,Coimbatore,National Highway, Cloudy ,Daylight,Bus,Signal Violation,Serious,2,2,31,M,100
+ACC100740,2024-08-19,03:21,Chennai,National Highway,Rain,Dark,Two-Wheeler,Distracted Driving,Fatal,2,2,56,M,100
+ACC100203,2024-05-25,07:51,trichy,State Highway,Clear,Daylight,Bus,Drunk Driving,Minor,2,2,39,M,60
+ACC100054,2023-12-30,06:42,Trichy,National Highway,Clear,Dusk/Dawn,Bus,Poor Road Condition,Serious,2,1,27,M,100
+ACC101157,12-Sep-2024,04:48,Chennai,City Road,,Dark,Car,Poor Road Condition,minor,2,1,unknown,Male,50
+ACC100488,12-Jul-2024,07:55, Chennai ,RURAL ROAD,,Daylight,Bus,Signal Violation,Minor,2,1,34,M,60
+ACC100540,2024-06-01,13:21, Erode ,National Highway,Cloudy,Daylight,Two-Wheeler,Signal Violation,Minor,2,2,24,Male,80
+ACC101015,2024-09-03,04:41, Madurai ,Rural Road,Cloudy,Dark,Car,Over-speeding,Minor,1,0,27,,40
+ACC100189,09/08/2023,05:43,Coimbatore,CITY ROAD,Rain,Dark,Two-Wheeler,Wrong-Side Driving,Minor,3,0,32,Male,50
+ACC100108,2023-12-11,11:52,Chennai,National Highway,Clear,Daylight,two-wheeler,Poor Road Condition,Minor,2,0,53,M,100
+ACC100537,26/03/2023,10:32,Tiruchirappalli,National Highway,,Daylight,Car,Over-speeding,Fatal,2,1,54,Male,80
+ACC100521,2023-04-17,11:27,Erode,City Road,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,1,0,39,Male,40
+ACC100825,2023-03-08,08:23,Madurai,National Highway,Rain,Daylight,Two-Wheeler,Over-speeding,Serious,3,3,29,M,100
+ACC100550,2024-08-09,08:26,Erode,National Highway,Cloudy,Daylight,Two-Wheeler,Signal Violation,Minor,2,1,30,Male,80
+ACC100022,2023-05-14,16:32, Madurai ,City Road,Clear,Daylight,Car,Signal Violation,Minor,1,1,45,Male,40
+ACC100376,2024-06-21,14:24,Chennai,National Highway,Clear,Daylight,Bus,Signal Violation,SERIOUS,1,1,68,M,100
+ACC101013,18/08/2023,05:52,Chennai,State Highway,Rain,Dark,pedestrian involved,Over-speeding,Fatal,1,2,41,M,80
+ACC100594,23/08/2023,23:26,Chennai,Rural Road,Cloudy,Dark, Two-Wheeler ,Distracted Driving,Minor,1,0,60,Female,
+ACC101393,25/06/2024,19:19,trichy,City Road,Rain,Dark,TWO-WHEELER,Distracted Driving,serious,2,3,20,Male,40
+ACC100205,2023-07-14,20:14,Coimbatore,National Highway,Rain,Dark,Car,Signal Violation,Fatal,3,1,45,M,80
+ACC100093,2023-10-10,12:43,Vellore,National Highway,,Daylight,Truck,Over-speeding,Fatal,2,1,25,M,100
+ACC100224,2024-06-10,N/A,Chennai,national highway,Clear,Daylight,Auto Rickshaw,Over-speeding,Serious,2,1,37,Male,100
+ACC101311,12/09/2023,08:38,Tirunelveli,National Highway,Clear,Daylight,Pedestrian Involved,Distracted Driving,Minor,2,2,36,Male,100
+ACC101112,21/05/2023,23:38,Salem,National Highway,Rain,Dark,Bus,Drunk Driving,fatal,1,3,21,Male,100
+ACC100929,26-Feb-2024,15:51,Erode,City Road,Cloudy,Daylight,Car,Distracted Driving,Serious,2,1,40,,50
+ACC101170,04-Apr-2024,14:21,Vellore,City Road,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,2,2,42,Male,40
+ACC100440,11-Dec-2024,13:43,chennai,RURAL ROAD,Clear,Daylight,Two-Wheeler,Distracted Driving,Serious,3,1,35,Female,60
+ACC101405,2023-04-24,20:08,trichy,Rural Road,,Dark, Two-Wheeler ,Unknown,Serious,2,2,30,Male,40
+ACC100588,03-Sep-2024,20:08,Salem,Rural Road,Cloudy,Dark,Car,Poor Road Condition,Minor,3,1,22,M,60
+ACC101493,2023-09-01,08:39,Chennai,Rural Road,Clear,Daylight,Two-Wheeler,Drunk Driving,Minor,2,0,34,M,60
+ACC100791,28-Nov-2023,08:52,Coimbatore,State Highway,Clear,Daylight,Pedestrian Involved,Over-speeding,Serious,1,1,46,Male,60
+ACC100800,2023-01-09,06:04,Chennai,City Road,Clear,Dusk/Dawn,Bus,Over-speeding,Minor,1,2,42,M,50
+ACC100092,2024-09-06,15:04,Erode,City Road,Rain,Daylight,Truck,Over-speeding,Serious,2,1,36,M,50
+ACC100567,2023-07-02,01:00,Madurai,State Highway,Clear,Dark,Two-Wheeler,Poor Road Condition,Minor,2,0,40,,80
+ACC101410,14/02/2023,13:11,Coimbatore,Rural Road,Fog,Daylight, Two-Wheeler ,Distracted Driving, Minor ,2,0,31,Female,60
+ACC100270,04-Aug-2023,20:17,Vellore,City Road,Clear,Dark,Two-Wheeler,Over-speeding,Minor,1,0,18,M,40
+ACC101301,2023-10-20,00:23,Salem,CITY ROAD,Rain,Dark,Two-Wheeler,Distracted Driving,Minor,2,2,34,Male,50
+ACC101111,2023-06-19,23:14,Tirunelveli,City Road,Rain,Dark,Truck,Over-speeding,Serious,1,2,,M,50
+ACC100075,14-Dec-2023,00:45,Erode,National Highway,CLEAR,Dark,Pedestrian Involved,Over-speeding,Serious,2,2,31,Male,100
+ACC101251,28/10/2023,13:13,Chennai,State Highway,Clear,Daylight,two-wheeler,Signal Violation,Minor,3,99,27,Female,80
+ACC100654,08/02/2024,07:48,Coimbatore,National Highway,Clear,Daylight, Car ,Signal Violation,Minor,2,2,38,Female,100
+ACC101188,2024-02-18,08:45,Chennai,City Road,Clear,Daylight,Two-Wheeler,Over-speeding,MINOR,2,1,44,Male,40
+ACC100894,01/07/2024,07:32,Erode,State Highway,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,2,0,46,Male,80
+ACC101224,2023-11-01,07:12,Chennai,city road,Rain,Daylight,Car,Wrong-Side Driving, Minor ,4,0,22,M,50
+ACC100560,27/01/2024,12:32,Salem,national highway,Clear,Daylight,Bus,Wrong-Side Driving,Minor,1,0,22,M,100
+ACC100853,24/06/2023,19:28,Coimbatore,city road, Clear ,Dark,Two-Wheeler,Over-speeding,Serious,3,,44,M,50
+ACC101128,11/02/2024,15:26,Tirunelveli,National Highway,Cloudy,Daylight,Two-Wheeler,Over-speeding,Serious,2,3,24,Male,80
+ACC101163,2024-01-23,15:27,Coimbatore,National Highway,Fog,Daylight,Auto Rickshaw,Distracted Driving,Minor,2,2,40,Male,80
+ACC101355,2023-12-29,18:35,Salem,City Road,Clear,Dusk/Dawn,Two-Wheeler,Wrong-Side Driving,Minor,1,0,54,Male,40
+ACC100246,2024-07-06,N/A,Coimbatore,State Highway,Cloudy,Daylight,Car,Distracted Driving,Minor,3,,31,Male,60
+ACC100856,28-Jun-2023,N/A,TIRUNELVELI,City Road,Clear,Dark,Bus,Wrong-Side Driving,Minor,2,0,25,Male,50
+ACC101087,2024-12-23,12:59,Tiruchirappalli,National Highway,clear,Daylight,CAR,Poor Road Condition,Minor,2,0,unknown,Male,80
+ACC100469,12-Nov-2024,04:48,Vellore,City Road,Cloudy,Dark,Two-Wheeler,Over-speeding,Serious,3,3,36,Male,50
+ACC100679,2024-11-14,13:24,Chennai,state highway,Clear,Daylight,Two-Wheeler,Drunk Driving,Minor,2,1,30,M,60
+ACC101427,20/10/2024,19:35,Chennai,City Road,Clear,Dark,Pedestrian Involved,Poor Road Condition,Serious,2,1,18,Male,40
+ACC101486,2023-04-29,06:54,Salem,National Highway,Clear,Dusk/Dawn,Two-Wheeler,Over-speeding,Serious,2,2,38,Male,80
+ACC100130,17/02/2024,12:08,Coimbatore,National Highway,Clear,Daylight, Car ,Over-speeding, Serious ,2,2,35,M,80
+ACC101304,2024-03-21,10:18, Chennai ,State Highway,Clear,Daylight,Truck,Signal Violation,Minor,2,1,43,Male,60
+ACC100024,24-Jul-2024,00:48,Coimbatore,City Road,Cloudy,Dark,Two-Wheeler,Wrong-Side Driving,Minor,3,1,24,M,50
+ACC100583,07/02/2023,22:26,Salem,National Highway,Clear,Dark,Car,Poor Road Condition,Minor,3,1,unknown,M,80
+ACC100391,11-May-2023,19:34,Salem,National Highway,Rain,Dark,Auto Rickshaw,Signal Violation,Fatal,2,3,unknown,M,100
+ACC101207,2024-06-10,04:19,Chennai,City Road, Clear ,Dark,two-wheeler,Over-speeding,Minor,2,1,18,F,40
+ACC101384,10-Oct-2023,14:07,Tirunelveli,state highway,Clear,Daylight,CAR,Poor Road Condition,Minor,2,1,55,F,80
+ACC101421,2024-12-27,08:47,Chennai,National Highway,Clear,Daylight,Truck,Over-speeding,Serious,1,3,25,M,80
+ACC100942,2024-10-29,08:55,Chennai,City Road,Clear,Daylight,Two-Wheeler,Poor Road Condition,MINOR,2,1,35,Male,40
+ACC100025,2024-04-15,20:27,Chennai,City Road,Cloudy,Dark,Two-Wheeler,Distracted Driving,Serious,2,3,28,M,40
+ACC100155,28/04/2024,17:11,Coimbatore,Rural Road,Clear,Daylight,Truck,Signal Violation,Minor,1,2,42,M,40
+ACC101482,31/07/2023,05:55,Tirunelveli,City Road,Rain,Dark,Car,Poor Road Condition,Serious,4,1,37,Male,50
+ACC101148,2024-05-18,04:58,Coimbatore,State Highway,Rain,Dark,Car,Drunk Driving,Fatal,2,,33,Male,80
+ACC100949,22-Jul-2023,18:10,Coimbatore, State Highway ,Cloudy,Dusk/Dawn,Truck,Distracted Driving,Minor,2,0,18,M,80
+ACC100542,2023-05-23,16:23,Erode,State Highway,Cloudy,Daylight,Auto Rickshaw,Distracted Driving,Minor,2,2,46,M,60
+ACC100991,2024-02-05,08:46,Coimbatore,City Road,Clear,Daylight,AUTO RICKSHAW,Drunk Driving,Minor,4,1,35,M,40
+ACC100720,12/04/2023,21:18,Trichy,National Highway,Clear,Dark,Two-Wheeler,Wrong-Side Driving,Minor,2,2,35,Male,100
+ACC100727,06-Mar-2023,23:46,Chennai,National Highway, Clear ,Dark,Two-Wheeler,Unknown,Serious,3,3,23,Male,100
+ACC101208,27/07/2023,20:32,Madurai,National Highway,Clear,Dark,Two-Wheeler,Over-speeding,Fatal,2,4,22,Female,100
+ACC100706,2023-01-06,08:42,Coimbatore,National Highway,Clear,Daylight,Two-Wheeler,Poor Road Condition,Serious,2,,52,Female,100
+ACC100729,25-Apr-2024,14:16,Salem,National Highway,Rain,Daylight,Bus,Signal Violation,minor,3,2,55,Male,100
+ACC100445,2024-04-28,07:43,Coimbatore,city road,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,2,1,23,M,40
+ACC100737,01-Sep-2023,13:49,Salem,National Highway,Rain,Daylight,car,Over-speeding,Fatal,2,2,40,M,80
+ACC101399,07-Aug-2023,05:52,Salem,National Highway,Fog,Dark,Two-Wheeler,Poor Road Condition,Fatal,2,4,34,Male,100
+ACC101027,24/07/2023,13:18,Tiruchirappalli,National Highway,Clear,Daylight,Bus,Over-speeding,Fatal,2,3,32,Male,100
+ACC100179,2024-01-01,18:04,Madurai,Rural Road,Clear,Dusk/Dawn,Pedestrian Involved,Unknown,Minor,1,0,25,M,40
+ACC100969,2023-01-27,19:16,Chennai,National Highway,Rain,Dark, Two-Wheeler ,Unknown,Fatal,1,4,39,M,100
+ACC101401,2023-06-26,02:09, Salem ,National Highway,Clear,Dark,Auto Rickshaw,Over-speeding,Fatal,4,4,36,M,100
+ACC101383,2024-10-16,21:13,Madurai, Rural Road ,Clear,Dark,Two-Wheeler,Poor Road Condition,Minor,1,1,39,M,40
+ACC100010,2024-01-20,18:17,Coimbatore,City Road,Fog,Dusk/Dawn,CAR,Distracted Driving,Minor,1,2,39,Male,40
+ACC100354,08/12/2024,06:03,Madurai,National Highway,Clear,Dusk/Dawn,Two-Wheeler,Wrong-Side Driving,serious,2,3,,Male,80
+ACC100067,2023-09-28,15:42,Chennai,National Highway,Clear,Daylight,Car,Distracted Driving,Minor,2,2,46,M,80
+ACC101106,28/06/2023,08:27,Salem,National Highway,Rain,Daylight,Two-Wheeler,Drunk Driving,Serious,1,3,35,M,80
+ACC100950,2023-03-10,21:15,Coimbatore,National Highway,Rain,Dark,Pedestrian Involved,Over-speeding,Fatal,2,1,42,M,100
+ACC100145,14/09/2024,20:24,Tiruchirappalli,Rural Road,Rain,Dark,Two-Wheeler,Wrong-Side Driving,Minor,3,0,31,Male,60
+ACC101126,2024-09-15,09:25,Madurai,City Road,Clear,Daylight,Two-Wheeler,Over-speeding,Serious,1,1,39,Male,40
+ACC100415,09/05/2024,20:06,Chennai,City Road,Clear,Dark,Pedestrian Involved,Distracted Driving,Minor,1,0,20,Male,50
+ACC100976,2023-03-11,10:15,Chennai,national highway,Fog,Daylight,Truck,Wrong-Side Driving,Serious,1,1,31,M,80
+ACC100506,23/01/2024,18:29,madurai,City Road, Cloudy ,Dusk/Dawn,Car,Distracted Driving,Minor,2,2,19,M,50
+ACC100300,2023-09-23,17:36,Vellore,State Highway,CLEAR,Daylight,two-wheeler,Poor Road Condition,MINOR,2,2,28,M,60
+ACC100523,2024-08-25,16:25, Coimbatore ,City Road,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,1,2,21,M,50
+ACC100181,2023-04-22,11:10,Chennai,National Highway,,Daylight,Bus,Over-speeding,Serious,3,3,23,Male,100
+ACC101169,2024-10-31,22:41,Madurai,City Road,Clear,Dark,Auto Rickshaw,Over-speeding,Minor,2,2,24,Female,40
+ACC100437,08/11/2024,23:35,Coimbatore,City Road,Clear,Dark,Two-Wheeler,Poor Road Condition,Serious,2,3,34,M,50
+ACC101205,2024-10-21,22:48,Salem,State Highway,Clear,Dark,Car,Distracted Driving,Serious,2,,34,M,80
+ACC100231,17/09/2024,19:41,Chennai,Rural Road,Clear,Dark,Car,Poor Road Condition,Minor,2,0,49,,40
+ACC100919,2024-04-09,20:38,COIMBATORE,State Highway,Rain,Dark,Two-Wheeler,Signal Violation,Serious,3,,35,M,60
+ACC100903,07/10/2024,06:31,Madurai,national highway,Clear,Dusk/Dawn,Truck,Distracted Driving,Serious,2,3,33,M,80
+ACC100138,11/09/2023,07:36,SALEM,National Highway,Clear,Daylight,Car,Over-speeding,serious,1,2,28,M,100
+ACC101275,04/06/2024,12:56,Chennai,National Highway,Fog,Daylight,Two-Wheeler,Over-speeding,Fatal,3,4,49,M,80
+ACC100195,2023-03-05,08:50,Coimbatore,City Road,Clear,Daylight,Car,Over-speeding,minor,1,0,37,M,40
+ACC101368,2024-12-04,05:55,Chennai,National Highway, Cloudy ,Dark,Two-Wheeler,Distracted Driving,Fatal,1,3,23,Male,80
+ACC100449,29-Jul-2023,18:22, Tirunelveli ,City Road,Fog,Dusk/Dawn,Auto Rickshaw,Drunk Driving,Serious,2,3,18,M,40
+ACC100937,19/04/2023,14:00,Trichy,National Highway,rain,Daylight,truck,Over-speeding,Serious,2,1,,Male,100
+ACC101239,30/01/2023,07:02,trichy,State Highway,Cloudy,Daylight,CAR,Drunk Driving,Serious,2,1,33,Female,80
+ACC100922,22-Nov-2023,N/A,Coimbatore,City Road,Clear,Dark,Bus,Distracted Driving,Minor,2,2,32,Male,40
+ACC101156,2023-03-29,13:49,Erode,Rural Road,Cloudy,Daylight,Two-Wheeler,Distracted Driving,Serious,3,1,24,M,60
+ACC100174,23/05/2024,07:49,Tiruchirappalli,City Road,Clear,Daylight,Car,Signal Violation,Minor,2,1,34,M,40
+ACC100222,2024-05-28,06:56,Salem,National Highway,Rain,Dusk/Dawn,Two-Wheeler,Drunk Driving,SERIOUS,4,3,45,Male,100
+ACC100254,2024-04-27,17:12,Chennai,Rural Road,Cloudy,Daylight,Car,Poor Road Condition,Minor,2,0,39,M,60
+ACC101423,2024-05-07,07:58,Chennai,State Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,2,1,36,M,60
+ACC100385,2023-03-31,10:12,Tiruchirappalli,City Road,cloudy,Daylight,Two-Wheeler,Distracted Driving,Minor,2,1,25,,50
+ACC100892,2024-01-17,13:48,Madurai,Rural Road,Clear,Daylight,Car,Over-speeding,Minor,2,2,29,M,40
+ACC101469,2023-02-14,09:03,Chennai,City Road,Rain,Daylight,Car,Over-speeding,Serious,1,2,31,,50
+ACC100822,10/04/2023,16:41,Madurai,Rural Road,Clear,Daylight,Two-Wheeler,Unknown,Minor,1,,46,Male,60
+ACC101402,2023-08-07,19:05,Chennai,National Highway,Clear,Dark,Truck,Distracted Driving,Fatal,1,2,33,M,100
+ACC100034,2024-10-10,23:01,Vellore,State Highway,Cloudy,Dark,Two-Wheeler,Distracted Driving,Minor,3,1,43,Male,80
+ACC100711,17/01/2024,15:08,salem,National Highway,Cloudy,Daylight,Pedestrian Involved,Drunk Driving,Fatal,3,4,27,M,
+ACC100870,30/11/2023,08:47,Coimbatore,National Highway,Rain,Daylight,CAR,Over-speeding,Fatal,2,2,unknown,Male,80
+ACC100265,29-Feb-2024,07:09,CHENNAI,National Highway,cloudy,Daylight,Two-Wheeler,Wrong-Side Driving,Serious,3,1,38,M,100
+ACC100557,2024-09-30,17:49,Erode, State Highway ,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,1,0,57,Male,80
+ACC100089,2024-08-30,15:17,,Rural Road,Rain,Daylight,Car,Drunk Driving,Minor,2,0,23,Male,60
+ACC100837,25/05/2023,16:34,Chennai,City Road,Rain,Daylight,Two-Wheeler,Distracted Driving,Minor,2,1,28,M,40
+ACC101193,2024-05-28,07:13,Tirunelveli,Rural Road,Clear,Daylight,TWO-WHEELER,Distracted Driving,Serious,1,3,57,Male,60
+ACC100842,25-Oct-2024,22:34,Trichy,Rural Road,,Dark,Bus,Over-speeding,Serious,2,1,51,M,60
+ACC100000,07/03/2023,08:41,tirunelveli,National Highway,Clear,Daylight,Car,Signal Violation,Minor,2,1,56,Male,80
+ACC101095,28-Feb-2023,17:21,Coimbatore, City Road ,Clear,Daylight,Truck,Wrong-Side Driving,Minor,3,2,24,Male,40
+ACC100613,2023-10-09,02:01,Erode,Rural Road,Clear,Dark,Truck,Over-speeding,Serious,2,2,28,M,60
+ACC100005,18/09/2024,08:22,salem,State Highway,Clear,Daylight,Truck,Wrong-Side Driving,MINOR,3,1,33,Male,60
+ACC100342,29/03/2024,09:05,Chennai,National Highway,Cloudy,Daylight,Two-Wheeler,Poor Road Condition,Serious,1,1,41,Male,100
+ACC100954,27/07/2024,14:18,Chennai,Rural Road,Rain,Daylight,Two-Wheeler,Wrong-Side Driving,Serious,1,2,41,M,60
+ACC100101,26-May-2023,07:56,Chennai,Rural Road,Clear,Daylight,Pedestrian Involved,Distracted Driving, Serious ,1,1,,M,60
+ACC100796,2024-12-07,08:00,trichy,Rural Road,Fog,Daylight,Bus,Over-speeding,Serious,2,2,46,Male,40
+ACC100039,2024-04-06,16:52,Tiruchirappalli,State Highway,Clear,Daylight,two-wheeler,Over-speeding,Minor,1,2,30,F,80
+ACC100528,2024-10-30,20:42,Tirunelveli,City Road,Clear,Dark,Pedestrian Involved,Poor Road Condition, Minor ,2,1,18,Male,40
+ACC100665,2024-05-22,19:04,Coimbatore,City Road,Rain,Dark,Bus,Poor Road Condition,Minor,2,1,30,Male,40
+ACC100452,2023-12-31,19:46,Chennai,National Highway,Clear,Dark,Auto Rickshaw,Poor Road Condition, Serious ,2,2,33,M,80
+ACC100780,2024-10-02,09:42,Chennai,Rural Road,Clear,Daylight,Car,Over-speeding,Minor,1,0,20,M,40
+ACC100660,10/05/2023,19:22,Chennai,Rural Road,Clear,Dark,Two-Wheeler,Drunk Driving,Minor,3,0,47,Male,60
+ACC100124,2024-09-16,18:23,Chennai,National Highway,Clear,Dusk/Dawn,Two-Wheeler,Signal Violation,Minor,1,2,unknown,M,100
+ACC100177,2023-04-28,20:34, Coimbatore ,National Highway,Clear,Dark,Pedestrian Involved,Distracted Driving,Fatal,2,3,18,M,100
+ACC100136,16/03/2024,12:49,Tirunelveli, State Highway ,Cloudy,Daylight,Car,Distracted Driving,Minor,1,1,26,Female,80
+ACC100336,2024-12-04,19:08,MADURAI,National Highway,Clear,Dark,Two-Wheeler,Drunk Driving,Serious,4,3,40,M,80
+ACC100118,2023-06-29,05:37,Chennai,State Highway, Cloudy ,Dark,Truck,Distracted Driving,Minor,2,0,41,F,60
+ACC101117,04/03/2024,08:11,Erode,City Road,Rain,Daylight,Bus,Distracted Driving,Serious,3,3,30,M,50
+ACC101450,03-Aug-2023,06:24,Tirunelveli,State Highway,Clear,Dusk/Dawn,Two-Wheeler,Distracted Driving,Minor,1,1,27,,80
+ACC100505,2023-11-28,20:57,Madurai,State Highway,Clear,Dark,bus,Wrong-Side Driving,Fatal,3,4,38,M,60
+ACC101308,2023-10-30,06:28, Vellore ,National Highway,clear,Dusk/Dawn, Auto Rickshaw ,Wrong-Side Driving,Minor,1,0,40,M,80
+ACC100617,14/07/2023,06:27,Chennai,CITY ROAD,Cloudy,Dusk/Dawn,two-wheeler,Over-speeding, Minor ,2,2,18,Male,50
+ACC100351,02/02/2023,10:43,Chennai,City Road,Cloudy,Daylight,Truck,Distracted Driving,Minor,3,1,39,M,40
+ACC101080,2024-11-02,13:32,Coimbatore,City Road,Fog,Daylight,car,Distracted Driving,Minor,1,2,47,M,50
+ACC100192,19-Mar-2024,07:59,Madurai,City Road,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,2,2,45,M,40
+ACC101449,17/03/2023,17:30,Chennai,City Road,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,4,2,25,M,40
+ACC101063,2024-05-29,08:06,trichy,National Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Serious,2,1,18,Male,100
+ACC100934,20/11/2023,06:31,Madurai,City Road,Rain,Dusk/Dawn,Truck,Signal Violation,MINOR,2,2,27,M,50
+ACC101165,18/03/2023,07:27,Chennai,City Road,Clear,Daylight,Bus,Signal Violation,minor,1,1,51,M,40
+ACC100135,10/08/2023,11:45,Salem,national highway,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,Serious,3,2,40,Male,100
+ACC100244,2024-04-03,21:41,Chennai,National Highway,Clear,Dark,Truck,Drunk Driving,Fatal,2,4,31,F,100
+ACC100460,2024-06-12,18:22, Madurai ,National Highway,Clear,Dusk/Dawn,Two-Wheeler,Signal Violation,MINOR,4,2,39,Male,100
+ACC100041,2024-07-07,12:37,Erode,National Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,1,,25,Male,100
+ACC100723,2023-03-29,14:49,Coimbatore,National Highway,Clear,Daylight,Auto Rickshaw,Drunk Driving,Fatal,2,2,41,Male,100
+ACC101292,2023-11-20,17:23,Chennai,National Highway,Fog,Daylight,TWO-WHEELER,Signal Violation,Minor,1,1,42,M,80
+ACC100636,2023-06-21,18:27,Tirunelveli,National Highway,Clear,Dusk/Dawn,Car,Distracted Driving, Minor ,1,2,58,Male,80
+ACC100358,08-Mar-2023,23:15,Trichy, National Highway ,,Dark,Auto Rickshaw,Distracted Driving,Fatal,1,4,41,M,100
+ACC101094,28/08/2023,07:51,Chennai,City Road, Rain ,Daylight,Two-Wheeler,Signal Violation,Minor,3,2,unknown,Male,40
+ACC100297,17-Nov-2023,19:07,Madurai,State Highway,Rain,Dark,Auto Rickshaw,Signal Violation,Minor,2,0,30,M,80
+ACC101216,2024-01-06,18:11,Tiruchirappalli,City Road,Rain,Dusk/Dawn,Two-Wheeler,Unknown,minor,1,2,32,M,40
+ACC101341,2023-04-10,20:59, Chennai ,State Highway, Clear ,Dark,Two-Wheeler,Signal Violation,Fatal,2,1,45,F,60
+ACC100758,04/04/2023,08:40,Erode,State Highway,Clear,Daylight,Truck,Over-speeding,Serious,1,1,32,Female,60
+ACC100517,2023-02-18,23:31, Chennai ,State Highway,Rain,Dark,Bus,Drunk Driving,Serious,2,1,36,M,60
+ACC100558,2024-08-01,03:15,trichy,City Road,Cloudy,Dark,Bus,Distracted Driving,Serious,1,1,22,F,40
+ACC101136,2024-06-13,06:15,Madurai,National Highway,Clear,Dusk/Dawn,Two-Wheeler,Wrong-Side Driving,Minor,2,0,24,M,80
+ACC100813,2023-07-27,21:23,Chennai,City Road,Clear,Dark,Two-Wheeler,Over-speeding,Fatal,2,4,38,F,40
+ACC100618,2023-02-14,07:52,Coimbatore,National Highway,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,2,,30,M,
+ACC100465,2024-12-06,15:06,Tirunelveli,National Highway,Cloudy,Daylight,Truck,Over-speeding,Fatal,3,2,39,F,100
+ACC100410,2023-05-08,02:56,trichy,National Highway,Clear,Dark, Pedestrian Involved ,Drunk Driving,Fatal,2,4,29,M,100
+ACC100943,13-Dec-2023,18:48,Tiruchirappalli,City Road,Rain,Dusk/Dawn,Two-Wheeler,Distracted Driving,Minor,3,1,29,Male,50
+ACC100984,04/03/2024,20:32,Coimbatore,Rural Road,Clear,Dark,truck,Distracted Driving,Minor,1,1,210,M,40
+ACC101457,29/11/2023,13:42,Trichy,National Highway,Fog,Daylight,Bus,Over-speeding,Fatal,1,3,39,M,100
+ACC101364,10/02/2024,00:54,Salem,City Road,Clear,Dark,Two-Wheeler,Over-speeding,SERIOUS,3,1,33,Male,40
+ACC100038,2023-07-22,N/A,Chennai,National Highway,Clear,Dark,Two-Wheeler,Drunk Driving,Serious,2,3,40,Male,80
+ACC100678,2024-01-17,19:05,Chennai,State Highway,Clear,Dark,Car,Drunk Driving,Fatal,2,3,18,Male,80
+ACC100079,2024-05-03,08:17,Chennai,National Highway,Cloudy,Daylight,Two-Wheeler,Drunk Driving,Serious,3,3,26,M,100
+ACC101360,02-Mar-2023,15:30,Chennai,City Road,Clear,Daylight,Two-Wheeler,Poor Road Condition,Minor,2,0,37,Male,50
+ACC100686,2023-10-24,08:51,Coimbatore,National Highway,Cloudy,Daylight,Two-Wheeler,Signal Violation,Serious,1,2,38,Male,100
+ACC100491,2024-09-25,10:31,Chennai,Rural Road,Rain,Daylight,Pedestrian Involved,Signal Violation,Minor,1,1,18,M,40
+ACC100824,31-Mar-2024,06:54,Salem,national highway,Rain,Dusk/Dawn,Auto Rickshaw,Drunk Driving,Serious,4,2,42,Male,80
+ACC100414,2023-01-14,07:46,Coimbatore,State Highway,Clear,Daylight,Auto Rickshaw,Signal Violation,MINOR,2,0,210,M,
+ACC100527,2023-04-16,05:05,Chennai,State Highway,Clear,Dark,Truck,Over-speeding,Serious,2,1,45,M,80
+ACC101428,2023-07-14,08:06,Chennai,Rural Road,Rain,Daylight,two-wheeler,Drunk Driving,Serious,1,3,28,M,60
+ACC100759,2024-06-16,18:14,Chennai,National Highway,Clear,Dusk/Dawn,Car,Over-speeding,Minor,2,2,34,Male,100
+ACC100101,26-May-2023,07:56,Chennai,Rural Road,Clear,Daylight,Pedestrian Involved,Distracted Driving, Serious ,1,1,,M,60
+ACC101075,30/04/2023,N/A,Coimbatore,National Highway,Clear,Dark,Car,Poor Road Condition,Serious,3,3,44,Male,80
+ACC100926,31/01/2024,18:49,Madurai,Rural Road,,Dusk/Dawn,Truck,Wrong-Side Driving,Serious,1,1,31,Male,60
+ACC100037,2024-08-27,N/A,Chennai,Rural Road,Clear,Daylight,Truck,Distracted Driving,Minor,2,1,36,F,60
+ACC100693,21/11/2024,04:05,Madurai,City Road,Fog,Dark,Auto Rickshaw,Over-speeding, Fatal ,2,2,43,M,50
+ACC100965,2024-03-05,19:33,Chennai,City Road,,Dark,Car,Over-speeding,Fatal,1,3,20,M,50
+ACC100420,2024-11-08,12:58,Erode,State Highway,Clear,Daylight,Bus,Over-speeding,Serious,2,2,39,Male,80
+ACC100831,2023-06-25,09:48,trichy,City Road,,Daylight,Car,Over-speeding,Minor,2,2,47,M,50
+ACC101293,2023-01-04,21:58,trichy,National Highway,Clear,Dark,Truck,Drunk Driving,Fatal,1,3,unknown,M,100
+ACC101179,2023-01-19,13:02,Erode,State Highway,,Daylight,Bus,Wrong-Side Driving,Serious,1,2,40,Male,
+ACC101392,2024-12-19,19:07,Madurai,State Highway,,Dark,Truck,Distracted Driving,Serious,2,1,30,F,60
+ACC101499,06-Sep-2024,10:05,Salem,City Road,Clear,Daylight,BUS,Poor Road Condition,Minor,2,2,39,F,40
+ACC100590,2024-08-07,05:53,Tirunelveli,State Highway,Clear,Dark,two-wheeler,Wrong-Side Driving,Minor,1,1,37,Male,80
+ACC101309,2024-09-14,03:22,trichy,City Road,Clear,Dark,Auto Rickshaw,Over-speeding,Serious,2,3,36,Male,50
+ACC100457,07/04/2024,14:22,Erode,National Highway,Rain,Daylight,Two-Wheeler,Over-speeding,Fatal,3,1,40,Female,100
+ACC100766,2024-03-23,N/A,Madurai,State Highway,Cloudy,Dusk/Dawn,Auto Rickshaw,Over-speeding,Minor,3,2,unknown,Male,60
+ACC100111,2024-07-23,18:19,Chennai,State Highway,Clear,Dusk/Dawn,Truck,Drunk Driving,Minor,2,0,52,M,60
+ACC100933,18/04/2024,09:30,Chennai,state highway,Rain,Daylight,Bus,Over-speeding,Fatal,2,1,18,Male,60
+ACC100979,2024-02-18,12:34,Tiruchirappalli,Rural Road,Rain,Daylight,Truck,Over-speeding,Serious,1,2,28,,60
+ACC101158,2023-10-08,19:31,Madurai,National Highway,Clear,Dark,Car,Over-speeding,Fatal,2,4,45,F,100
+ACC100944,2023-04-05,18:15, Chennai ,Rural Road,,Dusk/Dawn,Auto Rickshaw,Over-speeding,Minor,1,0,29,M,40
+ACC101022,26-Sep-2024,17:45,Coimbatore,State Highway,Clear,Daylight,Pedestrian Involved,Over-speeding, Serious ,2,1,49,M,60
+ACC101031,2023-05-07,19:56,Coimbatore,City Road,Clear,Dark,Two-Wheeler,Poor Road Condition,Serious,1,1,50,M,50
+ACC100102,2024-08-10,20:18, Vellore ,Rural Road,Cloudy,Dark,Car,Unknown,Serious,2,1,52,,40
+ACC100454,2024-03-11,01:22,Vellore,National Highway,Rain,Dark,Truck,Distracted Driving,Fatal,2,3,28,M,80
+ACC101286,2024-10-24,21:38,Erode,RURAL ROAD,Fog,Dark,Car,Unknown, Minor ,2,1,47,M,60
+ACC101077,2023-05-02,14:56,Madurai, City Road ,Cloudy,Daylight,Two-Wheeler,Over-speeding,Minor,3,1,32,,40
+ACC100663,2023-05-28,21:50,Tiruchirappalli,State Highway,Cloudy,Dark,Two-Wheeler,Poor Road Condition,Minor,2,0,42,Male,80
+ACC101399,07-Aug-2023,05:52,Salem,National Highway,Fog,Dark,Two-Wheeler,Poor Road Condition,Fatal,2,4,34,Male,100
+ACC101258,30-Jan-2024,07:32,Vellore,NATIONAL HIGHWAY,Rain,Daylight,Two-Wheeler,Drunk Driving, Minor ,2,0,35,Male,100
+ACC100091,2024-08-10,19:02,Erode,State Highway,Clear,Dark,Auto Rickshaw,Distracted Driving,Serious,2,1,53,Female,80
+ACC101185,13-Aug-2023,05:26,Tirunelveli,National Highway,clear,Dark,Two-Wheeler,Over-speeding,Serious,3,2,23,M,100
+ACC100756,22/06/2024,18:03,Chennai,City Road,Fog,Dusk/Dawn,Truck,Poor Road Condition,Minor,2,2,28,Male,50
+ACC101200,2024-10-03,22:37,Chennai,City Road,Clear,Dark,Two-Wheeler,Wrong-Side Driving,Minor,2,1,,M,40
+ACC100053,2023-12-07,16:33,Tirunelveli,City Road,Clear,Daylight,Two-Wheeler,Poor Road Condition,Minor,2,2,32,M,50
+ACC101483,2023-03-23,N/A,Chennai,State Highway,Fog,Dark,Truck,Unknown,Serious,1,,unknown,Male,60
+ACC101296,2023-07-11,13:52,Madurai,State Highway,Rain,Daylight,Car,Wrong-Side Driving,Minor,3,,39,M,60
+ACC100114,2024-01-05,05:33,Madurai,state highway,Clear,Dark,Two-Wheeler,Drunk Driving,Minor,3,0,26,Male,80
+ACC100068,25/02/2023,17:18,Salem,CITY ROAD,CLEAR,Daylight,AUTO RICKSHAW,Wrong-Side Driving,Minor,1,0,21,M,40
+ACC100978,14-Sep-2023,01:05, Madurai ,City Road,Fog,Dark,Two-Wheeler,Over-speeding,Serious,2,2,31,Male,50
+ACC100546,2023-11-10,05:46,Madurai,National Highway,Clear,Dark,Bus,Wrong-Side Driving,Serious,3,2,28,,100
+ACC100717,26/12/2023,08:39,Tirunelveli,National Highway,Cloudy,Daylight,Car,Over-speeding,Fatal,1,3,52,Male,80
+ACC101462,04/02/2023,20:49,Coimbatore,State Highway,Clear,Dark,Bus,Over-speeding,Fatal,1,1,37,Male,60
+ACC100726,10-Jun-2024,13:18,Vellore,National Highway, Clear ,Daylight,Bus,Over-speeding,Serious,2,3,23,M,80
+ACC101268,26-Nov-2024,17:28,Tirunelveli,State Highway,Cloudy,Daylight,Car,Poor Road Condition,Minor,3,1,46,F,80
+ACC100649,2024-09-11,12:32,Erode,National Highway,Clear,Daylight,Two-Wheeler,Distracted Driving, Minor ,1,2,46,M,
+ACC100271,17-Jan-2023,18:45,Tiruchirappalli,State Highway,Clear,Dusk/Dawn,Two-Wheeler,Poor Road Condition,Minor,2,1,35,Male,60
+ACC101371,08-Sep-2023,01:28,Chennai,National Highway, Cloudy ,Dark, Auto Rickshaw ,Over-speeding,Fatal,2,4,21,Male,100
+ACC100786,24-Jan-2023,19:17,Vellore,City Road,Clear,Dark,Two-Wheeler,Over-speeding,Minor,2,1,37,M,50
+ACC100252,18/05/2023,06:48,Chennai,State Highway,clear,Dusk/Dawn,Auto Rickshaw,Wrong-Side Driving,Minor,2,1,43,Male,80
+ACC100215,2023-07-18,14:30,Salem,National Highway,Clear,Daylight,Two-Wheeler,Poor Road Condition,Minor,3,2,47,M,100
+ACC100784,2023-12-16,04:59,Madurai,National Highway,Rain,Dark,Two-Wheeler,Distracted Driving,SERIOUS,1,1,37,M,100
+ACC101242,2024-12-04,10:53,Madurai,City Road,,Daylight,Two-Wheeler,Over-speeding,Minor,4,2,34,M,50
+ACC100134,03/08/2024,N/A,Salem,City Road,Clear,Daylight,Two-Wheeler,Over-speeding, Minor ,2,0,32,M,50
+ACC101000,2024-08-13,N/A,Salem,National Highway,Rain,Daylight,Two-Wheeler,Wrong-Side Driving,SERIOUS,2,1,31,M,80
+ACC101175,2023-09-05,02:16,Madurai,RURAL ROAD,Clear,Dark,Truck,Wrong-Side Driving,Serious,1,2,29,Male,60
+ACC101150,2023-09-28,16:55,Chennai,Rural Road,Rain,Daylight,Two-Wheeler,Distracted Driving,minor,4,1,22,Male,40
+ACC101054,2023-02-25,18:33,Tirunelveli,City Road,Clear,Dusk/Dawn,Truck,Poor Road Condition,Minor,2,1,40,M,40
+ACC100658,2023-02-22,20:08,Erode,State Highway,Fog,Dark,Two-Wheeler,Signal Violation,Serious,1,3,21,M,60
+ACC100127,2024-07-12,10:10,Chennai,State Highway,Clear,Daylight,Auto Rickshaw,Distracted Driving,MINOR,2,1,29,M,60
+ACC101436,08-Nov-2023,19:09,TIRUNELVELI,National Highway,clear,Dark,Two-Wheeler,Over-speeding,Minor,3,1,54,M,100
+ACC101420,24-Nov-2024,12:08,Coimbatore,State Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,2,1,36,Male,60
+ACC101248,26-Aug-2023,20:55,Chennai,Rural Road,Fog,Dark, Truck ,Over-speeding,Fatal,2,2,34,F,60
+ACC100237,2023-11-12,03:21,Coimbatore,National Highway,Rain,Dark,Car,Wrong-Side Driving,Serious,2,3,40,Male,100
+ACC101411,14-Feb-2024,08:20,Chennai,National Highway,Rain,Daylight,Car,Over-speeding,Serious,1,1,46,M,80
+ACC101138,26/06/2024,20:06,salem,National Highway,Rain,Dark,Car,Drunk Driving,Fatal,3,3,35,Male,100
+ACC100459,2023-03-19,12:56,Tirunelveli,City Road,Rain,Daylight,Pedestrian Involved,Signal Violation,Minor,2,1,40,M,40
+ACC101177,20/05/2023,18:22,Vellore,City Road,Cloudy,Dusk/Dawn,Bus,Wrong-Side Driving,Minor,1,2,34,M,40
+ACC100055,01/02/2023,06:12,Madurai,City Road,Clear,Dusk/Dawn,Auto Rickshaw,Signal Violation,Minor,2,2,31,Male,50
+ACC100769,2023-10-02,07:31,trichy,State Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,3,2,50,Female,60
+ACC100074,16/05/2024,19:42,Erode,City Road, Fog ,Dark,Two-Wheeler,Poor Road Condition,Serious,4,3,40,Male,50
+ACC101212,2023-12-03,16:27,Madurai,Rural Road,rain,Daylight,Truck,Over-speeding,Serious,2,3,24,M,40
+ACC100105,28/07/2024,13:28,,State Highway,Cloudy,Daylight,Pedestrian Involved,Wrong-Side Driving,Minor,3,1,25,Male,60
+ACC100163,24/10/2023,23:22,Salem,National Highway,Rain,Dark,Auto Rickshaw,Distracted Driving,Minor,3,0,41,Male,100
+ACC101249,2024-12-14,15:07,Tirunelveli,RURAL ROAD,Rain,Daylight,Car,Signal Violation,MINOR,1,1,54,F,60
+ACC101385,2023-06-21,15:48,Erode,National Highway,fog,Daylight,Two-Wheeler,Over-speeding,Serious,2,1,25,Male,100
+ACC100990,08/09/2023,08:28,Vellore,State Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,3,2,20,,80
+ACC101305,05-May-2024,14:08,Chennai,CITY ROAD,Clear,Daylight,Car,Distracted Driving,Minor,2,,31,Male,40
+ACC100639,23-Nov-2024,02:59,Madurai,City Road,Clear,Dark,Two-Wheeler,Over-speeding,Serious,3,,27,M,40
+ACC101325,2023-05-17,15:32,Madurai,National Highway,Clear,Daylight,Auto Rickshaw,Over-speeding,Fatal,1,4,18,F,100
+ACC101376,03/12/2024,10:54,Salem,City Road,CLEAR,Daylight,Auto Rickshaw,Distracted Driving,Minor,1,,36,M,50
+ACC100518,2023-12-14,14:46,Madurai,City Road,Clear,Daylight,Two-Wheeler,Over-speeding, Minor ,2,2,44,Male,50
+ACC101306,05-Jul-2023,23:25,Madurai,City Road, Clear ,Dark,Two-Wheeler,Distracted Driving,Minor,2,1,21,Male,40
+ACC100591,2024-10-20,19:22,Coimbatore,City Road,Rain,Dark,Two-Wheeler,Over-speeding,Serious,2,3,36,Male,50
+ACC101261,2024-11-06,09:09,Erode,Rural Road,Fog,Daylight,Two-Wheeler,Signal Violation,Minor,2,0,39,M,60
+ACC100230,05/12/2023,23:55,Coimbatore,State Highway,Cloudy,Dark,Bus,Over-speeding,Serious,1,2,46,M,60
+ACC100770,20/04/2024,09:11,Vellore,Rural Road,Clear,Daylight,Car,Drunk Driving,Minor,3,0,28,F,60
+ACC100412,2023-07-23,19:01,Madurai,State Highway,Clear,Dark,Two-Wheeler,Over-speeding,Minor,4,2,46,Male,80
+ACC101475,2023-08-09,08:32,trichy,National Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Serious,2,3,27,M,100
+ACC100555,2024-01-04,21:54,Tirunelveli,National Highway,Clear,Dark,Car,Over-speeding,Serious,2,1,32,M,
+ACC100543,08/05/2023,10:33,Chennai,State Highway,Clear,Daylight,Car,Distracted Driving,Minor,2,0,34,Male,80
+ACC101145,2023-12-19,07:03,Chennai,national highway,Rain,Daylight,Two-Wheeler,Signal Violation,Serious,3,,33,M,100
+ACC100536,29/11/2023,11:54,Chennai,Rural Road,Clear,Daylight,Car,Signal Violation,Minor,2,2,35,Male,40
+ACC101124,2024-09-05,21:12,Vellore,National Highway,Clear,Dark,Two-Wheeler,Over-speeding,minor,2,2,40,M,100
+ACC100973,2023-12-13,16:10,Chennai,National Highway,Cloudy,Daylight,Two-Wheeler,Drunk Driving,Serious,3,1,25,M,100
+ACC101072,2024-07-06,15:14,coimbatore,State Highway,Clear,Daylight,Truck,Over-speeding,Serious,3,2,27,Male,80
+ACC101228,2023-04-23,18:24,Madurai,Rural Road,Clear,Dusk/Dawn,Two-Wheeler,Over-speeding,Minor,2,1,19,M,40
+ACC100624,17/03/2024,22:06,trichy,City Road,Clear,Dark,Pedestrian Involved,Poor Road Condition,Serious,2,1,51,Male,50
+ACC100406,2023-11-13,03:17,Madurai,Rural Road,Cloudy,Dark,CAR,Distracted Driving,Minor,2,1,18,Male,60
+ACC101353,30/10/2024,21:41,Chennai,National Highway,Rain,Dark,Car,Poor Road Condition,Fatal,2,3,20,F,80
+ACC100644,2024-07-16,19:38,Chennai,State Highway, Rain ,Dark,Car,Signal Violation,Serious,3,1,44,Male,60
+ACC100863,2024-07-17,11:51,Coimbatore, Rural Road , Clear ,Daylight,Two-Wheeler,Signal Violation,Minor,4,1,24,M,60
+ACC101104,12/08/2023,20:36,Erode,State Highway,Clear,Dark,Bus,Wrong-Side Driving,serious,3,3,40,M,60
+ACC101260,2023-07-14,03:07,Vellore,National Highway,Cloudy,Dark,Car,Poor Road Condition,Serious,2,1,40,Male,80
+ACC100446,2023-08-18,08:22,Trichy,City Road,Rain,Daylight,Auto Rickshaw,Distracted Driving,Minor,2,1,45,Male,40
+ACC100664,12/03/2024,06:21,Chennai,City Road,Clear,Dusk/Dawn,Two-Wheeler,Over-speeding,Minor,2,2,37,M,40
+ACC101081,23-Dec-2024,22:50,Chennai,State Highway, Cloudy ,Dark,Two-Wheeler,Over-speeding,Serious,1,3,32,M,60
+ACC101059,2023-08-16,05:08,Tirunelveli,National Highway,Clear,Dark,Auto Rickshaw,Signal Violation,MINOR,2,0,18,Male,100
+ACC100771,21-Dec-2024,15:25,Vellore,Rural Road,rain,Daylight,Two-Wheeler,Poor Road Condition,minor,1,0,50,M,60
+ACC100479,2023-03-21,03:36,Madurai,Rural Road,Clear,Dark,Car,Unknown,Minor,2,1,36,Male,60
+ACC101140,2024-10-05,08:45,Coimbatore,State Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,1,1,29,M,60
+ACC100579,2023-03-16,07:30,Chennai,City Road,Cloudy,Daylight,Pedestrian Involved,Over-speeding,Serious,1,2,28,M,50
+ACC101373,03-Nov-2023,07:19,Chennai,National Highway,Fog,Daylight,Truck,Over-speeding,Fatal,2,2,27,,80
+ACC100261,05/05/2023,N/A,Salem,State Highway,Clear,Daylight,Pedestrian Involved,Over-speeding,Serious,1,1,21,M,80
+ACC100294,2024-02-02,01:23,Madurai,State Highway,Clear,Dark,Car,Over-speeding,Serious,2,2,40,M,80
+ACC100721,2024-11-10,07:53,Madurai,City Road,Clear,Daylight,Truck,Signal Violation,Minor,2,1,18,M,40
+ACC100977,22/02/2024,20:42,Chennai,State Highway,Clear,Dark,Car,Signal Violation,Minor,1,2,30,Male,80
+ACC101465,23/03/2023,05:05, Chennai ,national highway,Clear,Dark,Two-Wheeler,Signal Violation,Serious,2,2,27,Male,100
+ACC101071,02/06/2023,14:41,Tiruchirappalli,NATIONAL HIGHWAY,Clear,Daylight,Pedestrian Involved,Signal Violation,Fatal,1,3,35,Male,100
+ACC101029,01/09/2023,13:04,Erode,City Road,Cloudy,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,1,0,45,M,50
+ACC100975,14/06/2023,03:31,Chennai,National Highway,Clear,Dark,Two-Wheeler,Over-speeding,Fatal,1,1,18,Male,80
+ACC100159,26/07/2024,09:29,Coimbatore,National Highway,Cloudy,Daylight,Car,Drunk Driving,Serious,2,3,18,Male,100
+ACC101422,05/03/2024,14:39,Trichy,City Road,Clear,Daylight,TWO-WHEELER,Drunk Driving,Minor,4,0,44,M,40
+ACC100650,24/12/2023,13:09,Coimbatore,City Road,,Daylight,Car,Signal Violation,Minor,2,0,35,M,50
+ACC100609,2024-09-18,07:17,Chennai,City Road,CLEAR,Daylight,Car,Drunk Driving,Minor,1,2,42,M,50
+ACC101295,2024-01-11,02:12,Coimbatore,City Road,Cloudy,Dark,Car,Wrong-Side Driving,Minor,1,2,31,M,40
+ACC100333,2024-08-28,20:14,CHENNAI,City Road,Clear,Dark,Bus,Distracted Driving,Minor,2,1,18,M,40
+ACC100694,07-Mar-2023,07:22,Salem, Rural Road ,Clear,Daylight,Auto Rickshaw,Distracted Driving,Minor,3,,31,M,40
+ACC100909,2023-03-08,02:42,Tirunelveli,City Road,Clear,Dark,Bus,Signal Violation,Serious,1,2,19,Male,50
+ACC100279,02/03/2023,12:04,Chennai,City Road,Clear,Daylight,Bus,Signal Violation,Serious,1,1,24,M,40
+ACC101079,2024-09-02,14:23,Madurai,City Road,Cloudy,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,2,2,23,Female,40
+ACC100698,2023-02-06,17:34,Chennai,City Road,Rain,Daylight,Car,Over-speeding,Serious,3,1,52,Male,50
+ACC101295,2024-01-11,02:12,Coimbatore,City Road,Cloudy,Dark,Car,Wrong-Side Driving,Minor,1,2,31,M,40
+ACC100868,2023-11-22,23:39,trichy,City Road,Rain,Dark,Two-Wheeler,Over-speeding,Minor,2,2,38,M,40
+ACC100629,2023-09-25,12:36,Chennai,Rural Road,Rain,Daylight,Car,Wrong-Side Driving,serious,1,1,28,M,40
+ACC100533,27/07/2023,17:08,Chennai,State Highway,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,2,1,42,Female,80
+ACC101326,10/05/2024,23:09,Chennai,City Road,Cloudy,Dark,Truck,Unknown,Fatal,2,3,,Male,50
+ACC100736,2024-06-17,23:33,Chennai,National Highway,Clear,Dark,Auto Rickshaw,Over-speeding, Serious ,3,3,39,M,100
+ACC100014,2024-06-07,21:54,Chennai,National Highway,Clear,Dark,BUS,Signal Violation,Serious,2,3,29,M,100
+ACC100682,2024-12-01,02:38,Coimbatore,National Highway,Rain,Dark,Car,Signal Violation,Fatal,2,3,unknown,M,80
+ACC100181,2023-04-22,11:10,Chennai,National Highway,,Daylight,Bus,Over-speeding,Serious,3,3,23,Male,100
+ACC100392,26-Sep-2023,19:03,Vellore,State Highway,Clear,Dark,Two-Wheeler,Distracted Driving,Minor,3,2,18,M,60
+ACC100422,2024-07-13,08:33,Trichy,National Highway,rain,Daylight,TRUCK,Distracted Driving,Minor,1,2,33,M,100
+ACC101334,2024-01-25,18:15,Tirunelveli,State Highway,Clear,Dusk/Dawn,TWO-WHEELER,Over-speeding,Fatal,2,3,45,Male,60
+ACC100462,2024-06-30,16:59,Chennai,State Highway,Rain,Daylight,Bus,Over-speeding,Minor,1,2,38,M,80
+ACC101328,2024-05-07,09:07,Tirunelveli,State Highway,Clear,Daylight,Two-Wheeler,Drunk Driving,Minor,4,2,150,Male,80
+ACC101042,2023-10-31,08:17,Chennai,City Road,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,3,0,46,M,50
+ACC101284,2023-10-06,05:34,Erode,National Highway,Cloudy,Dark,Truck,Over-speeding,Fatal,1,2,45,Male,80
+ACC100801,2023-08-09,13:59,Chennai,City Road,Rain,Daylight,Two-Wheeler,Distracted Driving,Serious,2,3,18,F,50
+ACC101378,2024-01-03,05:39,Erode,City Road,Clear,Dark,Two-Wheeler,Distracted Driving,Serious,2,1,43,Female,50
+ACC101083,2024-02-10,07:04,Coimbatore,City Road,Clear,Daylight,Two-Wheeler,Signal Violation,Minor,1,1,24,Male,
+ACC101241,2024-07-21,17:37,Tirunelveli,City Road,Clear,Daylight,Bus,Over-speeding,Minor,1,0,52,Male,50
+ACC100908,28/09/2023,12:33,,National Highway,Cloudy,Daylight,Auto Rickshaw,Over-speeding,Minor,3,1,31,Male,80
+ACC100619,2023-04-13,10:01,Vellore,State Highway,Clear,Daylight,Truck,Wrong-Side Driving,Serious,1,1,28,M,
+ACC101263,2024-08-23,13:05,Tirunelveli,Rural Road,Clear,Daylight, Bus ,Over-speeding,SERIOUS,2,3,34,Female,60
+ACC101144,2023-08-30,10:36,Madurai,CITY ROAD,Cloudy,Daylight,Two-Wheeler,Distracted Driving,Minor,3,0,46,Male,50
+ACC100236,29/04/2024,10:03,Vellore,City Road,Clear,Daylight,Truck,Drunk Driving,Minor,4,1,32,M,50
+ACC100857,11/02/2023,08:44,coimbatore,State Highway,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,1,0,27,Male,60
+ACC100873,2023-04-02,05:14,Chennai,City Road,Clear,Dark,Two-Wheeler,Over-speeding,Minor,1,1,18,Male,40
+ACC100466,2023-05-02,09:13,Tiruchirappalli,State Highway,Clear,Daylight,Car,Over-speeding,Minor,3,1,23,Male,
+ACC101107,2024-10-24,09:35,SALEM,City Road,,Daylight,Truck,Signal Violation,Minor,3,1,18,Male,50
+ACC100753,14-Nov-2024,12:33,Salem,City Road,Cloudy,Daylight,Truck,Over-speeding,minor,3,1,39,Male,50
+ACC101183,24/11/2023,19:25,Madurai,City Road,Clear,Dark,Auto Rickshaw,Over-speeding,Minor,2,1,39,Male,40
+ACC100941,22/10/2023,21:30,Chennai,City Road,Clear,Dark,Two-Wheeler,Over-speeding,Minor,2,2,30,M,50
+ACC100882,2023-11-24,17:23,Salem,CITY ROAD,Clear,Daylight,two-wheeler,Wrong-Side Driving,Minor,2,2,38,M,40
+ACC100291,14-Jul-2023,17:59,Salem,National Highway,CLOUDY,Daylight,Car,Signal Violation,Minor,1,2,23,M,100
+ACC100233,2024-07-07,13:15,Chennai, National Highway ,Clear,Daylight,Two-Wheeler,Signal Violation,Minor,2,2,39,M,80
+ACC100741,2024-07-10,19:52,Chennai,National Highway,Clear,Dark,Pedestrian Involved,Drunk Driving, Minor ,2,1,31,Male,80
+ACC101217,18-Jun-2024,20:44,Chennai,Rural Road,Rain,Dark,Two-Wheeler,Over-speeding,Fatal,2,4,40,Male,40
+ACC100409,2023-01-11,19:37,Chennai, National Highway ,Clear,Dark,Two-Wheeler,Wrong-Side Driving,Minor,3,1,25,M,100
+ACC101481,02/01/2023,17:47,trichy,State Highway,Cloudy,Daylight,Car,Over-speeding,Minor,2,2,53,,80
+ACC100850,2024-12-16,21:13,Coimbatore,Rural Road,Cloudy,Dark,Auto Rickshaw,Over-speeding,Serious,2,1,33,Female,40
+ACC101464,2024-09-13,21:44,Chennai,City Road,cloudy,Dark,Two-Wheeler,Over-speeding,Minor,2,1,30,M,50
+ACC101213,24/09/2024,07:39,Chennai,City Road,RAIN,Daylight,Bus,Distracted Driving,Minor,4,1,29,Male,50
+ACC100319,2024-07-15,12:55,Coimbatore,City Road,Rain,Daylight,Car,Over-speeding,Minor,2,1,48,Male,40
+ACC100742,2024-04-08,17:54,Erode,State Highway,Clear,Daylight,Pedestrian Involved,Distracted Driving, Minor ,3,2,41,Male,
+ACC101250,2023-06-26,20:52,Coimbatore,National Highway,Clear,Dark,Truck,Poor Road Condition,Fatal,2,1,43,M,100
+ACC101467,2023-10-08,21:36,Tiruchirappalli, National Highway , Clear ,Dark,TWO-WHEELER,Over-speeding,Fatal,1,1,34,Male,100
+ACC101067,2024-04-12,14:21,Salem,National Highway,cloudy,Daylight,Car,Signal Violation,Minor,2,2,36,M,100
+ACC101408,02/01/2023,12:47,Erode,National Highway,Rain,Daylight,car,Wrong-Side Driving,Minor,4,1,29,Female,100
+ACC100049,22/07/2024,18:52,Chennai,National Highway,Clear,Dusk/Dawn,TWO-WHEELER,Drunk Driving,Serious,3,1,28,M,100
+ACC100785,2024-03-05,14:34,Erode,National Highway,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,Fatal,2,3,45,M,100
+ACC100059,13/05/2024,23:38,Chennai,city road,Cloudy,Dark,Auto Rickshaw,Poor Road Condition,Minor,3,0,48,M,40
+ACC101345,29/12/2024,10:09,Vellore, Rural Road ,Clear,Daylight,Car,Poor Road Condition,Minor,3,0,,M,60
+ACC101126,2024-09-15,09:25,Madurai,City Road,Clear,Daylight,Two-Wheeler,Over-speeding,Serious,1,1,39,Male,40
+ACC100322,2024-03-24,13:54,Salem,City Road,cloudy,Daylight,Two-Wheeler,Over-speeding,Minor,1,1,35,Male,40
+ACC100461,13/04/2023,19:30,Tirunelveli,National Highway,Rain,Dark,Two-Wheeler,Over-speeding,Fatal,3,1,24,Male,80
+ACC101363,2023-05-28,17:12,Vellore,City Road,Fog,Daylight,Car,Wrong-Side Driving, Minor ,2,1,35,M,40
+ACC100534,2024-02-26,21:01,Salem,City Road,clear,Dark,Two-Wheeler,Signal Violation,Serious,2,3,18,Male,40
+ACC100628,04/01/2024,17:40,Tiruchirappalli,Rural Road,Clear,Daylight,Car,Signal Violation,Minor,2,2,31,M,60
+ACC100928,2023-11-02,20:01,CHENNAI,Rural Road,Clear,Dark,Pedestrian Involved,Poor Road Condition,Serious,2,3,33,M,40
+ACC101297,2024-05-09,15:37,Trichy,Rural Road,Clear,Daylight,Car,Drunk Driving,Serious,2,,27,Male,40
+ACC100525,15/08/2023,10:07,Coimbatore,City Road,Cloudy,Daylight,Car,Distracted Driving,Minor,1,0,50,Female,40
+ACC100399,15-Aug-2023,20:35,trichy,City Road,FOG,Dark,Two-Wheeler,Unknown,Fatal,2,2,40,M,40
+ACC101357,2023-04-09,23:21,Coimbatore,State Highway,Clear,Dark,Pedestrian Involved,Wrong-Side Driving,Minor,1,2,39,Female,80
+ACC101132,02/08/2024,12:31,Coimbatore,State Highway,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,2,2,29,F,80
+ACC100589,2024-09-07,11:31,Coimbatore,National Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Fatal,2,3,18,Male,80
+ACC100673,11/03/2023,11:20,Coimbatore,National Highway,Clear,Daylight,Car,Distracted Driving,Minor,1,2,38,M,100
+ACC101120,2023-01-11,09:01,Vellore,State Highway,Clear,Daylight,Auto Rickshaw,Over-speeding,Minor,2,2,44,Female,80
+ACC100106,2024-07-23,18:14,Coimbatore,Rural Road,Cloudy,Dusk/Dawn,Truck,Over-speeding, Minor ,2,0,36,Male,60
+ACC100835,2024-07-21,21:04,Coimbatore,City Road,Clear,Dark,Bus,Over-speeding,Fatal,2,2,33,Male,50
+ACC100251,2023-12-27,13:08,Madurai,State Highway,Clear,Daylight,Two-Wheeler,Drunk Driving,Serious,2,1,48,Male,60
+ACC101226,2023-03-20,13:31,trichy,CITY ROAD,Clear,Daylight,Pedestrian Involved,Unknown,Minor,1,2,25,Male,40
+ACC101119,27-Dec-2023,19:09,madurai,National Highway,Rain,Dark,Truck,Over-speeding,Fatal,1,,27,M,80
+ACC100390,2024-06-29,10:50,Chennai,National Highway,Clear,Daylight,Car,Wrong-Side Driving,Minor,1,1,27,F,100
+ACC100794,11/11/2023,13:55,Madurai,City Road,rain,Daylight,Bus,Over-speeding,Minor,2,2,28,M,40
+ACC100056,03-Feb-2024,18:09,Tiruchirappalli,City Road,Clear,Dusk/Dawn,Two-Wheeler,Wrong-Side Driving,Minor,2,0,46,Male,40
+ACC100668,2024-11-01,20:21,Coimbatore,National Highway,Clear,Dark,Two-Wheeler,Signal Violation,Fatal,1,2,41,M,80
+ACC100681,2023-04-11,17:46,Chennai,State Highway,Cloudy,Daylight, Truck ,Over-speeding,Minor,4,2,39,Male,80
+ACC100803,01/11/2024,11:25,Chennai,State Highway,Clear,Daylight,Car,Wrong-Side Driving,Minor,2,1,22,Male,80
+ACC101455,17/02/2023,16:42,Coimbatore,City Road,Clear,Daylight,Two-Wheeler,Poor Road Condition,Minor,2,1,60,M,50
+ACC100346,24-Dec-2024,08:50,tirunelveli,National Highway,Cloudy,Daylight,Car,Drunk Driving,Serious,1,2,30,M,
+ACC100151,2023-07-25,08:59,Tiruchirappalli,City Road,Rain,Daylight,Two-Wheeler,Drunk Driving,Serious,2,3,45,Male,50
+ACC101332,07/11/2023,18:49,Chennai,State Highway, Clear ,Dusk/Dawn,Two-Wheeler,Distracted Driving,Minor,3,,75,Male,60
+ACC100827,2024-10-16,20:14,Coimbatore, Rural Road , Cloudy ,Dark,Car,Distracted Driving,Minor,2,2,37,F,60
+ACC100524,2023-08-21,06:52,MADURAI,City Road,Clear,Dusk/Dawn,Two-Wheeler,Over-speeding,Minor,3,0,40,M,40
+ACC100021,2023-09-28,16:41,Salem,State Highway,Cloudy,Daylight,Two-Wheeler,Signal Violation,Minor,2,2,18,M,60
+ACC100405,01/01/2024,04:38,Tirunelveli, City Road ,Rain,Dark,Two-Wheeler,Distracted Driving,Minor,1,1,45,Male,50
+ACC100257,2023-03-17,10:08,Coimbatore,Rural Road,Clear,Daylight,Two-Wheeler,Signal Violation,Minor,2,2,18,Male,60
+ACC100700,15/01/2024,19:26,Erode,National Highway,Clear,Dark,Two-Wheeler,Over-speeding,Serious,2,,35,Male,80
+ACC100388,13-Oct-2024,03:20,Coimbatore,State Highway,Cloudy,Dark,Bus,Over-speeding, Serious ,2,2,49,M,60
+ACC100185,2023-11-22,08:43,Chennai,State Highway,Rain,Daylight,Truck,Signal Violation,Minor,1,2,18,Male,60
+ACC100043,2023-09-16,04:36,Madurai,State Highway,,Dark,Pedestrian Involved,Distracted Driving,Fatal,2,1,41,F,
+ACC100473,2023-12-08,17:46,,Rural Road,Rain,Daylight,Two-Wheeler,Over-speeding,Serious,2,1,18,Male,60
+ACC100852,2024-12-04,18:07,Coimbatore,City Road,RAIN,Dusk/Dawn,Truck,Drunk Driving,Fatal,2,3,48,Male,50
+ACC101154,11/08/2023,N/A,Trichy,National Highway,,Daylight,Two-Wheeler,Drunk Driving,serious,2,,38,Male,80
+ACC100340,2024-04-08,08:45,Coimbatore,Rural Road,Cloudy,Daylight,Auto Rickshaw,Over-speeding,Serious,2,3,32,Male,
+ACC101129,18-Apr-2024,16:01,Erode,State Highway,Clear,Daylight,Auto Rickshaw,Drunk Driving,Serious,3,3,47,M,80
+ACC101201,15/12/2023,00:22,Tirunelveli,National Highway,Clear,Dark,Car,Poor Road Condition,Serious,3,2,40,M,80
+ACC101041,2024-09-17,09:09,salem,State Highway,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,1,1,19,Female,
+ACC101497,2024-07-23,17:58,MADURAI,City Road,Clear,Daylight,Car,Wrong-Side Driving, Minor ,1,2,44,Male,50
+ACC100960,2023-04-23,19:53,Coimbatore,City Road,,Dark,AUTO RICKSHAW,Distracted Driving,Fatal,2,3,53,M,40
+ACC101161,31/12/2023,07:13,Coimbatore,National Highway,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,1,2,35,Male,100
+ACC100315,2024-04-26,22:17,Chennai,National Highway,Clear,Dark,Two-Wheeler,Signal Violation,SERIOUS,3,1,30,M,80
+ACC100329,2024-02-10,N/A,Chennai,Rural Road, Clear ,Daylight,Two-Wheeler,Distracted Driving,Minor,2,1,25,Male,40
+ACC100512,2024-09-05,10:35,Vellore,National Highway,Clear,Daylight,Bus,Over-speeding,Fatal,1,4,38,M,80
+ACC100925,21-Nov-2024,21:14,Madurai,City Road,Clear,Dark,Car,Signal Violation,Serious,2,3,38,Male,50
+ACC100345,2023-07-06,12:45,Trichy,State Highway,Rain,Daylight,Two-Wheeler,Distracted Driving,Minor,3,2,36,Male,60
+ACC100832,2023-11-27,12:23,Coimbatore,National Highway,Clear,Daylight, Two-Wheeler ,Wrong-Side Driving,Serious,1,2,29,F,100
+ACC100683,2024-11-30,07:53,Madurai,City Road,fog,Daylight,Two-Wheeler,Over-speeding,Serious,2,3,18,Male,40
+ACC101002,12/02/2024,20:02,Erode,National Highway,Rain,Dark,Two-Wheeler,Over-speeding,Fatal,2,3,47,Female,80
+ACC100685,07/08/2024,22:39,Chennai,Rural Road,CLEAR,Dark,Auto Rickshaw,Over-speeding,Minor,3,0,31,F,60
+ACC100772,2023-01-04,20:14,Trichy,City Road,Clear,Dark,Pedestrian Involved,Wrong-Side Driving,Serious,1,2,50,Male,50
+ACC100066,23-Oct-2024,20:42,Coimbatore,City Road,Clear,Dark,Two-Wheeler,Drunk Driving,Fatal,3,4,unknown,M,40
+ACC101267,30-Sep-2023,01:19,Tirunelveli,City Road,Rain,Dark,Pedestrian Involved,Over-speeding,Serious,2,1,46,Male,40
+ACC100932,07-Jul-2023,18:19,Madurai,City Road,RAIN,Dusk/Dawn,Auto Rickshaw,Distracted Driving,Minor,1,1,39,M,40
+ACC101349,2024-03-10,08:03,Tirunelveli,City Road,Clear,Daylight,pedestrian involved,Poor Road Condition,Minor,1,1,unknown,F,40
+ACC101404,10/05/2023,16:11,Madurai,State Highway, Clear ,Daylight,pedestrian involved,Over-speeding,Serious,2,3,26,Male,60
+ACC100643,18/12/2023,03:33,Chennai,Rural Road,Clear,Dark,Two-Wheeler,Over-speeding,Minor,1,0,32,Male,60
+ACC101377,2024-07-02,N/A,CHENNAI,National Highway,Cloudy,Daylight,Bus,Over-speeding,Serious,2,1,47,Male,80
+ACC100808,2023-10-13,17:04,,National Highway,clear,Daylight,Two-Wheeler,Distracted Driving,Serious,2,2,38,M,100
+ACC100645,28-Aug-2023,07:45,Salem,City Road,Clear,Daylight,car,Distracted Driving,Minor,1,2,unknown,M,40
+ACC100417,2023-03-30,15:16,Tirunelveli,City Road,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,1,2,31,F,50
+ACC101329,2023-09-07,01:27,Erode,City Road,Clear,Dark,Pedestrian Involved,Signal Violation,SERIOUS,1,1,-5,Male,50
+ACC101134,24/03/2024,10:45,Madurai,National Highway,CLEAR,Daylight,Two-Wheeler,Distracted Driving,Minor,2,2,19,F,80
+ACC100541,2023-02-10,17:09,Madurai,National Highway,Clear,Daylight, Two-Wheeler ,Signal Violation,Minor,3,1,23,M,100
+ACC101412,2023-07-02,12:41,salem,State Highway,Clear,Daylight,Car,Over-speeding,Minor,3,1,31,Male,80
+ACC100313,2023-07-25,N/A,trichy,Rural Road,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,3,2,46,M,40
+ACC100306,09/08/2023,21:28,Chennai,State Highway,Rain,Dark,Truck,Signal Violation,Serious,1,1,43,M,
+ACC100940,2024-05-19,19:31,Chennai,National Highway,Rain,Dark,Truck,Unknown,Serious,1,1,27,M,100
+ACC100129,2024-04-08,16:21,Vellore,National Highway,CLEAR,Daylight,Truck,Wrong-Side Driving,minor,2,2,18,Female,80
+ACC100395,30/09/2024,10:24,Erode,State Highway,Fog,Daylight,Bus,Wrong-Side Driving,Minor,2,0,30,Female,80
+ACC101425,17-Aug-2024,16:06,Coimbatore,National Highway,CLEAR,Daylight,Car,Distracted Driving,Serious,2,1,20,M,100
+ACC100326,2023-06-22,15:11,Coimbatore,National Highway,Cloudy,Daylight,Truck,Distracted Driving,Serious,3,2,51,F,80
+ACC100191,2024-04-05,20:03, Chennai ,National Highway,Clear,Dark,Car,Over-speeding,Fatal,2,1,42,Male,80
+ACC100722,2024-09-08,05:55,Erode,National Highway,Clear,Dark,Two-Wheeler,Distracted Driving,Serious,1,2,34,M,80
+ACC101167,18/10/2023,18:49,Coimbatore,Rural Road,Clear,Dusk/Dawn, Bus ,Poor Road Condition,Minor,3,1,37,M,40
+ACC101064,03/07/2024,19:05,Chennai,Rural Road,CLEAR,Dark,Two-Wheeler,Distracted Driving,Serious,3,3,20,M,40
+ACC100993,11/11/2023,22:12, Coimbatore , State Highway ,Clear,Dark,Auto Rickshaw,Over-speeding,Fatal,1,1,30,Male,
+ACC100920,2024-09-29,09:48,Chennai,State Highway,Fog,Daylight,Two-Wheeler,Over-speeding,Serious,2,1,41,Female,60
+ACC100495,2023-10-29,08:12,Tirunelveli,National Highway,Clear,Daylight,Two-Wheeler,Unknown,Serious,3,2,33,M,100
+ACC101032,17-Jun-2024,08:30,trichy,State Highway,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,2,2,18,M,60
+ACC100867,2024-09-03,16:34,CHENNAI,City Road,Clear,Daylight,Truck,Poor Road Condition, Minor ,2,0,35,Female,40
+ACC100384,24-Jan-2023,23:00,Chennai, Rural Road ,Clear,Dark,Two-Wheeler,Distracted Driving,Minor,2,1,48,Male,60
+ACC101139,29-Jan-2024,13:55,Tirunelveli,City Road,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,2,0,39,M,40
+ACC100652,28-May-2023,22:15,Coimbatore,State Highway,Rain,Dark,Car,Over-speeding,Minor,2,1,18,M,60
+ACC101278,2023-01-06,15:42,Coimbatore,City Road,Rain,Daylight,Auto Rickshaw,Over-speeding,Serious,2,2,55,M,50
+ACC100397,24/05/2023,19:34,Chennai,State Highway,Clear,Dark,Two-Wheeler,Signal Violation,Minor,3,0,43,Male,80
+ACC100946,11-Dec-2024,07:40,Chennai,City Road,Rain,Daylight,Car,Poor Road Condition,minor,1,,21,Male,
+ACC101152,2023-11-11,20:03,Coimbatore,City Road,Cloudy,Dark,PEDESTRIAN INVOLVED,Over-speeding,Serious,2,3,35,M,40
+ACC100589,2024-09-07,11:31,Coimbatore,National Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Fatal,2,3,18,Male,80
+ACC100724,2024-07-27,15:31,Tirunelveli,State Highway,clear,Daylight,Two-Wheeler,Distracted Driving,Minor,3,1,33,M,80
+ACC100532,24-Apr-2023,12:21,Madurai,National Highway,Rain,Daylight,Car,Signal Violation,Serious,1,1,35,M,100
+ACC100762,2024-11-23,17:35,Chennai,National Highway,Cloudy,Daylight,Truck,Wrong-Side Driving,Minor,3,1,47,F,80
+ACC100161,2024-04-29,20:34,Vellore,Rural Road,Rain,Dark,Pedestrian Involved,Signal Violation,Serious,2,,unknown,M,40
+ACC101288,2023-03-16,16:32,Vellore,City Road,Rain,Daylight,Two-Wheeler,Distracted Driving,Minor,4,2,38,,40
+ACC101103,2023-04-20,18:29,Coimbatore,Rural Road,clear,Dusk/Dawn,Pedestrian Involved,Poor Road Condition,Serious,1,1,27,Male,40
+ACC100936,2023-04-26,14:24,Coimbatore,City Road,Cloudy,Daylight,Car,Over-speeding,Serious,2,1,47,M,40
+ACC101039,26/08/2024,04:59,Tirunelveli,National Highway,Cloudy,Dark,Two-Wheeler,Distracted Driving,Minor,1,1,31,M,80
+ACC101073,19/01/2024,16:41,Chennai,Rural Road,Clear,Daylight,Two-Wheeler,Poor Road Condition,Minor,2,0,42,Male,40
+ACC101312,2024-07-23,14:17,Chennai,City Road,Clear,Daylight,Car,Distracted Driving,Minor,1,0,42,M,50
+ACC100020,01-Jan-2024,08:59,Coimbatore,National Highway,Cloudy,Daylight,Two-Wheeler,Over-speeding,Minor,2,1,26,Male,80
+ACC100569,2024-02-21,20:57,COIMBATORE,State Highway,Cloudy,Dark,Pedestrian Involved,Wrong-Side Driving,Serious,1,1,46,Female,60
+ACC100653,10-Aug-2024,09:41,Chennai,National Highway,Clear,Daylight,Auto Rickshaw,Wrong-Side Driving,Minor,3,2,30,Male,80
+ACC100696,10/06/2024,21:56,Coimbatore,State Highway,Clear,Dark,Car,Distracted Driving,Minor,3,1,46,M,80
+ACC100481,28/08/2024,16:57,SALEM,National Highway,Clear,Daylight,Auto Rickshaw,Drunk Driving,Serious,2,1,20,Male,80
+ACC100033,2024-02-09,16:45,Chennai,state highway,clear,Daylight,Two-Wheeler,Signal Violation,Minor,2,1,-5,Male,80
+ACC101049,2023-03-29,17:45,Salem,State Highway,clear,Daylight,Bus,Wrong-Side Driving, Minor ,1,1,30,Male,80
+ACC100047,2024-10-13,07:50,trichy,National Highway,CLEAR,Daylight,Two-Wheeler,Drunk Driving,FATAL,1,1,30,Male,80
+ACC100029,2023-11-20,20:33,Coimbatore,City Road,Clear,Dark,Two-Wheeler,Over-speeding,Serious,2,1,48,Female,40
+ACC101005,2024-11-03,16:50,Chennai,State Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,2,1,36,Male,80
+ACC101142,10/11/2024,16:40,Chennai,City Road,Fog,Daylight,Two-Wheeler,Drunk Driving,Fatal,2,4,36,M,40
+ACC101174,07-Jan-2023,08:29,Tirunelveli,state highway,Clear,Daylight,Two-Wheeler,Over-speeding,MINOR,2,0,38,Male,60
+ACC101319,2023-10-17,14:34,Coimbatore,State Highway,clear,Daylight,Auto Rickshaw,Drunk Driving,Minor,2,2,40,M,60
+ACC100510,27/12/2024,N/A,Vellore,National Highway,Fog,Dark,Pedestrian Involved,Distracted Driving,Fatal,3,4,unknown,Male,80
+ACC100530,12-Mar-2024,11:19,Chennai,National Highway,Clear,Daylight,Car,Distracted Driving,Minor,2,1,54,Female,80
+ACC100922,22-Nov-2023,N/A,Coimbatore,City Road,Clear,Dark,Bus,Distracted Driving,Minor,2,2,32,Male,40
+ACC100501,2024-04-20,05:02,Madurai,City Road,Clear,Dark,Auto Rickshaw,Wrong-Side Driving,Minor,2,2,23,M,40
+ACC100432,2024-08-25,05:53,Vellore,City Road,Clear,Dark,Two-Wheeler,Distracted Driving,Minor,3,1,27,Male,
+ACC100253,2023-08-29,07:52,Madurai,State Highway,Clear,Daylight,Auto Rickshaw,Poor Road Condition,Minor,4,0,28,M,80
+ACC100774,09-Sep-2024,18:36,Tirunelveli,State Highway,clear,Dusk/Dawn,Two-Wheeler,Poor Road Condition,Minor,2,2,40,M,
+ACC101415,26/07/2024,N/A,Salem,City Road,Cloudy,Daylight,Two-Wheeler,Signal Violation,Minor,3,1,54,Male,50
+ACC101254,2024-04-19,06:08,Tirunelveli,NATIONAL HIGHWAY,Clear,Dusk/Dawn,Two-Wheeler,Wrong-Side Driving,Minor,1,0,48,Male,100
+ACC100779,12/09/2024,09:11,Vellore,City Road,,Daylight,Two-Wheeler,Poor Road Condition,Serious,3,1,34,F,40
+ACC100366,2023-12-09,06:28,Salem,National Highway,Clear,Dusk/Dawn,Two-Wheeler,Wrong-Side Driving,Minor,1,0,44,F,80
+ACC101076,03/06/2024,15:34,Trichy,Rural Road,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,2,0,34,Male,60
+ACC101078,2023-11-01,21:27,Chennai,Rural Road,,Dark,Car,Wrong-Side Driving,Minor,3,2,18,,60
+ACC100680,12-Jun-2024,21:51,Salem,City Road,Rain,Dark,Two-Wheeler,Distracted Driving,Serious,2,2,28,Male,40
+ACC101419,2023-12-14,14:54,Madurai,National Highway,Clear,Daylight,Truck,Wrong-Side Driving,Minor,4,0,35,M,80
+ACC100812,14-May-2024,20:12,Madurai,State Highway,Clear,Dark,Two-Wheeler,Wrong-Side Driving,Minor,2,1,46,Male,
+ACC100735,2024-05-04,03:51,Vellore,City Road,Cloudy,Dark, Two-Wheeler ,Distracted Driving,Serious,2,1,18,Male,50
+ACC101048,2024-05-02,16:13,Coimbatore,City Road,Clear,Daylight,Truck,Signal Violation,Minor,2,0,39,M,40
+ACC100298,2023-07-27,20:23,Madurai,City Road,Clear,Dark,Two-Wheeler,Wrong-Side Driving,Minor,2,2,24,Male,
+ACC100556,2024-06-21,16:56,Madurai,State Highway,Cloudy,Daylight,Car,Drunk Driving,Serious,1,1,58,M,80
+ACC100575,30/09/2023,20:22,COIMBATORE,National Highway,Rain,Dark,Car,Distracted Driving,Serious,1,1,24,M,
+ACC100018,2024-09-05,06:42,Coimbatore,City Road,Rain,Dusk/Dawn,TWO-WHEELER,Wrong-Side Driving,Minor,1,2,49,Male,50
+ACC100572,26/07/2023,00:10,Coimbatore,State Highway,Rain,Dark,Two-Wheeler,Drunk Driving,Serious,1,3,28,,60
+ACC100225,12/08/2023,17:28,Tirunelveli,State Highway,CLEAR,Daylight,Two-Wheeler,Poor Road Condition,Minor,2,2,33,M,
+ACC100599,14/04/2024,06:17,Coimbatore,Rural Road,Clear,Dusk/Dawn,Auto Rickshaw,Distracted Driving,MINOR,3,0,,Male,40
+ACC100419,2024-01-05,05:31,Erode,State Highway,Rain,Dark,Car,Signal Violation,fatal,2,,35,Male,60
+ACC101210,2024-03-31,17:16,Salem,City Road,Clear,Daylight,Bus,Over-speeding, Minor ,2,2,18,F,40
+ACC100218,2023-11-23,16:24,Coimbatore,State Highway,Clear,Daylight,Truck,Poor Road Condition,Serious,2,1,30,Male,80
+ACC100307,2024-02-09,07:53,Chennai,City Road, Cloudy ,Daylight,Two-Wheeler,Signal Violation,Minor,2,1,18,M,50
+ACC100156,2023-04-03,14:07,Chennai,Rural Road,Clear,Daylight,Truck,Distracted Driving,Minor,2,0,47,Male,60
+ACC100171,2023-03-07,20:41,Trichy,State Highway,Clear,Dark,Two-Wheeler,Wrong-Side Driving,Fatal,2,1,41,M,80
+ACC101231,19-Jun-2024,11:07,Chennai,Rural Road,Clear,Daylight,Car,Poor Road Condition,Minor,2,1,45,Male,40
+ACC100705,2024-02-17,05:27,,National Highway,Clear,Dark,TWO-WHEELER,Over-speeding,Fatal,2,2,19,M,100
+ACC100286,28/04/2023,10:33,Trichy,State Highway,Clear,Daylight,Bus,Signal Violation,Minor,2,1,,M,60
+ACC101090,2024-01-03,01:04,chennai,State Highway,Clear,Dark,Car,Wrong-Side Driving,Minor,2,0,30,Male,80
+ACC100453,19-Jan-2023,18:08,Chennai,Rural Road,Clear,Dusk/Dawn,Two-Wheeler,Wrong-Side Driving,Minor,2,,36,M,60
+ACC100335,13/08/2024,N/A,Coimbatore,City Road,Clear,Dusk/Dawn,Two-Wheeler,Poor Road Condition,Minor,2,1,48,M,50
+ACC100071,2023-05-19,16:05,Vellore, Rural Road ,Clear,Daylight,Pedestrian Involved,Drunk Driving,Minor,2,1,26,M,60
+ACC100082,28-Apr-2023,12:09,Trichy,City Road,Rain,Daylight,Two-Wheeler,Over-speeding,Serious,2,2,19,Male,40
+ACC101206,12/01/2024,15:24,Chennai,Rural Road,Clear,Daylight,Two-Wheeler,Unknown,Minor,1,0,18,Male,40
+ACC101495,2023-11-11,07:12,Coimbatore,State Highway,Rain,Daylight,Auto Rickshaw,Signal Violation,Serious,1,2,36,F,60
+ACC100015,2024-07-27,00:47,Salem,State Highway,Clear,Dark,Car,Signal Violation,Serious,1,1,28,Male,80
+ACC100535,2023-04-23,21:13,Tirunelveli,National Highway,Clear,Dark,Auto Rickshaw,Drunk Driving,Serious,3,3,35,M,80
+ACC101243,2023-12-24,04:27,MADURAI,Rural Road,Fog,Dark,Truck,Drunk Driving,Fatal,3,1,35,Male,
+ACC100918,2023-07-05,03:33,Trichy,National Highway,Clear,Dark,Two-Wheeler,Over-speeding,Serious,2,1,26,M,100
+ACC100451,2024-11-06,15:03,Madurai,City Road,Clear,Daylight,Car,Over-speeding,Minor,2,1,40,M,40
+ACC101192,05-May-2023,12:53,Madurai,State Highway,Rain,Daylight,Two-Wheeler,Over-speeding,SERIOUS,1,3,28,Male,60
+ACC100404,2023-12-31,15:11,Erode,City Road,Clear,Daylight,Pedestrian Involved,Unknown,Minor,2,1,20,Male,50
+ACC101440,23-Jul-2024,06:15,chennai,City Road,Cloudy,Dusk/Dawn,Two-Wheeler,Over-speeding,Serious,3,2,34,M,50
+ACC101398,2023-01-19,19:38,Chennai,State Highway,Cloudy,Dark,Two-Wheeler,Signal Violation,Minor,3,2,unknown,Male,80
+ACC100739,2024-10-17,14:54,Madurai,City Road,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,2,2,52,Male,40
+ACC100364,26-Mar-2023,23:52,COIMBATORE,City Road,Cloudy,Dark,Truck,Poor Road Condition,Minor,2,2,33,Male,50
+ACC100104,2024-08-04,08:12,trichy,City Road,,Daylight,Auto Rickshaw,Wrong-Side Driving,MINOR,2,2,25,F,50
+ACC101460,30/07/2024,23:10,Coimbatore,National Highway,Clear,Dark,Two-Wheeler,Signal Violation,SERIOUS,2,2,55,M,80
+ACC101285,2023-02-05,19:37,Chennai,City Road,Cloudy,Dark,Two-Wheeler,Over-speeding,Serious,2,2,,F,40
+ACC100661,20/06/2024,N/A,Erode,Rural Road,,Dark,Car,Poor Road Condition, Minor ,2,2,24,M,40
+ACC100241,02/03/2024,18:27,Madurai,National Highway,Clear,Dusk/Dawn,Car,Distracted Driving,Serious,1,1,57,Male,100
+ACC100430,03-Mar-2023,18:00,Madurai,City Road,Clear,Dusk/Dawn,Two-Wheeler,Unknown,Minor,1,1,29,M,50
+ACC100814,21-Jul-2024,19:24,Coimbatore,State Highway,Clear,Dark,Two-Wheeler,Signal Violation,Minor,2,1,30,Male,60
+ACC100630,2024-06-21,12:19,Chennai,National Highway,Rain,Daylight,Bus,Poor Road Condition,Serious,3,2,18,M,100
+ACC100096,2023-06-24,12:53,chennai,State Highway,Clear,Daylight, Two-Wheeler ,Distracted Driving,Minor,1,1,28,Female,60
+ACC100467,2024-03-11,16:20,Coimbatore,State Highway,Rain,Daylight,AUTO RICKSHAW,Wrong-Side Driving,minor,3,0,,Male,60
+ACC101190,31-Oct-2023,08:22,Chennai,State Highway,Clear,Daylight,Car,Signal Violation,Minor,1,0,26,M,80
+ACC100084,04/04/2024,18:35,Salem,City Road,Clear,Dusk/Dawn,Car,Over-speeding,Serious,3,3,29,Male,40
+ACC100701,2024-03-25,17:24,Chennai,National Highway, Rain ,Daylight,pedestrian involved,Over-speeding,Fatal,3,2,35,Male,
+ACC100009,2023-03-10,13:57,Salem,State Highway,Cloudy,Daylight,Car,Over-speeding,Minor,2,1,40,M,60
+ACC100604,26-Aug-2024,20:06,Vellore,City Road,Rain,Dark,Bus,Over-speeding,Fatal,1,3,36,M,50
+ACC100878,2024-02-05,07:29,Chennai,National Highway,Rain,Daylight,Two-Wheeler,Over-speeding,Serious,1,2,52,Male,80
+ACC100773,07-Jun-2024,19:27,Tirunelveli,Rural Road,Cloudy,Dark,TRUCK,Distracted Driving,Serious,4,1,24,M,60
+ACC101162,11/09/2024,21:51,Erode,State Highway,Rain,Dark,Pedestrian Involved,Drunk Driving,Fatal,2,2,51,M,60
+ACC100276,07/12/2023,22:20,Madurai,State Highway,Clear,Dark,Two-Wheeler,Signal Violation,Serious,2,1,18,Male,80
+ACC100088,2024-07-14,12:36,Madurai,City Road,Clear,Daylight,CAR,Distracted Driving,Minor,1,0,,M,50
+ACC100090,14-Nov-2023,00:41,Erode,National Highway,Clear,Dark,Two-Wheeler,Wrong-Side Driving,Serious,3,2,29,,80
+ACC100765,2024-07-23,09:53,Tirunelveli,National Highway,Rain,Daylight,Pedestrian Involved,Distracted Driving,Serious,2,3,24,M,100
+ACC100280,21-Jul-2023,16:50,trichy,State Highway,Fog,Daylight,Truck,Signal Violation,Minor,1,0,32,Male,60
+ACC101007,2024-01-03,22:04,Chennai,State Highway,Clear,Dark,Two-Wheeler,Signal Violation,Serious,1,,33,Male,80
+ACC100651,2024-04-21,04:37,CHENNAI,National Highway,Cloudy,Dark,CAR,Poor Road Condition,SERIOUS,1,2,32,M,80
+ACC100992,24-May-2023,01:10,Chennai,National Highway,Cloudy,Dark,Two-Wheeler,Drunk Driving,Fatal,3,2,25,M,100
+ACC100365,2024-01-14,04:35,Coimbatore,National Highway,Clear,Dark,Car,Over-speeding,Fatal,2,3,46,M,100
+ACC100023,2024-11-07,20:59,Madurai,RURAL ROAD,Cloudy,Dark,Two-Wheeler,Distracted Driving,Serious,1,3,30,M,40
+ACC100676,2024-02-28,05:12,Coimbatore,National Highway,Clear,Dark,Car,Distracted Driving,Serious,2,1,18,M,100
+ACC100998,03-Dec-2024,14:59,Coimbatore,National Highway,Cloudy,Daylight,car,Drunk Driving,Minor,3,2,38,F,100
+ACC101189,2023-01-06,02:12,Madurai,Rural Road,Rain,Dark,truck,Over-speeding,Fatal,3,2,42,M,60
+ACC100310,2024-05-01,22:12,Vellore,State Highway,Clear,Dark,Two-Wheeler,Over-speeding,Serious,2,3,,Female,80
+ACC101060,2024-07-16,08:28,Vellore,RURAL ROAD,Clear,Daylight,Two-Wheeler,Signal Violation,Minor,2,1,18,Male,40
+ACC100640,04/05/2024,21:22,Chennai,City Road,Clear,Dark,Two-Wheeler,Wrong-Side Driving,Minor,2,1,31,Male,40
+ACC100240,13-Apr-2023,17:15,Erode,National Highway,Rain,Daylight,CAR,Over-speeding,Serious,1,3,32,M,100
+ACC100666,03-Jan-2024,15:43,Chennai,State Highway,,Daylight,Bus,Signal Violation,Serious,2,3,23,Male,60
+ACC101343,2024-02-24,N/A,Chennai,City Road,Clear,Daylight,Car,Signal Violation,Minor,2,,35,Male,40
+ACC100098,2024-04-09,07:57,Chennai,State Highway,Rain,Daylight,TWO-WHEELER,Distracted Driving,Minor,2,2,32,M,60
+ACC100167,2023-05-02,06:08,Chennai,State Highway,Clear,Dusk/Dawn,TWO-WHEELER,Over-speeding,Minor,1,1,22,M,80
+ACC100496,28/03/2023,17:44,Salem,National Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Serious,1,3,20,Male,100
+ACC100275,19/12/2023,09:02,Tirunelveli,national highway,Rain,Daylight,Car,Over-speeding,Serious,2,1,53,M,100
+ACC101113,2023-08-02,N/A,Madurai,City Road, Clear ,Daylight,Two-Wheeler,Signal Violation,minor,2,2,27,Male,
+ACC100714,2024-11-02,17:48,erode,state highway, Rain ,Daylight,Two-Wheeler,Over-speeding,Serious,2,2,18,Male,60
+ACC101310,2024-01-18,22:40,Madurai,STATE HIGHWAY,Clear,Dark,Truck,Over-speeding,Fatal,2,2,35,M,60
+ACC100331,28-Sep-2023,N/A,Chennai,National Highway,Cloudy,Dark,Bus,Over-speeding,Fatal,1,3,30,Male,100
+ACC100219,2024-10-20,08:09,Coimbatore,National Highway,Clear,Daylight,Car,Over-speeding,Minor,1,2,19,M,100
+ACC100433,2023-04-06,07:49,Chennai,National Highway,Cloudy,Daylight,TWO-WHEELER,Distracted Driving,Serious,1,3,48,M,80
+ACC100561,01/02/2023,21:37,Madurai,National Highway, Clear ,Dark,Two-Wheeler,Over-speeding,Serious,1,3,46,M,80
+ACC101333,2024-08-12,07:14,Madurai,City Road,Rain,Daylight,car,Over-speeding,Serious,2,3,47,Male,50
+ACC100486,01-Sep-2023,08:57,Tiruchirappalli,City Road,Clear,Daylight,Pedestrian Involved,Wrong-Side Driving,Minor,3,0,41,M,
+ACC100531,2023-05-01,12:50,Chennai,Rural Road,Cloudy,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,2,1,30,M,60
+ACC101352,2023-12-28,19:15,Trichy,National Highway,Cloudy,Dark,Two-Wheeler,Distracted Driving,Serious,1,2,41,M,100
+ACC100260,02-Aug-2024,17:58,Chennai, State Highway ,Cloudy,Daylight,Two-Wheeler,Signal Violation,Minor,1,0,37,Male,60
+ACC100810,02/02/2023,23:54,Madurai,State Highway,Clear,Dark,Auto Rickshaw,Over-speeding,Fatal,3,2,23,M,80
+ACC100305,13-Apr-2023,18:45,chennai,City Road,Clear,Dusk/Dawn,Bus,Distracted Driving,Minor,3,0,26,F,40
+ACC101315,2023-08-07,21:03,Tiruchirappalli,City Road,Clear,Dark,Two-Wheeler,Signal Violation,Minor,1,0,23,Male,50
+ACC100196,2023-09-08,18:04,Madurai,State Highway,,Dusk/Dawn,Two-Wheeler,Distracted Driving,SERIOUS,2,1,31,F,60
+ACC101164,13/01/2024,07:32,Tiruchirappalli,National Highway,Cloudy,Daylight,Two-Wheeler,Over-speeding, Serious ,3,1,25,M,100
+ACC101146,23/01/2024,17:52,Chennai,City Road,Clear,Daylight,Bus,Over-speeding,Minor,1,2,30,M,40
+ACC100494,31/07/2023,11:38,Chennai,City Road,Cloudy,Daylight,Two-Wheeler,Over-speeding,Minor,2,2,unknown,Male,50
+ACC100110,22-Jul-2023,18:05,Coimbatore,Rural Road,Clear,Dusk/Dawn,Truck,Signal Violation,minor,1,0,33,,60
+ACC101108,2024-11-17,N/A,Erode,State Highway,Clear,Daylight,Two-Wheeler,Signal Violation,Minor,3,2,31,Female,60
+ACC100513,19-Aug-2024,22:56,Vellore,City Road,Fog,Dark,Two-Wheeler,Poor Road Condition,serious,2,2,41,Male,40
+ACC100691,2024-08-03,03:54,Tiruchirappalli,City Road,Clear,Dark,Auto Rickshaw,Over-speeding,Minor,2,2,18,M,40
+ACC100369,17-Jul-2024,20:41,Madurai,City Road,Rain,Dark,Bus,Poor Road Condition,Minor,2,2,unknown,M,50
+ACC100793,2024-08-25,07:43,Chennai,City Road,Rain,Daylight,Two-Wheeler,Over-speeding,Minor,2,2,19,Male,50
+ACC101098,2023-01-31,12:45,trichy,City Road,Clear,Daylight,Car,Over-speeding,Serious,1,1,41,M,40
+ACC100926,31/01/2024,18:49,Madurai,Rural Road,,Dusk/Dawn,Truck,Wrong-Side Driving,Serious,1,1,31,Male,60
+ACC100273,30-Nov-2024,15:59,,state highway,Clear,Daylight,Pedestrian Involved,Wrong-Side Driving,Serious,3,3,unknown,M,80
+ACC100396,2023-02-02,18:51,Chennai,National Highway,Fog,Dusk/Dawn,Car,Distracted Driving,Minor,2,2,31,M,100
+ACC101178,09/07/2023,00:36,Tiruchirappalli,City Road,Cloudy,Dark,Truck,Over-speeding,Minor,3,1,48,F,40
+ACC101179,2023-01-19,13:02,Erode,State Highway,,Daylight,Bus,Wrong-Side Driving,Serious,1,2,40,Male,
+ACC101215,2023-03-25,04:25,Chennai,National Highway,Clear,Dark,Two-Wheeler,Distracted Driving,Serious,4,3,31,M,100
+ACC100797,01-Dec-2023,18:39,SALEM,National Highway,Clear,Dusk/Dawn, Two-Wheeler ,Over-speeding,Fatal,3,2,48,M,100
+ACC101211,24-Jul-2024,12:56,Coimbatore,City Road,Fog,Daylight,Two-Wheeler,Drunk Driving,Serious,1,2,22,M,50
+ACC101074,2023-12-07,18:42,Chennai,State Highway,FOG,Dusk/Dawn,Pedestrian Involved,Over-speeding,Fatal,2,2,18,Male,60
+ACC101062,16-Apr-2023,18:47,chennai,National Highway,Clear,Dusk/Dawn,Auto Rickshaw,Poor Road Condition,Minor,1,2,60,M,100
+ACC100961,2023-10-26,11:00,Chennai,National Highway, Clear ,Daylight,Bus,Distracted Driving,Minor,1,2,24,M,80
+ACC100418,2023-08-05,19:50,Chennai,Rural Road,Cloudy,Dark,Auto Rickshaw,Distracted Driving,Minor,2,1,18,Male,60
+ACC101232,09/12/2024,20:50,,City Road,Clear,Dark,Two-Wheeler,Drunk Driving,Serious,1,1,40,Male,50
+ACC100375,10/03/2023,16:39,Coimbatore,City Road,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,2,0,31,F,50
+ACC100463,02/11/2023,11:14,Coimbatore,National Highway,Clear,Daylight,Bus,Over-speeding,Fatal,1,2,43,M,80
+ACC100470,2024-06-22,00:51,Coimbatore,city road,Clear,Dark,Car,Wrong-Side Driving,Minor,1,1,33,F,50
+ACC101099,13/11/2023,N/A,Erode,State Highway,Clear,Dark,Two-Wheeler,Over-speeding,Serious,1,1,42,M,60
+ACC101272,11/11/2024,00:24, Tirunelveli ,National Highway,Clear,Dark,Bus,Distracted Driving,Serious,1,3,35,M,100
+ACC100559,2024-09-13,22:37,Madurai,National Highway,Clear,Dark,Auto Rickshaw,Wrong-Side Driving,SERIOUS,2,2,-5,M,100
+ACC100302,2023-01-08,09:13,Chennai,National Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Serious,3,3,18,M,80
+ACC100582,19/03/2023,15:00,Coimbatore,State Highway,Rain,Daylight,Two-Wheeler,Over-speeding,Minor,2,0,26,M,60
+ACC101269,2023-02-05,11:32,Salem,City Road,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,1,2,48,Male,50
+ACC100798,2023-08-19,09:10,Coimbatore,National Highway,Rain,Daylight,Two-Wheeler,Over-speeding,Serious,1,3,54,F,80
+ACC100011,2024-12-13,07:31,Erode,State Highway,Rain,Daylight,Car,Wrong-Side Driving,Serious,2,2,27,M,60
+ACC101413,2024-08-01,12:09,Chennai, National Highway ,Rain,Daylight,TWO-WHEELER,Distracted Driving, Serious ,3,,31,,80
+ACC100538,2024-01-30,13:59,Chennai, Rural Road ,Clear,Daylight,two-wheeler,Wrong-Side Driving,Minor,3,2,20,M,
+ACC100627,2023-09-26,20:30,Tiruchirappalli,National Highway,rain,Dark,Bus,Drunk Driving,FATAL,1,4,31,Male,80
+ACC100281,2023-12-22,18:35,Chennai,Rural Road,Clear,Dusk/Dawn,TWO-WHEELER,Signal Violation, Minor ,4,0,30,F,60
+ACC101277,2024-07-18,11:06,Erode,State Highway,Rain,Daylight,Truck,Distracted Driving,Serious,3,3,24,M,80
+ACC100983,2024-04-18,08:50,Chennai,State Highway,Fog,Daylight,Car,Distracted Driving,Serious,2,1,31,Male,80
+ACC100895,22/03/2024,13:01,Trichy,State Highway,Clear,Daylight,Car,Poor Road Condition,Minor,2,1,28,Male,60
+ACC100223,28/05/2023,21:03,Salem,City Road,Clear,Dark,Two-Wheeler,Wrong-Side Driving,Minor,4,1,37,M,40
+ACC100672,09/04/2024,13:52,Coimbatore,City Road,Clear,Daylight,Car,Signal Violation,Minor,1,1,36,Male,40
+ACC101243,2023-12-24,04:27,MADURAI,Rural Road,Fog,Dark,Truck,Drunk Driving,Fatal,3,1,35,Male,
+ACC100966,2024-03-15,10:02,Madurai,City Road,Clear,Daylight,Two-Wheeler,Drunk Driving,Minor,1,2,unknown,M,40
+ACC101149,2024-09-13,N/A,coimbatore,National Highway,Rain,Dark,Bus,Wrong-Side Driving,Fatal,2,4,18,Male,80
+ACC101093,14-Oct-2023,21:37,Chennai,National Highway,Fog,Dark,Car,Wrong-Side Driving,Serious,1,,31,Male,100
+ACC101211,24-Jul-2024,12:56,Coimbatore,City Road,Fog,Daylight,Two-Wheeler,Drunk Driving,Serious,1,2,22,M,50
+ACC100994,2024-01-22,18:46,Chennai,Rural Road,,Dusk/Dawn,Car,Drunk Driving,Fatal,3,4,47,Male,60
+ACC100580,2023-03-10,19:18,Salem,National Highway,,Dark,Two-Wheeler,Wrong-Side Driving,Fatal,2,1,43,M,80
+ACC101045,2023-04-23,N/A,Chennai,national highway,Cloudy,Daylight,Car,Distracted Driving,Minor,2,2,38,M,80
+ACC100077,2023-06-15,08:11,trichy,National Highway,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,Serious,2,3,36,M,80
+ACC100547,2024-03-07,07:37,Vellore,City Road,Rain,Daylight,Pedestrian Involved,Wrong-Side Driving,SERIOUS,2,3,29,Male,50
+ACC100460,2024-06-12,18:22, Madurai ,National Highway,Clear,Dusk/Dawn,Two-Wheeler,Signal Violation,MINOR,4,2,39,Male,100
+ACC100748,2023-08-17,10:54,Coimbatore,National Highway,Clear,Daylight,Two-Wheeler,Poor Road Condition,Serious,3,1,24,Male,80
+ACC100826,11-May-2024,19:33,Chennai,City Road,CLEAR,Dark,Bus,Signal Violation,Fatal,1,2,20,Male,40
+ACC100125,17/02/2024,20:23,Chennai,City Road,Clear,Dark,Two-Wheeler,Signal Violation,Minor,2,1,55,M,50
+ACC101252,24/02/2023,22:07,Chennai,City Road,Cloudy,Dark,Truck,Signal Violation,Minor,2,0,42,Male,50
+ACC100757,07/10/2023,13:17,Chennai,State Highway,Cloudy,Daylight,two-wheeler,Distracted Driving,minor,3,1,51,Male,60
+ACC101066,2024-11-06,19:13,Coimbatore,City Road,Rain,Dark,Auto Rickshaw,Drunk Driving,Fatal,1,3,53,Male,40
+ACC100576,2024-11-06,11:19,Tirunelveli,State Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Serious,1,1,,M,60
+ACC100621,15/12/2023,22:37,Chennai,State Highway,Clear,Dark,Car,Wrong-Side Driving,Minor,2,2,39,M,80
+ACC100767,2023-12-16,N/A,Coimbatore,Rural Road,Clear,Dark,Two-Wheeler,Wrong-Side Driving,Serious,3,3,,M,60
+ACC101229,2023-07-30,N/A,Chennai,National Highway,Cloudy,Daylight,Two-Wheeler,Drunk Driving,Serious,2,1,22,M,100
+ACC100484,2023-12-04,08:11,SALEM,State Highway,Cloudy,Daylight,Truck,Poor Road Condition, Serious ,2,1,32,F,60
+ACC101030,22-Dec-2023,07:35,Madurai,State Highway,Clear,Daylight,Bus,Distracted Driving,MINOR,2,1,40,M,80
+ACC101414,03/03/2024,20:31,Chennai,National Highway, Rain ,Dark,Car,Over-speeding,Fatal,2,3,43,Male,80
+ACC100802,2024-01-12,09:10,Coimbatore,City Road,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,2,2,39,M,50
+ACC100844,04/01/2023,19:17,Vellore,National Highway,Rain,Dark,Truck,Over-speeding,Serious,2,1,32,M,80
+ACC101322,06-Feb-2024,09:52,Trichy,City Road,Clear,Daylight,Bus,Over-speeding,Serious,1,1,34,Male,40
+ACC101199,2024-03-28,21:22, Chennai ,National Highway,Rain,Dark,Two-Wheeler,Poor Road Condition,serious,2,3,27,Male,100
+ACC101344,2023-05-17,20:52,,State Highway,Clear,Dark,Truck,Drunk Driving,Serious,1,1,34,Male,60
+ACC100259,04/03/2024,13:41,Chennai,Rural Road,Clear,Daylight,Car,Drunk Driving,Serious,1,3,35,Male,60
+ACC100282,04/05/2024,14:20,Chennai,Rural Road,Clear,Daylight,Car,Distracted Driving,Minor,4,0,26,M,60
+ACC100634,14/05/2023,22:43,trichy,Rural Road,Fog,Dark,Two-Wheeler,Wrong-Side Driving, Minor ,2,1,33,M,40
+ACC101473,01/06/2023,07:03,Chennai,RURAL ROAD,Clear,Daylight,Two-Wheeler,Poor Road Condition,Minor,4,2,27,Male,40
+ACC100474,08/04/2024,07:48,Madurai,City Road,Clear,Daylight,TRUCK,Drunk Driving,Fatal,2,3,18,M,50
+ACC100455,2024-02-10,03:11,Tirunelveli,National Highway,Rain,Dark,bus,Over-speeding,Fatal,2,3,unknown,M,100
+ACC100320,23/08/2023,20:32,Chennai,City Road,Clear,Dark,Bus,Poor Road Condition,Minor,2,1,40,,50
+ACC100434,2023-11-13,07:22,Chennai,CITY ROAD,Rain,Daylight,Car,Poor Road Condition,Minor,2,1,27,M,40
+ACC101038,15-Nov-2023,20:48,Coimbatore,State Highway,Cloudy,Dark,Two-Wheeler,Distracted Driving,Minor,1,,36,M,60
+ACC100299,2023-01-16,08:33,Chennai,City Road,Cloudy,Daylight,Two-Wheeler,Over-speeding,Minor,1,1,44,M,40
+ACC100436,2024-02-19,12:57,Coimbatore,STATE HIGHWAY,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,1,1,51,Male,80
+ACC101426,05/05/2024,12:44,CHENNAI,City Road,,Daylight,Truck,Over-speeding,Minor,2,0,35,M,40
+ACC100438,2023-03-01,06:17,Chennai,City Road,Cloudy,Dusk/Dawn,two-wheeler,Distracted Driving,Minor,2,2,45,M,40
+ACC100325,18/06/2023,10:25,Tirunelveli,State Highway,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,1,0,28,M,80
+ACC100403,2024-12-10,07:43,Erode,Rural Road,Clear,Daylight,Bus,Distracted Driving,Minor,1,1,37,M,60
+ACC101289,2024-03-29,19:59,Tiruchirappalli,State Highway,Clear,Dark,Truck,Over-speeding,FATAL,1,4,40,Male,80
+ACC100564,2024-10-11,02:30,Vellore,Rural Road,Clear,Dark,Auto Rickshaw,Wrong-Side Driving,Minor,2,0,56,F,40
+ACC100292,27-Nov-2024,17:58,Madurai,NATIONAL HIGHWAY,Cloudy,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,2,2,20,Male,80
+ACC100278,17/02/2023,18:06,Coimbatore,National Highway,Rain,Dusk/Dawn,Two-Wheeler,Over-speeding,Minor,2,1,50,Female,100
+ACC100655,24/01/2024,09:51,Chennai,National Highway,CLEAR,Daylight,Pedestrian Involved,Poor Road Condition,Minor,1,1,53,M,80
+ACC101362,14-Sep-2023,07:34,Trichy,City Road,Cloudy,Daylight,Auto Rickshaw,Over-speeding,Minor,2,1,35,Male,50
+ACC100732,03-Nov-2024,16:17,Madurai,State Highway,cloudy,Daylight,Auto Rickshaw,Signal Violation,MINOR,3,2,23,M,80
+ACC100553,21/08/2023,08:54,Madurai,National Highway,Clear,Daylight,Bus,Over-speeding,Serious,2,3,37,F,100
+ACC100094,2024-10-17,05:37,Madurai,National Highway,Cloudy,Dark,car,Over-speeding,Serious,2,1,18,Male,100
+ACC101477,2023-10-15,04:09,Chennai,State Highway, Clear ,Dark,auto rickshaw,Drunk Driving,Serious,1,2,48,F,80
+ACC101255,03/03/2023,20:24,Chennai,City Road,Clear,Dark,Two-Wheeler,Over-speeding,Fatal,2,1,28,M,40
+ACC100245,2023-03-03,13:18,Madurai,National Highway, Clear ,Daylight,Car,Distracted Driving,Minor,1,1,27,Male,100
+ACC100945,2023-03-29,15:21,Erode,National Highway, Fog ,Daylight,Two-Wheeler,Over-speeding,serious,2,2,23,Male,100
+ACC101191,2023-07-22,13:35,Salem,National Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Serious,2,1,18,M,100
+ACC100775,25/11/2024,07:12,Madurai,city road,Clear,Daylight,Two-Wheeler,Over-speeding,MINOR,1,0,43,Male,50
+ACC100426,22/09/2024,13:23,Chennai,national highway,Clear,Daylight,Two-Wheeler,Over-speeding, Serious ,2,,,Female,100
+ACC101186,2023-04-14,14:45,Chennai,National Highway,Clear,Daylight,Truck,Distracted Driving,Minor,2,1,49,Male,80
+ACC100149,2023-02-12,15:15,Chennai,State Highway,Rain,Daylight,Bus,Over-speeding,Fatal,2,4,unknown,Male,80
+ACC100226,2024-08-13,13:05,Trichy,City Road,CLEAR,Daylight,Two-Wheeler,Signal Violation,Minor,2,0,25,Male,40
+ACC100865,24-May-2024,08:09,Coimbatore,Rural Road,Clear,Daylight, Pedestrian Involved ,Drunk Driving,Minor,1,1,31,Female,60
+ACC100967,2023-08-20,17:20,Chennai,National Highway,Clear,Daylight,Car,Wrong-Side Driving,SERIOUS,1,3,58,Male,80
+ACC101118,2024-06-11,15:54,,City Road,CLEAR,Daylight,Two-Wheeler,Distracted Driving,Minor,1,1,18,M,
+ACC101245,20/12/2024,18:01,Chennai,national highway,Cloudy,Dusk/Dawn,Two-Wheeler,Poor Road Condition,Minor,3,1,33,M,80
+ACC100900,04-Jan-2023,08:51,Chennai,City Road,Clear,Daylight,Car,Over-speeding,Minor,1,1,29,M,50
+ACC100699,11/03/2023,07:57,Coimbatore,State Highway,Rain,Daylight,Two-Wheeler,Over-speeding,Minor,2,2,34,Female,80
+ACC100601,22/07/2024,19:32,Chennai,National Highway,Clear,Dark,Two-Wheeler,Over-speeding,Serious,2,1,21,Male,100
+ACC101291,2024-09-18,19:05,CHENNAI,City Road,Clear,Dark,Auto Rickshaw,Poor Road Condition,Serious,2,2,26,M,40
+ACC101058,06-Nov-2023,12:31,coimbatore,City Road,Rain,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,2,1,33,M,40
+ACC100217,12/03/2023,07:59,Chennai,City Road,Rain,Daylight,Truck,Signal Violation,Minor,2,1,29,Female,50
+ACC101096,01-Sep-2024,10:32,trichy,Rural Road,Clear,Daylight,Bus,Unknown,Minor,1,2,46,Male,60
+ACC100817,2023-03-19,00:06,CHENNAI,Rural Road,Clear,Dark,Auto Rickshaw,Over-speeding,Minor,2,0,37,Male,60
+ACC100220,04/04/2023,08:34,Chennai,State Highway,CLEAR,Daylight,Two-Wheeler,Signal Violation,Minor,2,0,52,Male,80
+ACC100213,2023-11-25,06:29,trichy,RURAL ROAD,Rain,Dusk/Dawn,Two-Wheeler,Over-speeding,Minor,3,1,37,Male,40
+ACC101452,07/02/2023,20:11,Trichy,State Highway,,Dark,Two-Wheeler,Poor Road Condition,Minor,2,1,30,M,60
+ACC100907,2023-05-07,20:48,Erode,National Highway,Fog,Dark,Bus,Poor Road Condition,Serious,2,2,18,M,80
+ACC100394,09/06/2024,12:28,Salem,City Road,Rain,Daylight,Two-Wheeler,Poor Road Condition,Minor,3,0,43,M,40
+ACC100367,2023-08-19,19:19,trichy,National Highway,Clear,Dark,Two-Wheeler,Poor Road Condition,Minor,1,1,18,Male,80
+ACC100924,01/07/2023,19:18,Chennai,Rural Road,Clear,Dark,Two-Wheeler,Over-speeding, Serious ,2,2,24,M,
+ACC100012,2024-06-21,03:07,Salem,Rural Road,Clear,Dark,Two-Wheeler,Signal Violation,Serious,4,3,41,M,60
+ACC101442,2024-11-13,18:11,Erode,National Highway,Rain,Dusk/Dawn,Two-Wheeler,Signal Violation,Serious,2,3,31,M,100
+ACC101367,2023-11-27,02:52,trichy,City Road,Fog,Dark, Two-Wheeler ,Drunk Driving,minor,2,2,46,Male,40
+ACC101222,02/12/2024,18:41,Coimbatore,NATIONAL HIGHWAY,Clear,Dusk/Dawn,Truck,Wrong-Side Driving,Minor,1,1,64,M,80
+ACC100234,26/12/2023,07:49,Chennai,Rural Road,Clear,Daylight,Truck,Over-speeding,Fatal,1,2,34,Male,60
+ACC100695,2023-07-04,16:24,Coimbatore,Rural Road,Clear,Daylight,Car,Unknown, Serious ,2,3,47,F,60
+ACC101084,2023-05-27,08:27,Madurai,City Road, Rain ,Daylight,AUTO RICKSHAW,Wrong-Side Driving,Minor,3,2,unknown,Male,50
+ACC101468,2024-07-21,22:11,Vellore,City Road,FOG,Dark,Auto Rickshaw,Distracted Driving,Minor,1,1,18,Male,50
+ACC101388,12-Oct-2024,19:39,Salem,City Road,Clear,Dark,TRUCK,Over-speeding,SERIOUS,3,1,39,F,40
+ACC101321,2023-07-20,13:42,Madurai,City Road,Clear,Daylight,Two-Wheeler,Distracted Driving,Minor,2,0,34,Male,50
+ACC100063,07/12/2024,16:11,Erode,City Road,Clear,Daylight,Car,Poor Road Condition,Minor,2,1,34,M,50
+ACC100734,2023-06-02,17:22,Chennai,City Road,Clear,Daylight,Auto Rickshaw,Over-speeding,Minor,2,2,53,Male,40
+ACC101023,2024-09-06,20:55,Erode,City Road,Clear,Dark,TWO-WHEELER,Signal Violation,Minor,3,2,31,Female,40
+ACC100964,2024-11-23,09:11,Coimbatore,National Highway,Clear,Daylight,Bus,Over-speeding,Serious,3,3,47,,100
+ACC100607,2024-01-11,13:57,Chennai,National Highway,Clear,Daylight,Truck,Distracted Driving,Minor,3,0,57,F,100
+ACC100013,2024-07-09,06:54,Salem,National Highway,Rain,Dusk/Dawn,Bus,Over-speeding,Serious,2,2,29,M,80
+ACC100839,2024-10-26,07:28,Coimbatore,National Highway,Cloudy,Daylight,Truck,Unknown,Minor,1,2,36,M,80
+ACC100435,01/04/2023,19:35,Madurai,National Highway,CLEAR,Dark,Two-Wheeler,Distracted Driving,Serious,2,1,42,M,100
+ACC100017,2023-04-04,01:03,Chennai,National Highway,Fog,Dark,Bus,Drunk Driving,Fatal,2,1,31,Male,100
+ACC100764,21/09/2023,20:49,Chennai,State Highway,Clear,Dark,Bus,Distracted Driving,Serious,2,3,34,M,80
+ACC100348,12-May-2023,20:09,Salem,National Highway,Clear,Dark,Two-Wheeler,Wrong-Side Driving,Minor,2,2,44,Male,80
+ACC100207,2024-12-08,15:32,Chennai, State Highway ,Clear,Daylight,Car,Drunk Driving,Serious,2,2,63,M,80
+ACC101114,2023-05-22,17:34,Salem,City Road,Fog,Daylight,Two-Wheeler,Over-speeding,Minor,1,1,24,M,50
+ACC101331,2024-06-07,07:09,Vellore,National Highway,Cloudy,Daylight,Car,Signal Violation,MINOR,2,2,49,M,100
+ACC100341,2023-08-01,17:07,Tirunelveli,State Highway,Cloudy,Daylight,Two-Wheeler,Over-speeding,Serious,2,1,39,M,80
+ACC100344,23/10/2024,16:45,Madurai,State Highway,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,3,2,22,M,80
+ACC101403,24-Aug-2023,19:46,Chennai,City Road,Clear,Dark,Two-Wheeler,Distracted Driving,minor,1,0,23,Male,40
+ACC101435,2023-03-16,07:17,madurai,City Road,clear,Daylight,Pedestrian Involved,Unknown,Minor,2,0,46,M,50
+ACC100551,15-Oct-2023,16:09,Madurai,State Highway,Clear,Daylight,Truck,Unknown,Minor,1,1,26,Male,80
+ACC100598,2024-04-03,12:56,,City Road,Clear,Daylight,Car,Wrong-Side Driving,Minor,2,2,unknown,M,50
+ACC100032,2023-03-09,13:42,Chennai,City Road,Clear,Daylight,Two-Wheeler,Unknown,Minor,2,0,30,Male,50
+ACC100372,2023-10-27,19:03, Erode ,City Road,Cloudy,Dark,Two-Wheeler,Wrong-Side Driving,Minor,2,2,46,Male,40
+ACC100657,2024-04-07,05:07,Coimbatore,City Road,Cloudy,Dark,Two-Wheeler,Over-speeding,Serious,2,2,46,M,50
+ACC100172,2024-07-17,17:12,SALEM, National Highway ,Clear,Daylight,Auto Rickshaw,Over-speeding,minor,2,2,unknown,M,100
+ACC101086,2024-08-08,00:13,madurai,City Road,Rain,Dark,Two-Wheeler,Wrong-Side Driving,Fatal,2,4,35,Female,40
+ACC101494,27/10/2023,11:07,Chennai,City Road,Cloudy,Daylight,Car,Signal Violation,Minor,2,0,36,Male,50
+ACC100408,2024-11-13,13:47,Madurai,City Road,Rain,Daylight,Car,Wrong-Side Driving,Serious,1,2,34,M,50
+ACC101050,07/01/2024,17:36,Vellore,National Highway,CLOUDY,Daylight,Car,Over-speeding,Minor,3,1,28,F,100
+ACC101489,06-Jan-2024,15:33,Madurai,State Highway,clear,Daylight,Two-Wheeler,Wrong-Side Driving,Serious,4,3,18,M,80
+ACC100200,2023-09-25,15:53,Salem,Rural Road,Clear,Daylight,Two-Wheeler,Over-speeding,Minor,2,2,37,Female,40
+ACC101316,2024-06-02,14:24,Vellore,state highway,cloudy,Daylight,Auto Rickshaw,Drunk Driving,SERIOUS,2,1,62,M,80
+ACC100860,07-Dec-2024,08:39,Madurai,City Road,Clear,Daylight,Two-Wheeler,Over-speeding,Serious,2,1,18,Male,
+ACC101459,12-Jan-2024,05:52,Tirunelveli,State Highway,Rain,Dark,Car,Wrong-Side Driving, Serious ,2,1,27,Male,80
+ACC101165,18/03/2023,07:27,Chennai,City Road,Clear,Daylight,Bus,Signal Violation,minor,1,1,51,M,40
+ACC101437,2024-04-21,16:34,Chennai,State Highway,Clear,Daylight,two-wheeler,Signal Violation,minor,1,1,26,M,60
+ACC101472,2023-11-24,12:29,trichy,State Highway,Clear,Daylight,Truck,Poor Road Condition,Minor,1,2,51,M,60
+ACC101361,19/02/2023,15:35,Madurai,National Highway,Fog,Daylight,Two-Wheeler,Distracted Driving,Minor,1,0,29,M,100
+ACC100489,18/03/2024,06:53,Madurai,National Highway,Cloudy,Dusk/Dawn,Auto Rickshaw,Signal Violation,Serious,1,3,22,Male,100
+ACC101470,2024-10-17,11:44,Erode,State Highway,Clear,Daylight,Auto Rickshaw,Over-speeding,Minor,2,1,33,M,
+ACC100212,2024-07-29,06:53,Tirunelveli,City Road,Clear,Dusk/Dawn,Car,Over-speeding,Minor,1,0,31,Male,40
+ACC100133,2024-02-13,13:10,Chennai,National Highway,Clear,Daylight,Car,Distracted Driving,Minor,2,0,44,F,80
+ACC100060,04-Nov-2024,00:29,Tiruchirappalli,Rural Road,Rain,Dark,Auto Rickshaw,Signal Violation,minor,4,2,35,F,40
+ACC100690,2024-12-28,08:43,Chennai,City Road,Clear,Daylight,bus,Distracted Driving, Minor ,3,0,33,Male,50
+ACC100026,2023-10-21,17:01,Chennai,City Road,Clear,Daylight,Truck,Poor Road Condition,Minor,4,0,29,Male,40
+ACC100100,2024-08-30,07:59,VELLORE,CITY ROAD,Rain,Daylight,Pedestrian Involved,Over-speeding,Serious,2,3,unknown,Male,50
+ACC100974,2023-04-18,14:03,Chennai,City Road,Rain,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,2,0,unknown,Female,50
+ACC100776,06-Nov-2023,11:14,salem, City Road ,Clear,Daylight,Car,Over-speeding,Minor,2,1,63,Male,50
+ACC100788,02/02/2024,19:15,Coimbatore,State Highway,FOG,Dark,Two-Wheeler,Over-speeding,Fatal,2,2,32,Female,60
+ACC100520,19/09/2023,22:52,Madurai,Rural Road,Cloudy,Dark,Two-Wheeler,Signal Violation,Minor,2,1,19,Male,60
+ACC100363,14/10/2024,21:43,Tiruchirappalli,City Road,Clear,Dark,Car,Distracted Driving,Minor,1,2,28,Male,40
+ACC100309,2023-03-21,18:48,Chennai,City Road,Rain,Dusk/Dawn, Two-Wheeler ,Wrong-Side Driving,Serious,1,3,32,Male,40
+ACC100795,2023-08-04,N/A,trichy,City Road,Rain,Daylight,two-wheeler,Distracted Driving,MINOR,2,2,,Male,40
+ACC100828,2024-09-22,23:10,Vellore,State Highway,,Dark,Truck,Distracted Driving,Serious,1,1,50,Male,80
+ACC101276,24/04/2024,19:23,Coimbatore,City Road,,Dark,Car,Poor Road Condition,Minor,2,0,40,M,50
+ACC100544,2024-08-29,10:48,Coimbatore,National Highway,Clear,Daylight,Auto Rickshaw,Distracted Driving,Serious,3,3,28,Male,
+ACC100939,2024-01-07,12:33,Chennai,National Highway,Clear,Daylight,TWO-WHEELER,Wrong-Side Driving,Serious,2,3,33,M,100
+ACC100441,2023-08-08,12:26,Chennai,National Highway,Cloudy,Daylight,Two-Wheeler,Signal Violation,Minor,2,0,42,Male,80
+ACC100647,26/01/2024,21:49,Coimbatore,State Highway, Clear ,Dark,Two-Wheeler,Distracted Driving,serious,1,2,42,Male,80
+ACC101003,2024-10-09,19:43,Chennai,City Road,Clear,Dark,Car,Over-speeding,Minor,1,1,28,Male,40
+ACC100476,2024-09-10,13:34,Tirunelveli,State Highway,Fog,Daylight,Truck,Distracted Driving,fatal,1,1,60,M,60
+ACC101046,24-Jun-2023,16:09,Chennai,Rural Road,Clear,Daylight,Truck,Wrong-Side Driving,Minor,1,1,18,Male,60
+ACC100062,2023-09-25,23:01, Chennai ,National Highway,Clear,Dark,Two-Wheeler,Distracted Driving,Minor,1,0,38,Male,100
+ACC101172,2023-10-13,14:57,Vellore,State Highway,Rain,Daylight,Pedestrian Involved,Signal Violation,Serious,2,1,42,Male,60
+ACC100483,04/08/2024,18:24,Madurai,National Highway,Rain,Dusk/Dawn,Pedestrian Involved,Wrong-Side Driving,Minor,2,1,32,M,100
+ACC101026,2023-02-26,18:35,Trichy,STATE HIGHWAY,Rain,Dusk/Dawn,Truck,Signal Violation,Minor,2,0,23,Male,
+ACC101281,23/06/2024,15:08,Coimbatore,Rural Road,Clear,Daylight,Two-Wheeler,Signal Violation,Minor,1,2,25,Male,40
+ACC100052,2023-09-23,20:05,Tiruchirappalli,National Highway,Cloudy,Dark,Two-Wheeler,Signal Violation,Serious,2,1,39,Male,80
+ACC100242,2023-03-11,19:25,Erode,City Road,CLEAR,Dark,Truck,Over-speeding,Serious,1,2,18,M,40
+ACC101197,2024-12-17,21:46,ERODE,Rural Road,Cloudy,Dark,Two-Wheeler,Wrong-Side Driving,Minor,3,2,47,Male,60
+ACC100035,16-Feb-2023,11:30,Salem,National Highway,Cloudy,Daylight,PEDESTRIAN INVOLVED,Over-speeding,Fatal,2,3,45,Male,80
+ACC101202,19-Dec-2024,19:16,Chennai,National Highway,Clear,Dark,TWO-WHEELER,Drunk Driving,Fatal,2,4,24,Male,100
+ACC100738,2024-06-22,20:54,Tirunelveli, State Highway ,Fog,Dark,Bus,Wrong-Side Driving,Serious,1,1,40,M,80
+ACC100120,17-Nov-2023,18:37,CHENNAI,National Highway,Clear,Dusk/Dawn,Two-Wheeler,Distracted Driving,Minor,2,0,23,M,80
+ACC100075,14-Dec-2023,00:45,Erode,National Highway,CLEAR,Dark,Pedestrian Involved,Over-speeding,Serious,2,2,31,Male,100
+ACC101299,2023-01-22,10:25,Tiruchirappalli,State Highway,Rain,Daylight,Two-Wheeler,Signal Violation,Serious,1,,47,Female,
+ACC101019,2023-03-26,19:31,Salem,City Road,Rain,Dark,Two-Wheeler,Wrong-Side Driving,Serious,3,1,53,Male,50
+ACC100044,2023-02-19,01:26,Salem,State Highway,Clear,Dark,Car,Over-speeding,Minor,1,0,48,,60
+ACC101324,24/09/2024,11:31,Chennai,State Highway,Rain,Daylight,Auto Rickshaw,Over-speeding,Serious,2,,39,Male,80
+ACC100836,13/08/2024,10:44,trichy,City Road,Clear,Daylight,TRUCK,Over-speeding,Minor,2,2,18,M,50
+ACC100076,2023-08-30,16:04,Coimbatore,City Road,Rain,Daylight,Auto Rickshaw,Poor Road Condition,Minor,1,1,43,M,50
+ACC100368,2023-01-17,09:55,Chennai,State Highway,Rain,Daylight,Car,Poor Road Condition,Minor,4,1,52,Male,60
+ACC100906,28/10/2023,08:43,Tirunelveli,state highway,Rain,Daylight,Two-Wheeler,Distracted Driving,Minor,2,1,47,M,60
+ACC101236,04-Jan-2023,08:17,Coimbatore,City Road,Clear,Daylight,Car,Poor Road Condition,Minor,2,1,28,M,50
+ACC100267,2023-09-11,20:00,Salem,City Road,Fog,Dark,Two-Wheeler,Signal Violation,Minor,2,2,39,M,50
+ACC101335,30/12/2024,08:51,Chennai,National Highway,,Daylight,Two-Wheeler,Signal Violation,Serious,2,1,40,M,80
+ACC100728,2023-12-23,N/A,Salem,National Highway,Fog,Daylight,Pedestrian Involved,Distracted Driving,Minor,2,0,54,M,100
+ACC100444,2024-01-07,20:02,erode,State Highway,Clear,Dark,Car,Wrong-Side Driving,Serious,1,1,23,Male,80
+ACC100503,2024-09-25,17:40,trichy,National Highway,Cloudy,Daylight,Two-Wheeler,Over-speeding,Serious,2,3,unknown,Male,100
+ACC101057,17/07/2024,13:15,vellore,State Highway,Clear,Daylight,TRUCK,Drunk Driving,Minor,4,2,19,M,80
+ACC101033,2023-08-18,07:26,Madurai,State Highway,Clear,Daylight,Auto Rickshaw,Over-speeding,Minor,2,2,55,M,
+ACC101184,2023-11-03,18:32,Erode,State Highway,Clear,Dusk/Dawn,Two-Wheeler,Over-speeding,Serious,2,1,18,M,60
+ACC100285,15/11/2024,17:21,Tiruchirappalli,Rural Road,RAIN,Daylight,Pedestrian Involved,Over-speeding,Fatal,1,1,33,Male,40
+ACC100295,16-Jan-2024,10:11,Vellore,National Highway,Fog,Daylight,Truck,Drunk Driving, Fatal ,2,4,37,Male,80
+ACC100625,2023-06-19,05:44,Madurai,National Highway,Cloudy,Dark,Two-Wheeler,Wrong-Side Driving,MINOR,2,1,42,Male,80
+ACC100277,25/07/2024,11:44,Madurai, National Highway ,Rain,Daylight,auto rickshaw,Over-speeding,Serious,2,1,35,M,80
+ACC101490,2023-07-20,09:02,Madurai,National Highway,Cloudy,Daylight,Auto Rickshaw,Over-speeding,Serious,2,3,18,M,80
+ACC100484,2023-12-04,08:11,SALEM,State Highway,Cloudy,Daylight,Truck,Poor Road Condition, Serious ,2,1,32,F,60
+ACC100182,30-Dec-2023,12:41,Madurai,city road,Fog,Daylight,Car,Drunk Driving,Minor,2,1,29,M,50
+ACC100970,2023-08-07,01:35,Vellore,City Road,Fog,Dark,Car,Wrong-Side Driving,Minor,1,0,unknown,M,50
+ACC100808,2023-10-13,17:04,,National Highway,clear,Daylight,Two-Wheeler,Distracted Driving,Serious,2,2,38,M,100
+ACC100684,2023-05-04,08:46,Chennai, National Highway ,Clear,Daylight,Two-Wheeler,Over-speeding,Fatal,2,3,59,Male,80
+ACC101037,2023-01-11,18:50,Tirunelveli,City Road,Rain,Dusk/Dawn,Pedestrian Involved,Wrong-Side Driving, Minor ,2,2,48,Female,50
+ACC100036,18-Sep-2024,19:04,trichy,City Road, Cloudy ,Dark,Car,Signal Violation, Minor ,2,2,31,M,40
+ACC101180,19-Mar-2024,17:11,Salem,Rural Road,Clear,Daylight,Two-Wheeler,Signal Violation,Minor,1,1,-5,M,40
+ACC100002,2024-04-22,08:59, Chennai , City Road ,Rain,Daylight,Two-Wheeler,Distracted Driving,Minor,3,0,26,Male,50
+ACC100754,10/02/2024,19:20,Madurai,City Road,Clear,Dark,Bus,Distracted Driving,Serious,1,2,45,M,40
+ACC100508,2023-07-16,15:42,trichy,City Road,Rain,Daylight,Auto Rickshaw,Wrong-Side Driving,Minor,2,0,29,F,50
+ACC100497,2023-10-01,08:49,Salem,State Highway,Clear,Daylight,Car,Over-speeding,Minor,2,1,52,F,80
+ACC100308,19/08/2023,15:23,Tiruchirappalli,State Highway,Clear,Daylight,Pedestrian Involved,Drunk Driving,Fatal,1,3,28,Male,60
+ACC101313,14/09/2024,05:58,Tirunelveli,City Road,rain,Dark,Pedestrian Involved,Signal Violation,Serious,1,1,34,F,50
+ACC101438,21/08/2023,08:59,,City Road,Clear,Daylight,Car,Signal Violation,Minor,2,2,25,Male,50
+ACC101445,2023-01-27,19:07,Madurai, National Highway ,Rain,Dark,Bus,Over-speeding,Fatal,2,2,22,Male,100
+ACC100141,06/06/2023,22:01,Chennai, National Highway ,Clear,Dark,Auto Rickshaw,Signal Violation,minor,2,1,35,M,80
+ACC101247,06/12/2023,10:14,Chennai,Rural Road,Clear,Daylight,Auto Rickshaw,Drunk Driving, Serious ,1,2,38,M,60
+ACC100864,2024-09-09,19:16, Vellore ,Rural Road,Clear,Dark,Car,Over-speeding,MINOR,3,1,,M,60
+ACC100183,2024-05-23,19:04,Chennai,City Road,Rain,Dark,Auto Rickshaw,Signal Violation,Serious,1,3,41,Male,40
+ACC100692,10/11/2024,07:29,CHENNAI,National Highway, Cloudy ,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,1,0,35,Female,100
+ACC101010,2023-07-16,10:24,Chennai,National Highway,Clear,Daylight,Two-Wheeler,Wrong-Side Driving,Minor,1,0,18,F,100
+ACC100912,2023-10-02,19:30,Erode,STATE HIGHWAY,Rain,Dark,Car,Signal Violation,Serious,1,1,31,,80
+ACC100848,21-Aug-2024,19:18,Chennai,City Road,Clear,Dark,Two-Wheeler,Drunk Driving,Serious,1,1,43,Male,50
+ACC100511,28/06/2024,12:03,salem,State Highway,Clear,Daylight, Bus ,Drunk Driving,Minor,2,1,41,Male,80
+ACC100731,2023-11-02,04:29,Erode,Rural Road,Clear,Dark,Two-Wheeler,Drunk Driving,Minor,2,2,unknown,M,60
+ACC100996,2024-01-20,18:46,Chennai,Rural Road,Rain,Dusk/Dawn,Two-Wheeler,Over-speeding,Serious,1,2,46,M,60
+ACC100887,21/05/2023,21:59,Tirunelveli,National Highway,Clear,Dark,Car,Unknown,Serious,3,2,28,Male,80
+ACC100117,2023-04-13,19:35,trichy,State Highway,Clear,Dark,Bus,Distracted Driving,Serious,3,2,58,M,60
+ACC101025,10-Feb-2023,15:06,vellore,Rural Road,Clear,Daylight,Truck,Over-speeding,Serious,2,3,33,Female,40
+ACC100113,2023-12-02,16:31,trichy,State Highway,Cloudy,Daylight, Two-Wheeler ,Distracted Driving,Minor,1,0,38,F,80
+ACC100545,2023-02-08,11:22,Madurai,Rural Road,cloudy,Daylight,Two-Wheeler,Over-speeding,Serious,1,2,28,Male,40
+ACC100165,17/08/2024,22:49,Salem,State Highway,Rain,Dark,Car,Drunk Driving,Serious,2,2,unknown,Female,80
+ACC100184,28/12/2023,19:31,Chennai,Rural Road,Clear,Dark,Two-Wheeler,Poor Road Condition,Minor,1,0,53,Male,60
+ACC101396,2024-03-28,05:01,Chennai,National Highway,Clear,Dark,Two-Wheeler,Over-speeding,Fatal,1,4,unknown,M,100
+ACC100274,2023-11-02,17:16,Salem,National Highway,Clear,Daylight,Bus,Distracted Driving,Minor,4,1,30,Male,100
+ACC101001,2024-06-21,07:13,Coimbatore, State Highway ,Cloudy,Daylight,Truck,Wrong-Side Driving,Serious,2,2,32,Female,
+ACC100704,2023-04-05,10:31,Chennai,National Highway,Clear,Daylight,Two-Wheeler,Over-speeding,Fatal,1,4,32,M,100
+ACC101024,2024-08-22,17:36, Tirunelveli ,National Highway,,Daylight,Two-Wheeler,Over-speeding,serious,2,3,30,Male,100
+ACC100383,25/06/2023,18:09,Madurai,State Highway,Fog,Dusk/Dawn,Bus,Signal Violation,Minor,1,1,37,Male,80
+ACC101429,2024-07-28,22:15, Chennai ,National Highway,Cloudy,Dark,Two-Wheeler,Distracted Driving,Serious,3,1,28,Male,100
+ACC100561,01/02/2023,21:37,Madurai,National Highway, Clear ,Dark,Two-Wheeler,Over-speeding,Serious,1,3,46,M,80
+ACC100862,29-Mar-2023,19:34,trichy,National Highway,Clear,Dark,Car,Over-speeding,Fatal,1,2,unknown,M,80
+ACC101044,2024-06-01,21:13,Madurai,City Road,Cloudy,Dark, Two-Wheeler ,Drunk Driving,Serious,1,3,49,Male,40
+ACC100176,2024-06-07,07:33,Erode,National Highway,Rain,Daylight,two-wheeler,Distracted Driving,Minor,2,0,27,M,100
+ACC101359,24/09/2023,07:41,Salem,National Highway,Rain,Daylight,Two-Wheeler,Wrong-Side Driving,SERIOUS,2,2,46,Male,100
+ACC100379,11/07/2023,23:45,Vellore,State Highway,Clear,Dark, Pedestrian Involved ,Over-speeding,Fatal,3,4,23,M,80
+ACC101195,07/04/2024,21:03,Madurai,National Highway,,Dark,Car,Signal Violation,Minor,1,1,unknown,Male,80
+ACC101016,2023-10-08,23:31,Chennai,National Highway,clear,Dark,Auto Rickshaw,Wrong-Side Driving, Serious ,1,2,28,M,80
+ACC100519,09/03/2024,14:38,Salem,State Highway,Clear,Daylight,car,Over-speeding,Minor,1,,29,Male,60
+ACC100830,29/06/2023,20:33,Madurai,City Road,Clear,Dark,two-wheeler,Poor Road Condition,Minor,2,1,26,M,50
+ACC100507,2023-06-30,N/A,Tirunelveli,City Road,Clear,Dark,Truck,Over-speeding,Serious,2,2,40,Male,50
+ACC101176,2023-08-20,10:31,trichy,National Highway,Clear,Daylight,Truck,Over-speeding,Serious,3,1,47,,
+ACC100413,07/04/2023,07:36,Chennai,Rural Road,Cloudy,Daylight,Auto Rickshaw,Signal Violation,Minor,2,0,26,Male,60
+ACC100622,2023-05-01,12:36,Madurai,State Highway,Clear,Daylight,Bus,Signal Violation,Fatal,1,3,21,F,60
+ACC100872,2023-03-25,19:21,Chennai,National Highway,Clear,Dark,Two-Wheeler,Wrong-Side Driving,Serious,1,1,26,Male,100
+ACC100858,2024-05-03,12:03,Salem,state highway,Clear,Daylight,Auto Rickshaw,Distracted Driving,Minor,4,1,unknown,M,60
+ACC100641,2024-10-30,19:00, Chennai ,City Road,FOG,Dark,Two-Wheeler,Over-speeding,Serious,2,1,34,Male,50
+ACC101340,25/01/2024,11:46,Chennai,State Highway,,Daylight,Two-Wheeler,Poor Road Condition,Minor,2,0,20,M,60
+ACC100258,08-May-2023,18:27,Madurai,National Highway,Clear,Dusk/Dawn,Two-Wheeler,Drunk Driving,Serious,2,2,18,Female,100
+ACC100834,15-Sep-2024,17:36,COIMBATORE,State Highway,Clear,Daylight,Two-Wheeler,Signal Violation,Minor,1,,30,M,60
+ACC100662,26/01/2023,20:17, Erode ,National Highway,,Dark,two-wheeler,Over-speeding,Fatal,2,3,45,M,100
+ACC101498,08/12/2023,11:45,Erode,Rural Road,Rain,Daylight,Pedestrian Involved,Wrong-Side Driving,Serious,4,1,33,M,40
+ACC100337,20-Aug-2023,19:04,Erode,National Highway,Clear,Dark,bus,Distracted Driving,Serious,1,1,-5,M,80
+ACC101297,2024-05-09,15:37,Trichy,Rural Road,Clear,Daylight,Car,Drunk Driving,Serious,2,,27,Male,40
+ACC100398,2023-07-24,14:45,Salem,Rural Road,Rain,Daylight,Pedestrian Involved,Poor Road Condition,MINOR,1,0,,Male,40
+ACC101447,2024-12-01,15:55,Madurai,City Road,Clear,Daylight,Truck,Unknown,Serious,2,1,40,F,50
+ACC100605,27/01/2024,01:38,Chennai,STATE HIGHWAY,Clear,Dark,Two-Wheeler,Signal Violation,Minor,3,0,26,Male,60
+ACC100480,30/07/2023,08:54,Madurai,Rural Road, Fog ,Daylight,Two-Wheeler,Signal Violation,Minor,1,0,18,Male,40
+ACC101446,15-Nov-2024,04:15,Coimbatore,National Highway,Rain,Dark,TWO-WHEELER,Signal Violation,Minor,3,0,42,Male,80
+ACC101143,08/09/2024,01:40,Coimbatore,State Highway,Clear,Dark,Two-Wheeler,Over-speeding,Minor,2,1,23,F,80
+ACC100917,2024-07-26,08:10,madurai,Rural Road,Rain,Daylight,Auto Rickshaw,Drunk Driving,Serious,2,1,18,Male,40
+ACC101017,2023-12-27,04:40,Madurai,National Highway, Clear ,Dark,Two-Wheeler,Poor Road Condition,Minor,2,2,unknown,M,100
+ACC100875,2024-01-04,18:40,Coimbatore,City Road,Clear,Dusk/Dawn,Car,Drunk Driving,Minor,2,2,29,Female,50
+ACC100659,2023-07-30,18:55,Chennai,State Highway,Clear,Dusk/Dawn,Two-Wheeler,Drunk Driving,Serious,2,3,33,M,80
+ACC101021,2023-02-22,19:39,Chennai,National Highway,Cloudy,Dark,Two-Wheeler,Over-speeding,Serious,1,3,38,Male,80
+ACC100789,2023-01-09,13:17,Salem,City Road,Cloudy,Daylight,Two-Wheeler,Signal Violation,Minor,2,2,34,M,50
+ACC100256,2024-05-09,21:34,Chennai,State Highway, Rain ,Dark,Two-Wheeler,Distracted Driving,Serious,1,3,25,Male,80
+ACC100968,2024-11-02,17:33,Coimbatore,State Highway,Rain,Daylight,Car,Over-speeding,Serious,2,3,37,Male,
+ACC100952,2024-03-24,10:50,Vellore,City Road,clear,Daylight,Two-Wheeler,Poor Road Condition,Minor,2,0,45,Male,50
+ACC101273,2024-05-07,08:01, Erode ,State Highway,Clear,Daylight,Truck,Drunk Driving,Serious,3,1,38,M,60
