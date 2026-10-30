@@ -1,0 +1,14 @@
+Feature,Importance_Mean,Importance_Std
+cause,0.1008,0.0267
+vehicle_type,0.0552,0.0171
+light_condition,0.0515,0.017
+road_type,0.0503,0.0188
+driver_age,0.0452,0.0152
+weather,0.0411,0.0115
+hour,0.03,0.0139
+city,0.0267,0.0103
+month,0.0255,0.0129
+speed_limit,0.0247,0.0143
+num_vehicles,0.0134,0.0081
+is_weekend,0.0124,0.0103
+driver_gender,0.0021,0.0088
